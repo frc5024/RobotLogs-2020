@@ -1,0 +1,9 @@
+[FaultReporter] 5v Rail Disabled
+WARNING: [FaultReporter] 5v Rail fault detected!
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[FaultReporter] 5v Rail Enabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9

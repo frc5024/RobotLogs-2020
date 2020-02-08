@@ -1,0 +1,1 @@
+[FaultReporter] Robot FPGA outputs have been enabled

@@ -1,0 +1,3 @@
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[FaultReporter] Robot FPGA outputs have been enabled
