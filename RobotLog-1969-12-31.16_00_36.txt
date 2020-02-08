@@ -1,0 +1,5 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
