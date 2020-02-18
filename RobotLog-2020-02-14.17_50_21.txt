@@ -1,0 +1,171 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been disabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Freezing system
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] CAN bus TX error
+WARNING: [FaultReporter] CAN bus TX error
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[ShootCells] Shoot action interrupted
+[Hopper] Stopping hopper
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 1.0759m.
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[Shooter] Spinning up to: NaN
+[Hopper] Feeding balls to flywheel
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[ShootCells] Shoot action interrupted
+[Hopper] Stopping hopper
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Hopper] Incrementing ball position
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[ShootCells] Shoot action interrupted
+[Hopper] Stopping hopper
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled

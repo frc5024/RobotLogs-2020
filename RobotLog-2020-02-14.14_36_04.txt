@@ -1,0 +1,3 @@
+[Shooter] System idle
+[FaultReporter] Robot FPGA outputs have been enabled
+[Robot] Teleop started

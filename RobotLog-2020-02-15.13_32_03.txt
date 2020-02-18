@@ -1,0 +1,91 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1787m.
+ [LIMELIGHT]: Numerator: 11.010237051252094
+ [LIMELIGHT]: Denominator: 1.0927031000380028
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0523RPM.
+[Intake] Stowing intake
+[Shooter] Spinning up to: 1.05
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.014 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1787m.
+ [LIMELIGHT]: Numerator: 11.010237051252094
+ [LIMELIGHT]: Denominator: 1.0927031000380028
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0523RPM.
+[Shooter] Spinning up to: 1.05
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.019 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1787m.
+ [LIMELIGHT]: Numerator: 11.010237051252094
+ [LIMELIGHT]: Denominator: 1.0927031000380028
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0523RPM.
+[Shooter] Spinning up to: 1.05
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.034 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1777m.
+ [LIMELIGHT]: Numerator: 11.009352596760792
+ [LIMELIGHT]: Denominator: 1.092643838111746
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0522RPM.
+[Shooter] Spinning up to: 1.05
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.016 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1787m.
+ [LIMELIGHT]: Numerator: 11.010237051252094
+ [LIMELIGHT]: Denominator: 1.0927031000380028
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0523RPM.
+[Shooter] Spinning up to: 1.05
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.018 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 6.1777m.
+ [LIMELIGHT]: Numerator: 11.009352596760792
+ [LIMELIGHT]: Denominator: 1.092643838111746
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 1.0522RPM.

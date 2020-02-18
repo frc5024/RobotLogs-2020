@@ -1,0 +1,45 @@
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[IntakeCells] Intake action interrupted
+[FaultReporter] Robot FPGA outputs have been disabled
+[Climber] In service mode
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[IntakeCells] Intaking 5 cells
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls

@@ -1,0 +1,40 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 7.0917m.
+ [LIMELIGHT]: Numerator: 11.795721678160039
+ [LIMELIGHT]: Denominator: 1.1391971330416657
+ [LIMELIGHT]: Desired Ball Velocity: 10.354416576405319
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 3892.8108RPM.
+[Shooter] Spinning up to: 3892.81
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[Shooter] Holding. Spin-Up took 2.399 seconds
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Spinning up to: 3892.81
+[Hopper] Became idle
+[Intake] System stow requested

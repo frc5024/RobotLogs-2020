@@ -1,0 +1,53 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been disabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[FaultReporter] Robot FPGA outputs have been enabled
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is -9.1791m.
+ [LIMELIGHT]: Numerator: NaN
+ [LIMELIGHT]: Denominator: 1.9447589341579157
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[Shooter] Spinning up to: NaN
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Intake] Unjam requested
+[Hopper] Unjam requested
+[Intake] Unjamming balls
+[Shooter] Spinning up to: -890.00
+[Hopper] Unjamming
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle

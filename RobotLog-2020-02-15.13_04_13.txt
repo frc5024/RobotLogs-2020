@@ -1,0 +1,78 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 3.0179m.
+ [Limelight]: First Half of velocity calculation: 7.694870320263284
+ [Limelight]: Second Half of velocity calculation: 1.9999999999999998
+ [Limelight]: Third Half of velocity calculation: 1.6501587836720002
+ [Limelight]: Fourth Half of velocity calculation: 0.5914737663903612
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 0.4018RPM.
+[Shooter] Spinning up to: 0.40
+[Hopper] Feeding balls to flywheel
+[Shooter] Holding. Spin-Up took 0.043 seconds
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Hopper] Incrementing ball position
+[Hopper] Became idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 3.0179m.
+ [Limelight]: First Half of velocity calculation: 7.694870320263284
+ [Limelight]: Second Half of velocity calculation: 1.9999999999999998
+ [Limelight]: Third Half of velocity calculation: 1.6501587836720002
+ [Limelight]: Fourth Half of velocity calculation: 0.5914737663903612
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 0.4018RPM.
+[Shooter] Spinning up to: 0.40
+[Hopper] Feeding balls to flywheel
+[Shooter] Holding. Spin-Up took 0.02 seconds
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Hopper] Incrementing ball position
+[Hopper] Became idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 2.5768m.
+ [Limelight]: First Half of velocity calculation: 7.110390411542032
+ [Limelight]: Second Half of velocity calculation: 1.9999999999999998
+ [Limelight]: Third Half of velocity calculation: 1.93259766845439
+ [Limelight]: Fourth Half of velocity calculation: 0.2596195900651756
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 0.3713RPM.
+[Shooter] Spinning up to: 0.37
+[Hopper] Feeding balls to flywheel
+[Shooter] Holding. Spin-Up took 0.018 seconds
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested

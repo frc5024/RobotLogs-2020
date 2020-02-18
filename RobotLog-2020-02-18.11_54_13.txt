@@ -1,0 +1,17 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been disabled
+[Robot] Autonomous started
+[Chooser] Generating autonomous command object
+[Chooser] Reading autonomous position
+[DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 3.00, Y: 0.00), Rotation2d(Rads: 0.00, Deg: 0.00))
+[DriveTrain] Enabling brakes
+[Climber] Locked
+[Hopper] Cell count force-set to: 3
+ Starting autonomous actions
+[FaultReporter] Robot FPGA outputs have been enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12

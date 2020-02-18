@@ -1,0 +1,2 @@
+[Shooter] Spinning down
+[Shooter] System idle

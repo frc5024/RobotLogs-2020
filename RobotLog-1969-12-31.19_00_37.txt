@@ -1,0 +1,13 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[Shooter] System idle
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[Shooter] System idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9

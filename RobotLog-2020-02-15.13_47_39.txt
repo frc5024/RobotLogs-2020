@@ -1,0 +1,60 @@
+[FaultReporter] Robot FPGA outputs have been disabled
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been enabled
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 10.8057m.
+ [LIMELIGHT]: Numerator: 14.560489055883716
+ [LIMELIGHT]: Denominator: 1.240617645012655
+ [LIMELIGHT]: Desired Ball Velocity: 11.736483931546204
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 4412.4081RPM.
+[Shooter] Spinning up to: 4412.41
+[Hopper] Feeding balls to flywheel
+[Shooter] Holding. Spin-Up took 1.159 seconds
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 10.8057m.
+ [LIMELIGHT]: Numerator: 14.560489055883716
+ [LIMELIGHT]: Denominator: 1.240617645012655
+ [LIMELIGHT]: Desired Ball Velocity: 11.736483931546204
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is 4412.4081RPM.
+[Shooter] Spinning up to: 4412.41
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Shooter] Holding. Spin-Up took 0.018 seconds
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 10.8057m.

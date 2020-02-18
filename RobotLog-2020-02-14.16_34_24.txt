@@ -1,0 +1,80 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been disabled
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[IntakeCells] Intake action ended
+[Hopper] Became idle
+[Intake] Unjam requested
+[Hopper] Unjam requested
+[Intake] Stowing intake
+[Shooter] Spinning up to: -890.00
+[Hopper] Unjamming
+[Shooter] Holding. Spin-Up took 0.32 seconds
+[Shooter] Spinning up to: -890.00
+[Shooter] Holding. Spin-Up took 0.201 seconds
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[Hopper] Cell count force-set to: 0
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Hopper] Intaking balls
+[Hopper] Preparing to intake balls
+[Hopper] Intaking balls
+[IntakeCells] Intake action ended

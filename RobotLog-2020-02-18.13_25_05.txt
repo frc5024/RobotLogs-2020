@@ -1,0 +1,37 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[Climber] Unlocked
+[[Climber]] Set Position Current
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] At CURRENT
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction
+[Climber] Fully Retracted
+[[Climber]] Set Position Current
+[Climber] Handling Retraction

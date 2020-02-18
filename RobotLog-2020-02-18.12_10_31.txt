@@ -1,0 +1,52 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Intake] Stowing intake
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Angle to target calculated. Angle is 3.8287degrees.
+ [LIMELIGHT]: Distance to target calculated. Distance is 5.7380m.
+[Shooter] Spinning up to: 6101.32
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Angle to target calculated. Angle is 12.1271degrees.
+ [LIMELIGHT]: Distance to target calculated. Distance is 3.7004m.
+[Shooter] Spinning up to: NaN
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action ended
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Angle to target calculated. Angle is 12.2860degrees.

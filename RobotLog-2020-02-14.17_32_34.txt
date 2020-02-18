@@ -1,0 +1,103 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] Robot FPGA outputs have been disabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[FaultReporter] Robot FPGA outputs have been enabled
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Stopping hopper
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] 5v Rail Disabled
+[FaultReporter] 3v3 Rail Disabled
+WARNING: [FaultReporter] CAN bus RX error
+[FaultReporter] 3v3 Rail Enabled
+[FaultReporter] 5v Rail Enabled
+WARNING: [FaultReporter] CAN bus RX error
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] 5v Rail Disabled
+[FaultReporter] 3v3 Rail Disabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[FaultReporter] 5v Rail Enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Enabling brakes

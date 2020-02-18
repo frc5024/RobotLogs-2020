@@ -1,0 +1,10 @@
+[Robot] Teleop started
+[FaultReporter] Robot FPGA outputs have been enabled
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[Climber] Unlocked
+[Climber] Locked
