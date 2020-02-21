@@ -1,0 +1,18 @@
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[FaultReporter] Robot FPGA outputs have been disabled
+[Shooter] System idle
+[Hopper] Incrementing ball position
+[Hopper] Became idle

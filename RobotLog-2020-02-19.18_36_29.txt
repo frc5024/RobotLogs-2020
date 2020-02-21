@@ -1,0 +1,28 @@
+[Shooter] System idle
+[Robot] Autonomous started
+[Chooser] Generating autonomous command object
+[FaultReporter] Robot FPGA outputs have been enabled
+[Chooser] Reading autonomous position
+[DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 3.14, Deg: 180.00))
+[DriveTrain] Enabling brakes
+[Climber] Locked
+[Hopper] Cell count force-set to: 3
+[Starting autonomous actions] 
+[Setting Angle] [Autonomous]
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[ShootCells] Shooting 3 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[Shooter] Holding. Spin-Up took 1.24 seconds
+[Hopper] Feeding balls to flywheel
+[Shooter] Spinning up to: 3782.50
+[Hopper] Became idle
+[Shooter] Holding. Spin-Up took 2.94 seconds
+[Hopper] Feeding balls to flywheel
+[Shooter] Spinning up to: 3782.50
+[Shooter] Holding. Spin-Up took 0.18 seconds
+[Shooter] Spinning up to: 3782.50
+[Shooter] Holding. Spin-Up took 0.28 seconds

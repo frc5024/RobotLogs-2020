@@ -1,0 +1,33 @@
+[Shooter] System idle
+[Hopper] Cell count force-set to: 1
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Freezing system
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+[Intake] Stowing intake
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[Shooter] Holding. Spin-Up took 0.839 seconds
+[Hopper] Feeding balls to flywheel
+[Shooter] Spinning up to: 3782.50
+[Hopper] Became idle
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[ShootCells] Shoot action interrupted
+[Intake] System stow requested
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Hopper] Cell count force-set to: 0
+[Hopper] Became idle

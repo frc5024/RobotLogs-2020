@@ -1,0 +1,14 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Enabling brakes
+[DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[FaultReporter] Robot FPGA outputs have been disabled
+[Hopper] Became idle
+[Shooter] System idle

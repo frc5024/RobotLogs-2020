@@ -1,0 +1,16 @@
+[Shooter] System idle
+[Robot] Autonomous started
+[Chooser] Generating autonomous command object
+[Chooser] Reading autonomous position
+[DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 2.65, Deg: 152.00))
+[DriveTrain] Enabling brakes
+[Climber] Locked
+[Hopper] Cell count force-set to: 3
+[FaultReporter] Robot FPGA outputs have been enabled
+[Starting autonomous actions] 
+[Setting Angle] [Autonomous]
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[ShootCells] Shooting 3 cells

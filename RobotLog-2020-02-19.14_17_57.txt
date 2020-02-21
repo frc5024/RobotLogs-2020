@@ -1,0 +1,48 @@
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Shooter] System idle
+[FaultReporter] Robot FPGA outputs have been enabled
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Starting rotational control
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle

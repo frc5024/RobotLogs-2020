@@ -1,0 +1,108 @@
+[Shooter] System idle
+[Robot] Autonomous started
+[Chooser] Generating autonomous command object
+[FaultReporter] Robot FPGA outputs have been enabled
+[Chooser] Reading autonomous position
+[DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 3.14, Deg: 180.00))
+[DriveTrain] Enabling brakes
+[Climber] Locked
+[Hopper] Cell count force-set to: 3
+[Starting autonomous actions] 
+[Setting Angle] [Autonomous]
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[ShootCells] Shooting 3 cells
+[Intake] System stow requested
+[Shooter] Spinning up to: 3782.50
+[Hopper] Feeding balls to flywheel
+[Hopper] Became idle
+[Shooter] Holding. Spin-Up took 1.445 seconds
+[Hopper] Feeding balls to flywheel
+[Shooter] Spinning up to: 3782.50
+[Shooter] Holding. Spin-Up took 0.22 seconds
+[Shooter] Spinning up to: 3782.50
+[Shooter] Holding. Spin-Up took 0.22 seconds
+[ShootCells] Shoot action ended
+[Hopper] Cell count force-set to: 0
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Driving to front of the trench] [Autonomous]
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Set control mode to VOLTAGE with signal: <5.04, 5.01>
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Enabling brakes
+[DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Deploying intake and driving through balls] [Autonomous]
+[IntakeCells] Intaking 3 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[DriveTrain] Disabling brakes
+[DriveTrain] Set control mode to VOLTAGE with signal: <5.22, 5.04>
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 3v3 Rail Disabled
+WARNING: [FaultReporter] CAN bus TX error
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Enabling brakes
+[DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[IntakeCells] Intake action interrupted
+[FaultReporter] Robot FPGA outputs have been enabled
+[FaultReporter] 3v3 Rail Enabled
+WARNING: [FaultReporter] CAN bus TX error
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+WARNING: [FaultReporter] CAN bus TX error
+[Shooter] System idle

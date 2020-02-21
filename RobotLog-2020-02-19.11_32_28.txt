@@ -1,0 +1,25 @@
+[Shooter] System idle
+[Hopper] Cell count force-set to: 1
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[ShootCells] Shooting 5 cells
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested
+ [LIMELIGHT]: Distance to target calculated. Distance is 0.9233m.
+ [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[Intake] Stowing intake
+[Shooter] Spinning up to: NaN
+[Hopper] Feeding balls to flywheel
+[ShootCells] Shoot action interrupted
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
