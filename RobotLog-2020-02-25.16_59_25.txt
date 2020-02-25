@@ -1,0 +1,47 @@
+[3.66] [Shooter] System idle
+[50.52] [FaultReporter] Robot FPGA outputs have been enabled
+[50.54] [Robot] Teleop started
+[50.54] [DriveTrain] Enabling brakes
+[50.54] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[50.54] [Climber] Locked
+[50.54] [Intake] System freeze requested
+[50.54] [Climber] Locked
+[50.56] [Robot] Teleop started
+[50.56] [DriveTrain] Enabling brakes
+[50.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[50.56] [Climber] Locked
+[50.56] [Intake] System freeze requested
+[50.56] [Climber] Locked
+[50.56] [Intake] Freezing system
+[54.20] WARNING: [FaultReporter] Robot brownout detected!
+[54.20] [FaultReporter] Robot FPGA outputs have been disabled
+[54.20] [FaultReporter] 3v3 Rail Disabled
+[54.36] [FaultReporter] Robot FPGA outputs have been enabled
+[54.36] [FaultReporter] 3v3 Rail Enabled
+[54.68] WARNING: [FaultReporter] Robot brownout detected!
+[54.68] [FaultReporter] Robot FPGA outputs have been disabled
+[54.68] [FaultReporter] 3v3 Rail Disabled
+[54.68] [FaultReporter] 5v Rail Disabled
+[54.68] [FaultReporter] 3v3 Rail Disabled
+[54.76] [FaultReporter] Robot FPGA outputs have been enabled
+[54.76] [FaultReporter] 3v3 Rail Enabled
+[54.76] [FaultReporter] 5v Rail Enabled
+[54.76] [FaultReporter] 3v3 Rail Enabled
+[55.16] WARNING: [FaultReporter] Robot brownout detected!
+[55.16] [FaultReporter] Robot FPGA outputs have been disabled
+[55.16] [FaultReporter] 3v3 Rail Disabled
+[55.16] [FaultReporter] 5v Rail Disabled
+[55.16] [FaultReporter] 3v3 Rail Disabled
+[55.16] WARNING: [FaultReporter] CAN bus RX error
+[55.24] [FaultReporter] 3v3 Rail Enabled
+[55.24] [FaultReporter] 5v Rail Enabled
+[55.24] WARNING: [FaultReporter] CAN bus RX error
+[55.32] [FaultReporter] Robot FPGA outputs have been enabled
+[55.32] [FaultReporter] 3v3 Rail Enabled
+[55.48] WARNING: [FaultReporter] Robot brownout detected!
+[55.48] [FaultReporter] Robot FPGA outputs have been disabled
+[55.48] [FaultReporter] 3v3 Rail Disabled
+[55.56] [FaultReporter] 5v Rail Disabled
+[55.64] [FaultReporter] Robot FPGA outputs have been enabled
+[55.64] [FaultReporter] 5v Rail Enabled
+[55.64] [FaultReporter] 3v3 Rail Enabled
