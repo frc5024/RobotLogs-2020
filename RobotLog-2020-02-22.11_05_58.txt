@@ -1,0 +1,68 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[FaultReporter] Robot FPGA outputs have been enabled
+[Climber] Locked
+[Hopper Sensors] top sensor on for 48 cycles before change
+[Hopper Sensors] middle sensor on for 48 cycles before change
+[Intake] Freezing system
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper Sensors] middle sensor on for 193 cycles before change
+[Hopper] Preparing to intake balls
+[IntakeCells] Intake action interrupted
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Hopper] Became idle
+[Shooter] System idle
+[Hopper Sensors] middle sensor on for 102 cycles before change
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[Hopper Sensors] top sensor on for 827 cycles before change
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Hopper] Became idle
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Shooter] System idle
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells

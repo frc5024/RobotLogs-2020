@@ -1,0 +1,41 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Freezing system
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[PanelManipulator] Waiting for contact with control panel
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 5.00 seconds
+[Panel Manipulator] Rotating for 5.00 seconds
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle

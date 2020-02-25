@@ -1,0 +1,19 @@
+[Shooter] System idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Hopper Sensors] top sensor on for 9467 cycles before change
+[Hopper Sensors] middle sensor on for 9467 cycles before change
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Unjam requested
+[Hopper] Unjam requested
+[Intake] Unjamming balls
+[Shooter] Spinning up to: -890.00
+[Hopper] Unjamming
+[Shooter] Holding. Spin-Up took 0.018 seconds
+[Shooter] Spinning up to: -890.00

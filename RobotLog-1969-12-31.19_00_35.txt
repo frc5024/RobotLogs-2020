@@ -1,0 +1,33 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[Shooter] System idle
+[Hopper] Became idle
+[PanelManipulator] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Shooter] System idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled

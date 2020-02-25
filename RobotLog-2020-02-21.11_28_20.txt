@@ -1,0 +1,12 @@
+[Shooter] System idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+[Intake] Freezing system
+[ShootCells] Shooting 5 cells
+[Intake] System stow requested

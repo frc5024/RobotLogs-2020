@@ -1,0 +1,8 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[IntakeCells] Intake action interrupted
+[Climber] In service mode
+[Intake] System stow requested
+[Shooter] Stop requested

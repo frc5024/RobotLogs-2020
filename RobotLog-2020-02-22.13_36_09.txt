@@ -1,0 +1,44 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[TimePanel] Interrupted
+[PanelManipulator] Stop requested
+[FaultReporter] Robot FPGA outputs have been disabled
+[PanelManipulator] Became idle
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[PanelManipulator] Waiting for contact with control panel
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[TimePanel] Constructing
+[TimePanel] Rotating for 0.50 seconds
+[Panel Manipulator] Rotating for 0.50 seconds
+[PanelManipulator] Waiting for contact with control panel

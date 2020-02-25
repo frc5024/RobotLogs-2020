@@ -1,0 +1,103 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 4
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 5
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 6
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 4
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 4
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 4
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 5
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 4
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-incremented the hopper ball count
+[Hopper] Cell count force-set to: 3
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 2
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 1
+[OperatorControl] Operator force-decremented the hopper ball count
+[Hopper] Cell count force-set to: 0

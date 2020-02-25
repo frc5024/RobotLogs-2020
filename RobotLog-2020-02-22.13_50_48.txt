@@ -1,0 +1,55 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero
+[TimePanel] Finished spinning
+[PanelManipulator] Stop requested
+[TimePanel] Rotating for 0.00 seconds
+[Panel Manipulator] seconds equal to zero

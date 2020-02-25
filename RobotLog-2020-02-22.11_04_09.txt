@@ -1,0 +1,13 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Hopper Sensors] top sensor on for 134 cycles before change
+[Hopper Sensors] middle sensor on for 134 cycles before change
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested

@@ -1,0 +1,78 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[FaultReporter] Robot FPGA outputs have been enabled
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[IntakeCells] Intaking 5 cells
+[Intake] Intake requested
+[Hopper] Intake requested
+[Shooter] Stop requested
+[Intake] Intaking balls
+[Hopper] Preparing to intake balls
+[Shooter] System idle
+[Hopper] Intaking balls
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Hopper] Became idle
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[Shooter] System idle
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
+[IntakeCells] Intake action ended
+[IntakeCells] Intaking 5 cells
