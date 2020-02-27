@@ -1,0 +1,33 @@
+[3.47] [Shooter] System idle
+[8.89] [Robot] Teleop started
+[8.89] [DriveTrain] Enabling brakes
+[8.89] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[8.89] [Climber] Locked
+[8.89] [Intake] System freeze requested
+[8.91] [Climber] Locked
+[8.91] [FaultReporter] Robot FPGA outputs have been enabled
+[9.03] [Intake] Freezing system
+[9.35] [Intake] Unjam requested
+[9.35] [Hopper] Unjam requested
+[9.35] [Intake] Unjamming balls
+[9.37] [Shooter] Spinning up to: -890.00
+[9.39] [Hopper] Unjamming
+[9.39] [Shooter] Holding. Spin-Up took 0.02 seconds
+[9.73] [Shooter] Spinning up to: -890.00
+[10.21] [Intake] System stow requested
+[10.21] [Shooter] Stop requested
+[10.21] [Intake] Stowing intake
+[10.23] [Hopper] Became idle
+[10.25] [Shooter] System idle
+[10.75] WARNING: [FaultReporter] Robot brownout detected!
+[10.75] [FaultReporter] Robot FPGA outputs have been disabled
+[10.75] [FaultReporter] 3v3 Rail Disabled
+[10.89] [Hopper] Unjam up requested
+[10.91] [Shooter] Spinning up to: 1112.50
+[10.91] [FaultReporter] Robot FPGA outputs have been enabled
+[10.91] [FaultReporter] 3v3 Rail Enabled
+[10.93] [Hopper] Unjamming
+[10.99] WARNING: [FaultReporter] Robot brownout detected!
+[10.99] [FaultReporter] Robot FPGA outputs have been disabled
+[10.99] [FaultReporter] 3v3 Rail Disabled
+[11.07] [FaultReporter] Robot FPGA outputs have been enabled

@@ -1,0 +1,50 @@
+[2.95] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[2.95] LIBRARY: [FaultReporter] Starting reporter thread
+[2.95] [FaultReporter] 3v3 Rail Enabled
+[2.95] [FaultReporter] 5v Rail Enabled
+[2.95] [FaultReporter] 3v3 Rail Enabled
+[2.95] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[2.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.95] [PanelManipulator] Loaded color threshold: 126.48
+[2.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.95] [Chooser] Publishing auton options
+[2.95] [Chooser] Reading autonomous position
+[2.95] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 0.00, Deg: 0.00))
+[2.95] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.95] [Robot] Robot disabled
+[2.95] [DriveTrain] Disabling brakes
+[3.00] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[3.00] LIBRARY: [FaultReporter] Starting reporter thread
+[3.00] [FaultReporter] 3v3 Rail Enabled
+[3.00] [FaultReporter] 5v Rail Enabled
+[3.00] [FaultReporter] 3v3 Rail Enabled
+[3.00] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[3.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.00] [PanelManipulator] Loaded color threshold: 126.48
+[3.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.00] [Chooser] Publishing auton options
+[3.00] [Chooser] Reading autonomous position
+[3.00] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 0.00, Deg: 0.00))
+[3.00] [Dashboard] Pushing shuffleboard widgets to driverstation
+[3.00] [Robot] Robot disabled
+[3.00] [DriveTrain] Disabling brakes
+[3.00] [DriveTrain] Stopping DriveTrain
+[3.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.00] [Climber] In service mode
+[3.00] [Shooter] System idle
+[3.00] [Hopper] Became idle
+[3.00] [PanelManipulator] Became idle
+[3.00] [Intake] System stow requested
+[3.00] [Shooter] Stop requested
+[3.00] [Intake] Stowing intake
+[3.90] [Shooter] System idle
+[4.76] [Robot] Teleop started
+[4.76] [DriveTrain] Enabling brakes
+[4.76] [FaultReporter] Robot FPGA outputs have been enabled
+[4.76] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[4.76] [Climber] Locked
+[4.76] [Intake] System freeze requested
+[4.76] [Climber] Locked
+[4.80] [Intake] Freezing system
+[5.22] [IntakeCells] Intaking 5 cells
+[5.24] [Intake] Intake requested

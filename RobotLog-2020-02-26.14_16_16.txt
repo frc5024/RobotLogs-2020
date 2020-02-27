@@ -1,0 +1,58 @@
+[3.14] [Shooter] System idle
+[8.56] [Robot] Teleop started
+[8.56] [DriveTrain] Enabling brakes
+[8.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[8.56] [Climber] Locked
+[8.56] [Intake] System freeze requested
+[8.56] [Climber] Locked
+[8.58] [Intake] Freezing system
+[8.62] [FaultReporter] Robot FPGA outputs have been enabled
+[8.84] [IntakeCells] Intaking 5 cells
+[8.86] [Intake] Intake requested
+[8.86] [Hopper] Intake requested
+[8.86] [Shooter] Stop requested
+[8.86] [Intake] Intaking balls
+[8.88] [Hopper] Preparing to intake balls
+[8.90] [Shooter] System idle
+[9.08] [Hopper] Intaking balls
+[9.64] [Hopper] Preparing to intake balls
+[10.12] [IntakeCells] Intake action interrupted
+[10.14] [Intake] System stow requested
+[10.14] [Shooter] Stop requested
+[10.14] [Intake] Stowing intake
+[10.16] [Hopper] Became idle
+[10.18] [Shooter] System idle
+[10.86] [ShootCells] Shooting 5 cells
+[10.88] [Intake] System stow requested
+[10.90] [Shooter] Spinning up to: 3026.00
+[10.90] [Hopper] Feeding balls to flywheel
+[12.14] [Shooter] Holding. Spin-Up took 1.239 seconds
+[12.40] [ShootCells] Shoot action ended
+[12.40] [ShootCells] Shooting 5 cells
+[12.42] [Hopper] Became idle
+[12.42] [ShootCells] Shoot action ended
+[12.42] [ShootCells] Shooting 5 cells
+[12.44] [ShootCells] Shoot action ended
+[12.44] [ShootCells] Shooting 5 cells
+[12.46] [ShootCells] Shoot action ended
+[12.46] [ShootCells] Shooting 5 cells
+[12.48] [ShootCells] Shoot action ended
+[12.48] [ShootCells] Shooting 5 cells
+[12.50] [Shooter] Spinning up to: 3026.00
+[12.50] [ShootCells] Shoot action ended
+[12.50] [ShootCells] Shooting 5 cells
+[12.52] [ShootCells] Shoot action ended
+[12.52] [ShootCells] Shooting 5 cells
+[12.54] [ShootCells] Shoot action ended
+[12.54] [ShootCells] Shooting 5 cells
+[12.56] [ShootCells] Shoot action ended
+[12.56] [ShootCells] Shooting 5 cells
+[12.58] [ShootCells] Shoot action ended
+[12.58] [ShootCells] Shooting 5 cells
+[12.60] [ShootCells] Shoot action ended
+[12.60] [ShootCells] Shooting 5 cells
+[12.62] [ShootCells] Shoot action ended
+[12.62] [ShootCells] Shooting 5 cells
+[12.66] [ShootCells] Shoot action ended
+[12.66] [ShootCells] Shooting 5 cells
+[12.68] [ShootCells] Shoot action ended

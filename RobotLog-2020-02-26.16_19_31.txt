@@ -1,0 +1,43 @@
+[447.29] [Robot] Robot disabled
+[447.29] [DriveTrain] Disabling brakes
+[447.29] [DriveTrain] Stopping DriveTrain
+[447.29] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[447.29] [Climber] In service mode
+[447.33] [FaultReporter] Robot FPGA outputs have been disabled
+[460.13] [FaultReporter] Robot FPGA outputs have been enabled
+[460.13] [Robot] Teleop started
+[460.13] [DriveTrain] Enabling brakes
+[460.13] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[460.13] [Climber] Locked
+[460.13] [Intake] System freeze requested
+[460.13] [Climber] Locked
+[465.01] [IntakeCells] Intaking 5 cells
+[465.03] [Intake] Intake requested
+[465.03] [Hopper] Intake requested
+[465.03] [Shooter] Stop requested
+[465.03] [Intake] Intaking balls
+[465.05] [Hopper] Preparing to intake balls
+[465.07] [Shooter] System idle
+[466.71] [Hopper] Intaking balls
+[467.23] [Hopper] Preparing to intake balls
+[467.85] [IntakeCells] Intake action interrupted
+[467.87] [Intake] System stow requested
+[467.87] [Shooter] Stop requested
+[467.87] [Intake] Stowing intake
+[467.89] [Hopper] Became idle
+[467.91] [Shooter] System idle
+[471.09] [IntakeCells] Intaking 5 cells
+[471.11] [Intake] Intake requested
+[471.11] [Hopper] Intake requested
+[471.11] [Shooter] Stop requested
+[471.11] [Intake] Intaking balls
+[471.13] [Hopper] Preparing to intake balls
+[471.15] [Shooter] System idle
+[473.91] [Hopper] Intaking balls
+[474.03] [Hopper] Preparing to intake balls
+[476.41] [IntakeCells] Intake action interrupted
+[476.43] [Intake] System stow requested
+[476.43] [Shooter] Stop requested
+[476.43] [Intake] Stowing intake
+[476.45] [Hopper] Became idle
+[476.47] [Shooter] System idle

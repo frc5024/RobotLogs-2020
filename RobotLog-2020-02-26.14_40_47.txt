@@ -1,0 +1,32 @@
+[2.83] [Intake] Stowing intake
+[3.23] [Shooter] System idle
+[16.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[20.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[35.79] [FaultReporter] Robot FPGA outputs have been enabled
+[35.81] [Robot] Teleop started
+[35.81] [DriveTrain] Enabling brakes
+[35.81] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[35.81] [Climber] Locked
+[35.81] [Intake] System freeze requested
+[35.81] [Climber] Locked
+[35.81] [Intake] Freezing system
+[50.33] [IntakeCells] Intaking 5 cells
+[50.35] [Intake] Intake requested
+[50.35] [Hopper] Intake requested
+[50.35] [Shooter] Stop requested
+[50.35] [Intake] Intaking balls
+[50.37] [Hopper] Preparing to intake balls
+[50.37] [Shooter] System idle
+[50.57] [Hopper] Intaking balls
+[51.03] [Hopper] Preparing to intake balls
+[51.55] [IntakeCells] Intake action interrupted
+[51.57] [IntakeCells] Intake action interrupted
+[51.57] [Intake] System stow requested
+[51.59] [IntakeCells] Intake action interrupted
+[51.61] [IntakeCells] Intake action interrupted
+[51.61] [Intake] System stow requested
+[51.61] [Shooter] Stop requested
+[51.61] [Intake] Stowing intake
+[51.61] [Hopper] Became idle
+[51.61] [Shooter] System idle
+[52.41] [ShootCells] Shooting 5 cells

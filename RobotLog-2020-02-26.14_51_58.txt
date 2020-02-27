@@ -1,0 +1,97 @@
+[3.22] [Shooter] System idle
+[4.90] [Robot] Teleop started
+[4.90] [DriveTrain] Enabling brakes
+[4.90] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[4.90] [Climber] Locked
+[4.90] [Intake] System freeze requested
+[4.92] [Climber] Locked
+[4.94] [Intake] Freezing system
+[4.94] [FaultReporter] Robot FPGA outputs have been enabled
+[5.56] [IntakeCells] Intaking 5 cells
+[5.58] [Intake] Intake requested
+[5.58] [Hopper] Intake requested
+[5.58] [Shooter] Stop requested
+[5.58] [Intake] Intaking balls
+[5.60] [Hopper] Preparing to intake balls
+[5.62] [Shooter] System idle
+[7.34] [Hopper] Intaking balls
+[7.84] [Hopper] Preparing to intake balls
+[7.98] [IntakeCells] Intake action interrupted
+[8.02] [Intake] System stow requested
+[8.02] [Shooter] Stop requested
+[8.02] [Intake] Stowing intake
+[8.02] [Hopper] Became idle
+[8.04] [Shooter] System idle
+[8.74] [ShootCells] Shooting 5 cells
+[8.76] [Intake] System stow requested
+[8.78] [Shooter] Spinning up to: 3159.50
+[8.78] [Hopper] Feeding balls to flywheel
+[10.10] [Shooter] Holding. Spin-Up took 1.318 seconds
+[10.26] [ShootCells] Shoot action ended
+[10.26] [ShootCells] Shooting 5 cells
+[10.28] [Hopper] Became idle
+[10.28] [ShootCells] Shoot action ended
+[10.28] [ShootCells] Shooting 5 cells
+[10.30] [ShootCells] Shoot action ended
+[10.30] [ShootCells] Shooting 5 cells
+[10.32] [ShootCells] Shoot action ended
+[10.32] [ShootCells] Shooting 5 cells
+[10.34] [ShootCells] Shoot action ended
+[10.34] [ShootCells] Shooting 5 cells
+[10.36] [Shooter] Spinning up to: 3159.50
+[10.36] [ShootCells] Shoot action ended
+[10.36] [ShootCells] Shooting 5 cells
+[10.38] [ShootCells] Shoot action ended
+[10.38] [ShootCells] Shooting 5 cells
+[10.40] [ShootCells] Shoot action ended
+[10.40] [ShootCells] Shooting 5 cells
+[10.42] [ShootCells] Shoot action ended
+[10.42] [ShootCells] Shooting 5 cells
+[10.44] [ShootCells] Shoot action ended
+[10.44] [ShootCells] Shooting 5 cells
+[10.46] [ShootCells] Shoot action ended
+[10.46] [ShootCells] Shooting 5 cells
+[10.50] [ShootCells] Shoot action ended
+[10.50] [ShootCells] Shooting 5 cells
+[10.54] [ShootCells] Shoot action ended
+[10.54] [ShootCells] Shooting 5 cells
+[10.56] [ShootCells] Shoot action ended
+[10.56] [ShootCells] Shooting 5 cells
+[10.58] [ShootCells] Shoot action ended
+[10.58] [ShootCells] Shooting 5 cells
+[10.60] [ShootCells] Shoot action ended
+[10.60] [ShootCells] Shooting 5 cells
+[10.60] [ShootCells] Shoot action ended
+[10.60] [ShootCells] Shooting 5 cells
+[10.62] [ShootCells] Shoot action ended
+[10.62] [ShootCells] Shooting 5 cells
+[10.64] [ShootCells] Shoot action ended
+[10.64] [ShootCells] Shooting 5 cells
+[10.66] [ShootCells] Shoot action ended
+[10.66] [ShootCells] Shooting 5 cells
+[10.66] [ShootCells] Shoot action ended
+[10.66] [ShootCells] Shooting 5 cells
+[10.68] [ShootCells] Shoot action ended
+[10.68] [ShootCells] Shooting 5 cells
+[10.70] [ShootCells] Shoot action ended
+[10.70] [ShootCells] Shooting 5 cells
+[10.72] [ShootCells] Shoot action ended
+[10.72] [ShootCells] Shooting 5 cells
+[10.74] [Shooter] Holding. Spin-Up took 0.377 seconds
+[10.74] [ShootCells] Shoot action ended
+[10.74] [ShootCells] Shooting 5 cells
+[10.76] [ShootCells] Shoot action ended
+[10.76] [ShootCells] Shooting 5 cells
+[10.78] [ShootCells] Shoot action ended
+[10.78] [ShootCells] Shooting 5 cells
+[10.82] [ShootCells] Shoot action ended
+[10.82] [ShootCells] Shooting 5 cells
+[10.82] [ShootCells] Shoot action ended
+[10.82] [ShootCells] Shooting 5 cells
+[10.84] [ShootCells] Shoot action ended
+[10.84] [ShootCells] Shooting 5 cells
+[10.86] [ShootCells] Shoot action ended
+[10.86] [ShootCells] Shooting 5 cells
+[10.88] [ShootCells] Shoot action ended
+[10.88] [ShootCells] Shooting 5 cells
+[10.90] [ShootCells] Shoot action ended

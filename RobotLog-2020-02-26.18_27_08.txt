@@ -1,0 +1,13 @@
+WARNING: [FaultReporter] Robot brownout detected!
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] 5v Rail Disabled
+[FaultReporter] 3v3 Rail Disabled
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[FaultReporter] 5v Rail Enabled
+[FaultReporter] 3v3 Rail Enabled
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12

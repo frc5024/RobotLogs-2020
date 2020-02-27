@@ -1,0 +1,13 @@
+[3.21] [Shooter] System idle
+[7.19] [Robot] Teleop started
+[7.19] [DriveTrain] Enabling brakes
+[7.19] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.21] [Robot] Teleop started
+[7.21] [DriveTrain] Enabling brakes
+[7.21] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.21] [Climber] Locked
+[7.21] [Intake] System freeze requested
+[7.21] [FaultReporter] Robot FPGA outputs have been enabled
+[7.21] [Climber] Locked
+[7.21] [Intake] Freezing system
+[7.61] [ShootCells] Shooting 5 cells

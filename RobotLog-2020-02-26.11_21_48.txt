@@ -1,0 +1,171 @@
+[40.46] [Robot] Robot disabled
+[40.46] [DriveTrain] Disabling brakes
+[40.46] [DriveTrain] Stopping DriveTrain
+[40.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[40.46] [Climber] In service mode
+[40.54] [FaultReporter] Robot FPGA outputs have been disabled
+[50.52] [Robot] Teleop started
+[50.52] [DriveTrain] Enabling brakes
+[50.52] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[50.52] [Climber] Locked
+[50.54] [Robot] Teleop started
+[50.54] [DriveTrain] Enabling brakes
+[50.54] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[50.54] [Climber] Locked
+[50.54] [Intake] System freeze requested
+[50.54] [Climber] Locked
+[50.54] [FaultReporter] Robot FPGA outputs have been enabled
+[50.54] [IntakeCells] Intaking 5 cells
+[50.58] [Intake] Intake requested
+[50.58] [Hopper] Intake requested
+[50.58] [Shooter] Stop requested
+[50.58] [Intake] Intaking balls
+[50.60] [Hopper] Preparing to intake balls
+[50.62] [Shooter] System idle
+[51.72] [IntakeCells] Intake action interrupted
+[51.74] [Intake] System stow requested
+[51.74] [Shooter] Stop requested
+[51.74] [Intake] Stowing intake
+[51.76] [Hopper] Became idle
+[51.78] [Shooter] System idle
+[53.04] [IntakeCells] Intaking 5 cells
+[53.06] [Intake] Intake requested
+[53.06] [Hopper] Intake requested
+[53.06] [Shooter] Stop requested
+[53.06] [Intake] Intaking balls
+[53.08] [Hopper] Preparing to intake balls
+[53.10] [Shooter] System idle
+[54.70] [Hopper] Intaking balls
+[55.24] [Hopper] Preparing to intake balls
+[56.10] [Hopper] Intaking balls
+[56.64] [Hopper] Preparing to intake balls
+[57.78] [Hopper] Intaking balls
+[58.38] [Hopper] Preparing to intake balls
+[59.10] [IntakeCells] Intake action interrupted
+[59.12] [Intake] System stow requested
+[59.12] [Shooter] Stop requested
+[59.12] [Intake] Stowing intake
+[59.14] [Hopper] Became idle
+[59.16] [Shooter] System idle
+[61.44] [Hopper] Lowering Balls
+[61.48] [Hopper] Pushing balls to bottom
+[61.84] [Hopper] Incrementing ball position
+[61.86] [Hopper] Finished lowering balss
+[61.86] [Hopper] Lowering Balls
+[61.88] [Hopper] Became idle
+[61.88] [Hopper] Finished lowering balss
+[61.90] [Intake] System stow requested
+[61.90] [Shooter] Stop requested
+[61.94] [Shooter] System idle
+[63.80] [Hopper] Lowering Balls
+[63.84] [Hopper] Pushing balls to bottom
+[63.86] [Hopper] Incrementing ball position
+[64.16] [Hopper] Finished lowering balss
+[64.16] [Hopper] Lowering Balls
+[64.18] [Hopper] Became idle
+[64.18] [Hopper] Finished lowering balss
+[64.20] [Intake] System stow requested
+[64.20] [Shooter] Stop requested
+[64.24] [Shooter] System idle
+[65.90] [Hopper] Lowering Balls
+[65.94] [Hopper] Pushing balls to bottom
+[66.28] [Hopper] Incrementing ball position
+[66.58] [Hopper] Finished lowering balss
+[66.58] [Hopper] Lowering Balls
+[66.60] [Hopper] Became idle
+[66.60] [Hopper] Finished lowering balss
+[66.62] [Intake] System stow requested
+[66.62] [Shooter] Stop requested
+[66.66] [Shooter] System idle
+[67.54] [Hopper] Lowering Balls
+[67.58] [Hopper] Pushing balls to bottom
+[67.92] [Hopper] Incrementing ball position
+[67.94] [Hopper] Finished lowering balss
+[67.94] [Hopper] Lowering Balls
+[67.96] [Hopper] Became idle
+[67.96] [Hopper] Finished lowering balss
+[67.98] [Intake] System stow requested
+[67.98] [Shooter] Stop requested
+[68.02] [Shooter] System idle
+[81.22] [Hopper] Lowering Balls
+[81.26] [Hopper] Pushing balls to bottom
+[81.28] [Hopper] Incrementing ball position
+[81.56] [Hopper] Finished lowering balss
+[81.56] [Hopper] Lowering Balls
+[81.58] [Hopper] Became idle
+[81.58] [Hopper] Finished lowering balss
+[81.60] [Intake] System stow requested
+[81.60] [Shooter] Stop requested
+[81.64] [Shooter] System idle
+[84.38] [Hopper] Lowering Balls
+[84.42] [Hopper] Pushing balls to bottom
+[84.76] [Hopper] Incrementing ball position
+[84.76] [Hopper] Finished lowering balss
+[84.76] [Hopper] Lowering Balls
+[84.78] [Hopper] Became idle
+[84.78] [Hopper] Finished lowering balss
+[84.80] [Intake] System stow requested
+[84.80] [Shooter] Stop requested
+[84.84] [Shooter] System idle
+[101.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[103.42] [Hopper] Lowering Balls
+[103.46] [Hopper] Pushing balls to bottom
+[103.98] [Hopper] Incrementing ball position
+[104.26] [Hopper] Finished lowering balss
+[104.26] [Hopper] Lowering Balls
+[104.28] [Hopper] Became idle
+[104.28] [Hopper] Finished lowering balss
+[104.30] [Intake] System stow requested
+[104.30] [Shooter] Stop requested
+[104.34] [Shooter] System idle
+[105.68] [Hopper] Lowering Balls
+[105.72] [Hopper] Pushing balls to bottom
+[106.04] [Hopper] Incrementing ball position
+[106.32] [Hopper] Finished lowering balss
+[106.32] [Hopper] Lowering Balls
+[106.34] [Hopper] Became idle
+[106.34] [Hopper] Finished lowering balss
+[106.36] [Intake] System stow requested
+[106.36] [Shooter] Stop requested
+[106.40] [Shooter] System idle
+[107.22] [Hopper] Lowering Balls
+[107.26] [Hopper] Pushing balls to bottom
+[107.60] [Hopper] Incrementing ball position
+[107.62] [Hopper] Finished lowering balss
+[107.62] [Hopper] Lowering Balls
+[107.64] [Hopper] Became idle
+[107.64] [Hopper] Finished lowering balss
+[107.66] [Intake] System stow requested
+[107.66] [Shooter] Stop requested
+[107.70] [Shooter] System idle
+[121.88] [Hopper] Unjam up requested
+[121.90] [Shooter] Spinning up to: 445.00
+[121.92] [Hopper] Unjamming
+[122.30] [Shooter] Holding. Spin-Up took 0.399 seconds
+[122.34] [Intake] System stow requested
+[122.34] [Shooter] Stop requested
+[122.36] [Hopper] Became idle
+[122.38] [Shooter] System idle
+[123.62] [Hopper] Unjam up requested
+[123.64] [Shooter] Spinning up to: 445.00
+[123.66] [Shooter] Spinning up to: 445.00
+[123.66] [Hopper] Unjamming
+[123.80] [Intake] System stow requested
+[123.80] [Shooter] Stop requested
+[123.82] [Hopper] Became idle
+[123.84] [Shooter] System idle
+[125.36] [Hopper] Unjam up requested
+[125.38] [Shooter] Spinning up to: 445.00
+[125.38] [Hopper] Unjamming
+[126.16] [Intake] System stow requested
+[126.16] [Shooter] Stop requested
+[126.18] [Hopper] Became idle
+[126.20] [Shooter] System idle
+[137.90] [Hopper] Unjam up requested
+[137.92] [Shooter] Spinning up to: 445.00
+[137.94] [Hopper] Unjamming
+[138.80] [Shooter] Holding. Spin-Up took 0.875 seconds
+[138.90] [Intake] System stow requested
+[138.90] [Shooter] Stop requested
+[138.92] [Hopper] Became idle
+[138.94] [Shooter] System idle

@@ -1,0 +1,61 @@
+[3.26] [Shooter] System idle
+[4.12] [FaultReporter] Robot FPGA outputs have been enabled
+[4.14] [Robot] Teleop started
+[4.16] [DriveTrain] Enabling brakes
+[4.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[4.18] [Climber] Locked
+[4.18] [Intake] System freeze requested
+[4.20] [Climber] Locked
+[4.20] [Intake] Freezing system
+[6.04] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[8.62] [IntakeCells] Intaking 5 cells
+[8.64] [Intake] Intake requested
+[8.64] [Hopper] Intake requested
+[8.64] [Shooter] Stop requested
+[8.64] [Intake] Intaking balls
+[8.66] [Hopper] Preparing to intake balls
+[8.68] [Shooter] System idle
+[11.12] [Hopper] Intaking balls
+[11.64] [Hopper] Preparing to intake balls
+[12.08] [IntakeCells] Intake action interrupted
+[12.10] [Intake] System stow requested
+[12.10] [Shooter] Stop requested
+[12.10] [Intake] Stowing intake
+[12.12] [Hopper] Became idle
+[12.14] [Shooter] System idle
+[13.96] [ShootCells] Shooting 5 cells
+[13.98] [Intake] System stow requested
+[14.00] [Shooter] Spinning up to: 3916.00
+[14.00] [Hopper] Feeding balls to flywheel
+[15.50] [Hopper] Became idle
+[15.56] [Shooter] Holding. Spin-Up took 1.56 seconds
+[15.56] [Hopper] Feeding balls to flywheel
+[15.72] [ShootCells] Shoot action ended
+[15.74] [Hopper] Became idle
+[15.74] [Intake] System stow requested
+[15.74] [Shooter] Stop requested
+[15.74] [ShootCells] Shooting 5 cells
+[15.76] [Intake] System stow requested
+[15.78] [Shooter] Spinning up to: 3916.00
+[15.78] [Hopper] Feeding balls to flywheel
+[15.78] [ShootCells] Shoot action ended
+[15.80] [Shooter] Holding. Spin-Up took 0.02 seconds
+[15.80] [Hopper] Became idle
+[15.80] [Intake] System stow requested
+[15.80] [Shooter] Stop requested
+[15.80] [ShootCells] Shooting 5 cells
+[15.82] [Intake] System stow requested
+[15.84] [Shooter] Spinning up to: 3916.00
+[15.84] [Hopper] Feeding balls to flywheel
+[15.84] [ShootCells] Shoot action ended
+[15.86] [Hopper] Became idle
+[15.86] [Intake] System stow requested
+[15.86] [Shooter] Stop requested
+[15.86] [ShootCells] Shooting 5 cells
+[15.88] [Intake] System stow requested
+[15.90] [Shooter] Spinning up to: 3916.00
+[15.90] [Hopper] Feeding balls to flywheel
+[15.90] [ShootCells] Shoot action ended
+[15.92] [Hopper] Became idle
+[15.92] [Intake] System stow requested
+[15.92] [Shooter] Stop requested

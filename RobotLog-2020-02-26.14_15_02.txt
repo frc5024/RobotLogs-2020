@@ -1,0 +1,33 @@
+[3.27] [Shooter] System idle
+[26.67] [Robot] Teleop started
+[26.67] [DriveTrain] Enabling brakes
+[26.67] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[26.67] [Climber] Locked
+[26.67] [Intake] System freeze requested
+[26.67] [Climber] Locked
+[26.69] [FaultReporter] Robot FPGA outputs have been enabled
+[26.71] [Intake] Freezing system
+[28.57] [IntakeCells] Intaking 5 cells
+[28.59] [Intake] Intake requested
+[28.59] [Hopper] Intake requested
+[28.59] [Shooter] Stop requested
+[28.59] [Intake] Intaking balls
+[28.61] [Hopper] Preparing to intake balls
+[28.63] [Shooter] System idle
+[28.81] [Hopper] Intaking balls
+[29.31] [Hopper] Preparing to intake balls
+[29.45] [IntakeCells] Intake action interrupted
+[29.47] [Intake] System stow requested
+[29.47] [Shooter] Stop requested
+[29.47] [Intake] Stowing intake
+[29.49] [Hopper] Became idle
+[29.51] [Shooter] System idle
+[30.27] [ShootCells] Shooting 5 cells
+[30.29] [Intake] System stow requested
+[30.31] [Shooter] Spinning up to: 3471.00
+[30.33] [Hopper] Feeding balls to flywheel
+[31.63] [Hopper] Became idle
+[31.69] [Shooter] Holding. Spin-Up took 1.379 seconds
+[31.69] [Hopper] Feeding balls to flywheel
+[31.83] [ShootCells] Shoot action ended
+[31.85] [ShootCells] Shooting 5 cells

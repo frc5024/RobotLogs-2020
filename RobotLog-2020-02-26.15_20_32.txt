@@ -1,0 +1,76 @@
+[3.16] [Shooter] System idle
+[7.18] [Robot] Teleop started
+[7.18] [FaultReporter] Robot FPGA outputs have been enabled
+[7.18] [DriveTrain] Enabling brakes
+[7.18] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.18] [Climber] Locked
+[7.18] [Intake] System freeze requested
+[7.18] [Climber] Locked
+[7.20] [Intake] Freezing system
+[8.38] [OperatorControl] Operator force-incremented the hopper ball count
+[8.38] [Hopper] Cell count force-set to: 1
+[8.68] [OperatorControl] Operator force-incremented the hopper ball count
+[8.68] [Hopper] Cell count force-set to: 2
+[16.96] [OperatorControl] Operator force-incremented the hopper ball count
+[16.96] [Hopper] Cell count force-set to: 3
+[17.42] [OperatorControl] Operator force-incremented the hopper ball count
+[17.42] [Hopper] Cell count force-set to: 4
+[17.72] [OperatorControl] Operator force-incremented the hopper ball count
+[17.72] [Hopper] Cell count force-set to: 5
+[18.80] [OperatorControl] Operator force-decremented the hopper ball count
+[18.80] [Hopper] Cell count force-set to: 4
+[19.26] [OperatorControl] Operator force-decremented the hopper ball count
+[19.26] [Hopper] Cell count force-set to: 3
+[19.52] [OperatorControl] Operator force-decremented the hopper ball count
+[19.52] [Hopper] Cell count force-set to: 2
+[20.60] [OperatorControl] Operator force-decremented the hopper ball count
+[20.60] [Hopper] Cell count force-set to: 1
+[20.70] [OperatorControl] Operator force-decremented the hopper ball count
+[20.70] [Hopper] Cell count force-set to: 0
+[20.92] [OperatorControl] Operator force-decremented the hopper ball count
+[20.92] [Hopper] Cell count force-set to: 0
+[24.26] [OperatorControl] Operator force-incremented the hopper ball count
+[24.26] [Hopper] Cell count force-set to: 1
+[24.50] [OperatorControl] Operator force-incremented the hopper ball count
+[24.50] [Hopper] Cell count force-set to: 2
+[27.50] [ShootCells] Shooting 5 cells
+[27.52] [Intake] System stow requested
+[27.52] [Intake] Stowing intake
+[27.54] [Shooter] Spinning up to: 3159.50
+[27.54] [Hopper] Feeding balls to flywheel
+[28.28] [Hopper] Became idle
+[28.96] [Shooter] Holding. Spin-Up took 1.418 seconds
+[28.96] [Hopper] Feeding balls to flywheel
+[29.24] [Shooter] Spinning up to: 3159.50
+[29.72] [Shooter] Holding. Spin-Up took 0.48 seconds
+[30.00] [ShootCells] Shoot action ended
+[30.00] [ShootCells] Shooting 5 cells
+[30.02] [Hopper] Became idle
+[30.02] [ShootCells] Shoot action ended
+[30.02] [ShootCells] Shooting 5 cells
+[30.04] [ShootCells] Shoot action ended
+[30.04] [ShootCells] Shooting 5 cells
+[30.06] [Shooter] Spinning up to: 3159.50
+[30.06] [ShootCells] Shoot action ended
+[30.06] [ShootCells] Shooting 5 cells
+[30.08] [ShootCells] Shoot action ended
+[30.08] [ShootCells] Shooting 5 cells
+[30.10] [ShootCells] Shoot action ended
+[30.10] [ShootCells] Shooting 5 cells
+[30.12] [ShootCells] Shoot action ended
+[30.12] [ShootCells] Shooting 5 cells
+[30.14] [ShootCells] Shoot action ended
+[30.14] [ShootCells] Shooting 5 cells
+[30.16] [ShootCells] Shoot action ended
+[30.16] [ShootCells] Shooting 5 cells
+[30.18] [ShootCells] Shoot action ended
+[30.18] [ShootCells] Shooting 5 cells
+[30.20] [ShootCells] Shoot action ended
+[30.20] [ShootCells] Shooting 5 cells
+[30.22] [ShootCells] Shoot action ended
+[30.22] [ShootCells] Shooting 5 cells
+[30.24] [ShootCells] Shoot action ended
+[30.24] [ShootCells] Shooting 5 cells
+[30.26] [ShootCells] Shoot action ended
+[30.26] [ShootCells] Shooting 5 cells
+[30.28] [ShootCells] Shoot action ended

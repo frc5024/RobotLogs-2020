@@ -1,0 +1,58 @@
+[2.94] [Climber] In service mode
+[2.94] [Shooter] System idle
+[2.94] [Hopper] Became idle
+[2.94] [PanelManipulator] Became idle
+[2.94] [Intake] System stow requested
+[2.94] [Shooter] Stop requested
+[2.94] [Intake] Stowing intake
+[3.56] [Shooter] System idle
+[8.98] [Robot] Teleop started
+[8.98] [DriveTrain] Enabling brakes
+[8.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[8.98] [Climber] Locked
+[8.98] [Intake] System freeze requested
+[8.98] [Climber] Locked
+[9.03] [FaultReporter] Robot FPGA outputs have been enabled
+[9.10] [Intake] Freezing system
+[10.34] [IntakeCells] Intaking 5 cells
+[10.36] [Intake] Intake requested
+[10.36] [Hopper] Intake requested
+[10.36] [Shooter] Stop requested
+[10.36] [Intake] Intaking balls
+[10.38] [Hopper] Preparing to intake balls
+[10.40] [Shooter] System idle
+[12.28] [Hopper] Intaking balls
+[12.80] [Hopper] Preparing to intake balls
+[13.18] [IntakeCells] Intake action interrupted
+[13.20] [Intake] System stow requested
+[13.20] [Shooter] Stop requested
+[13.20] [Intake] Stowing intake
+[13.22] [Hopper] Became idle
+[13.24] [Shooter] System idle
+[14.70] [ShootCells] Shooting 5 cells
+[14.72] [Intake] System stow requested
+[14.74] [Shooter] Spinning up to: 4450.00
+[14.74] [Hopper] Feeding balls to flywheel
+[16.22] [Hopper] Became idle
+[16.96] [Shooter] Holding. Spin-Up took 2.219 seconds
+[16.96] [Hopper] Feeding balls to flywheel
+[17.08] [ShootCells] Shoot action ended
+[17.10] [Hopper] Became idle
+[17.10] [Intake] System stow requested
+[17.10] [Shooter] Stop requested
+[17.10] [ShootCells] Shooting 5 cells
+[17.12] [Intake] System stow requested
+[17.14] [Shooter] Spinning up to: 4450.00
+[17.14] [Hopper] Feeding balls to flywheel
+[17.14] [ShootCells] Shoot action ended
+[17.16] [Hopper] Became idle
+[17.16] [Intake] System stow requested
+[17.16] [Shooter] Stop requested
+[17.16] [ShootCells] Shooting 5 cells
+[17.18] [Intake] System stow requested
+[17.20] [Shooter] Spinning up to: 4450.00
+[17.20] [Hopper] Feeding balls to flywheel
+[17.20] [ShootCells] Shoot action ended
+[17.22] [Hopper] Became idle
+[17.22] [Intake] System stow requested
+[17.22] [Shooter] Stop requested

@@ -1,0 +1,6 @@
+[350.46] [Robot] Robot disabled
+[350.46] [DriveTrain] Disabling brakes
+[350.46] [DriveTrain] Stopping DriveTrain
+[350.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[350.46] [Climber] In service mode
+[350.46] [FaultReporter] Robot FPGA outputs have been disabled

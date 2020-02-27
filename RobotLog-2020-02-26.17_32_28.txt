@@ -1,0 +1,16 @@
+[Hopper] Became idle
+[ShootCells] Shoot action interrupted
+[FaultReporter] Robot FPGA outputs have been disabled
+[Robot] Robot disabled
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[Intake] System stow requested
+[Shooter] Stop requested
+[Hopper] Shooting interrupt requested
+[Hopper] Pushing balls to bottom
+[Shooter] System idle
+[Hopper] Incrementing ball position
+[Hopper] Became idle

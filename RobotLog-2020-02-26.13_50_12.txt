@@ -1,0 +1,59 @@
+[3.26] [Shooter] System idle
+[17.22] [Robot] Teleop started
+[17.22] [DriveTrain] Enabling brakes
+[17.22] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[17.22] [Climber] Locked
+[17.22] [Intake] System freeze requested
+[17.22] [Climber] Locked
+[17.22] [Intake] Freezing system
+[17.24] [FaultReporter] Robot FPGA outputs have been enabled
+[17.86] [ShootCells] Shooting 5 cells
+[17.88] [Intake] System stow requested
+[17.88] [Intake] Stowing intake
+[17.90] [Shooter] Spinning up to: 3827.00
+[17.90] [Hopper] Feeding balls to flywheel
+[17.90] [ShootCells] Shoot action ended
+[17.90] [ShootCells] Shooting 5 cells
+[17.92] [Hopper] Became idle
+[17.92] [ShootCells] Shoot action ended
+[17.92] [ShootCells] Shooting 5 cells
+[17.94] [ShootCells] Shoot action ended
+[17.94] [ShootCells] Shooting 5 cells
+[17.96] [ShootCells] Shoot action ended
+[17.96] [ShootCells] Shooting 5 cells
+[17.98] [ShootCells] Shoot action ended
+[17.98] [ShootCells] Shooting 5 cells
+[18.00] [ShootCells] Shoot action ended
+[18.00] [ShootCells] Shooting 5 cells
+[18.02] [ShootCells] Shoot action ended
+[18.02] [ShootCells] Shooting 5 cells
+[18.04] [ShootCells] Shoot action ended
+[18.04] [ShootCells] Shooting 5 cells
+[18.06] [ShootCells] Shoot action ended
+[18.06] [ShootCells] Shooting 5 cells
+[18.08] [ShootCells] Shoot action ended
+[18.08] [ShootCells] Shooting 5 cells
+[18.10] [ShootCells] Shoot action ended
+[18.10] [ShootCells] Shooting 5 cells
+[18.12] [ShootCells] Shoot action ended
+[18.12] [ShootCells] Shooting 5 cells
+[18.14] [ShootCells] Shoot action ended
+[18.14] [ShootCells] Shooting 5 cells
+[18.16] [ShootCells] Shoot action ended
+[18.16] [ShootCells] Shooting 5 cells
+[18.18] [ShootCells] Shoot action ended
+[18.18] [ShootCells] Shooting 5 cells
+[18.20] [ShootCells] Shoot action ended
+[18.20] [ShootCells] Shooting 5 cells
+[18.22] [ShootCells] Shoot action ended
+[18.22] [ShootCells] Shooting 5 cells
+[18.24] [ShootCells] Shoot action ended
+[18.24] [ShootCells] Shooting 5 cells
+[18.26] [ShootCells] Shoot action ended
+[18.26] [ShootCells] Shooting 5 cells
+[18.28] [ShootCells] Shoot action ended
+[18.28] [ShootCells] Shooting 5 cells
+[18.30] [ShootCells] Shoot action ended
+[18.30] [ShootCells] Shooting 5 cells
+[18.32] [ShootCells] Shoot action ended
+[18.32] [ShootCells] Shooting 5 cells

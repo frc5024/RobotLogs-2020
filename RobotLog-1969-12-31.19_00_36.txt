@@ -1,0 +1,13 @@
+[6.72] [Robot] Robot disabled
+[6.76] [DriveTrain] Disabling brakes
+[6.80] [DriveTrain] Stopping DriveTrain
+[6.84] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[6.84] [Climber] In service mode
+[6.88] [Shooter] System idle
+[6.92] [Hopper] Became idle
+[6.98] [PanelManipulator] Became idle
+[7.00] [PanelManipulator] Became idle
+[7.00] [Intake] System stow requested
+[7.00] [Shooter] Stop requested
+[7.00] [Intake] Stowing intake
+[7.56] [Shooter] System idle

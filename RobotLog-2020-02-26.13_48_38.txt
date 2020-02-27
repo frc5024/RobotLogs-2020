@@ -1,0 +1,2 @@
+[3.42] [Shooter] System idle
+[5.96] [FaultReporter] Robot FPGA outputs have been enabled

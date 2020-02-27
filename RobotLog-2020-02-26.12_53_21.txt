@@ -1,0 +1,278 @@
+[3.50] [Shooter] System idle
+[10.06] [Robot] Teleop started
+[10.06] [DriveTrain] Enabling brakes
+[10.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[10.06] [Climber] Locked
+[10.06] [Intake] System freeze requested
+[10.06] [Climber] Locked
+[10.06] [FaultReporter] Robot FPGA outputs have been enabled
+[10.08] [Intake] Freezing system
+[11.68] [IntakeCells] Intaking 5 cells
+[11.70] [Intake] Intake requested
+[11.70] [Hopper] Intake requested
+[11.70] [Shooter] Stop requested
+[11.70] [Intake] Intaking balls
+[11.72] [Hopper] Preparing to intake balls
+[11.74] [Shooter] System idle
+[13.38] [Hopper] Intaking balls
+[13.90] [Hopper] Preparing to intake balls
+[14.20] [IntakeCells] Intake action interrupted
+[14.22] [Intake] System stow requested
+[14.22] [Shooter] Stop requested
+[14.22] [Intake] Stowing intake
+[14.24] [Hopper] Became idle
+[14.26] [Shooter] System idle
+[15.16] [ShootCells] Shooting 5 cells
+[15.18] [Intake] System stow requested
+[15.20] [Shooter] Spinning up to: 3604.50
+[15.20] [Hopper] Feeding balls to flywheel
+[16.56] [Shooter] Holding. Spin-Up took 1.359 seconds
+[16.78] [ShootCells] Shoot action ended
+[16.80] [Hopper] Became idle
+[16.80] [Intake] System stow requested
+[16.80] [Shooter] Stop requested
+[16.80] [ShootCells] Shooting 5 cells
+[16.82] [Hopper] Became idle
+[16.82] [Intake] System stow requested
+[16.82] [Shooter] Stop requested
+[16.82] [ShootCells] Shooting 5 cells
+[16.82] [Intake] System stow requested
+[16.84] [Shooter] Spinning up to: 3604.50
+[16.84] [Hopper] Feeding balls to flywheel
+[16.84] [ShootCells] Shoot action ended
+[16.86] [Shooter] Holding. Spin-Up took 0.017 seconds
+[16.86] [Hopper] Became idle
+[16.86] [Intake] System stow requested
+[16.86] [Shooter] Stop requested
+[16.86] [ShootCells] Shooting 5 cells
+[16.88] [Intake] System stow requested
+[16.90] [Shooter] Spinning up to: 3604.50
+[16.90] [Hopper] Feeding balls to flywheel
+[16.90] [ShootCells] Shoot action ended
+[16.92] [Hopper] Became idle
+[16.92] [Intake] System stow requested
+[16.92] [Shooter] Stop requested
+[16.96] [Shooter] System idle
+[16.98] [ShootCells] Shooting 5 cells
+[17.00] [Intake] System stow requested
+[17.02] [Shooter] Spinning up to: 3604.50
+[17.02] [Hopper] Feeding balls to flywheel
+[17.02] [ShootCells] Shoot action ended
+[17.04] [Hopper] Became idle
+[17.04] [Intake] System stow requested
+[17.04] [Shooter] Stop requested
+[17.08] [Shooter] System idle
+[38.68] [IntakeCells] Intaking 5 cells
+[38.70] [Intake] Intake requested
+[38.70] [Hopper] Intake requested
+[38.70] [Shooter] Stop requested
+[38.70] [Intake] Intaking balls
+[38.72] [Hopper] Preparing to intake balls
+[38.74] [Shooter] System idle
+[40.64] [Hopper] Intaking balls
+[41.14] [Hopper] Preparing to intake balls
+[41.52] [IntakeCells] Intake action interrupted
+[41.54] [Intake] System stow requested
+[41.54] [Shooter] Stop requested
+[41.54] [Intake] Stowing intake
+[41.56] [Hopper] Became idle
+[41.58] [Shooter] System idle
+[42.54] [ShootCells] Shooting 5 cells
+[42.56] [Intake] System stow requested
+[42.58] [Shooter] Spinning up to: 3604.50
+[42.58] [Hopper] Feeding balls to flywheel
+[43.92] [Shooter] Holding. Spin-Up took 1.339 seconds
+[44.16] [ShootCells] Shoot action ended
+[44.18] [Hopper] Became idle
+[44.18] [Intake] System stow requested
+[44.18] [Shooter] Stop requested
+[44.18] [ShootCells] Shooting 5 cells
+[44.20] [Intake] System stow requested
+[44.22] [Shooter] Spinning up to: 3604.50
+[44.22] [Hopper] Feeding balls to flywheel
+[44.22] [ShootCells] Shoot action ended
+[44.24] [Shooter] Holding. Spin-Up took 0.022 seconds
+[44.24] [Hopper] Became idle
+[44.24] [Intake] System stow requested
+[44.24] [Shooter] Stop requested
+[44.24] [ShootCells] Shooting 5 cells
+[44.26] [Intake] System stow requested
+[44.28] [Shooter] Spinning up to: 3604.50
+[44.28] [Hopper] Feeding balls to flywheel
+[44.28] [ShootCells] Shoot action ended
+[44.30] [Hopper] Became idle
+[44.30] [Intake] System stow requested
+[44.30] [Shooter] Stop requested
+[44.30] [ShootCells] Shooting 5 cells
+[44.32] [Intake] System stow requested
+[44.34] [Shooter] Spinning up to: 3604.50
+[44.34] [Hopper] Feeding balls to flywheel
+[44.34] [ShootCells] Shoot action ended
+[44.36] [Hopper] Became idle
+[44.36] [Intake] System stow requested
+[44.36] [Shooter] Stop requested
+[44.40] [Shooter] System idle
+[65.80] [IntakeCells] Intaking 5 cells
+[65.82] [Intake] Intake requested
+[65.82] [Hopper] Intake requested
+[65.82] [Shooter] Stop requested
+[65.82] [Intake] Intaking balls
+[65.84] [Hopper] Preparing to intake balls
+[65.86] [Shooter] System idle
+[68.08] [Hopper] Intaking balls
+[68.66] [Hopper] Preparing to intake balls
+[68.78] [IntakeCells] Intake action interrupted
+[68.80] [Intake] System stow requested
+[68.80] [Shooter] Stop requested
+[68.80] [Intake] Stowing intake
+[68.82] [Hopper] Became idle
+[68.84] [Shooter] System idle
+[69.80] [ShootCells] Shooting 5 cells
+[69.82] [Intake] System stow requested
+[69.84] [Shooter] Spinning up to: 3604.50
+[69.84] [Hopper] Feeding balls to flywheel
+[71.20] [Shooter] Holding. Spin-Up took 1.36 seconds
+[71.42] [ShootCells] Shoot action ended
+[71.44] [Hopper] Became idle
+[71.44] [Intake] System stow requested
+[71.44] [Shooter] Stop requested
+[71.44] [ShootCells] Shooting 5 cells
+[71.46] [Intake] System stow requested
+[71.48] [Shooter] Spinning up to: 3604.50
+[71.48] [Hopper] Feeding balls to flywheel
+[71.48] [ShootCells] Shoot action ended
+[71.50] [Shooter] Spinning up to: 3604.50
+[71.50] [Hopper] Feeding balls to flywheel
+[71.50] [ShootCells] Shoot action ended
+[71.50] [Shooter] Holding. Spin-Up took 0.019 seconds
+[71.50] [Hopper] Became idle
+[71.50] [Intake] System stow requested
+[71.50] [Shooter] Stop requested
+[71.50] [ShootCells] Shooting 5 cells
+[71.52] [Intake] System stow requested
+[71.54] [Shooter] Spinning up to: 3604.50
+[71.54] [Hopper] Feeding balls to flywheel
+[71.54] [ShootCells] Shoot action ended
+[71.56] [Hopper] Became idle
+[71.56] [Intake] System stow requested
+[71.56] [Shooter] Stop requested
+[71.56] [ShootCells] Shooting 5 cells
+[71.58] [Intake] System stow requested
+[71.60] [Shooter] Spinning up to: 3604.50
+[71.60] [Hopper] Feeding balls to flywheel
+[71.60] [ShootCells] Shoot action ended
+[71.62] [Hopper] Became idle
+[71.62] [Intake] System stow requested
+[71.62] [Shooter] Stop requested
+[71.66] [Shooter] System idle
+[71.70] [ShootCells] Shooting 5 cells
+[71.72] [Intake] System stow requested
+[71.74] [Shooter] Spinning up to: 3604.50
+[71.74] [Hopper] Feeding balls to flywheel
+[71.74] [ShootCells] Shoot action ended
+[71.76] [Hopper] Became idle
+[71.76] [Intake] System stow requested
+[71.76] [Shooter] Stop requested
+[71.80] [Shooter] System idle
+[90.66] [IntakeCells] Intaking 5 cells
+[90.68] [Intake] Intake requested
+[90.68] [Hopper] Intake requested
+[90.68] [Shooter] Stop requested
+[90.68] [Intake] Intaking balls
+[90.70] [Hopper] Preparing to intake balls
+[90.72] [Shooter] System idle
+[92.92] [Hopper] Intaking balls
+[93.48] [Hopper] Preparing to intake balls
+[93.84] [IntakeCells] Intake action interrupted
+[93.86] [Intake] System stow requested
+[93.86] [Shooter] Stop requested
+[93.86] [Intake] Stowing intake
+[93.88] [Hopper] Became idle
+[93.90] [Shooter] System idle
+[95.32] [ShootCells] Shooting 5 cells
+[95.34] [Intake] System stow requested
+[95.36] [Shooter] Spinning up to: 3604.50
+[95.36] [Hopper] Feeding balls to flywheel
+[96.70] [Shooter] Holding. Spin-Up took 1.34 seconds
+[96.96] [ShootCells] Shoot action ended
+[96.98] [Hopper] Became idle
+[96.98] [Intake] System stow requested
+[96.98] [Shooter] Stop requested
+[96.98] [ShootCells] Shooting 5 cells
+[97.00] [Intake] System stow requested
+[97.02] [Shooter] Spinning up to: 3604.50
+[97.02] [Hopper] Feeding balls to flywheel
+[97.02] [ShootCells] Shoot action ended
+[97.04] [Shooter] Holding. Spin-Up took 0.021 seconds
+[97.04] [Hopper] Became idle
+[97.04] [Intake] System stow requested
+[97.04] [Shooter] Stop requested
+[97.04] [ShootCells] Shooting 5 cells
+[97.06] [Intake] System stow requested
+[97.08] [Shooter] Spinning up to: 3604.50
+[97.08] [Hopper] Feeding balls to flywheel
+[97.08] [ShootCells] Shoot action ended
+[97.10] [Hopper] Became idle
+[97.10] [Intake] System stow requested
+[97.10] [Shooter] Stop requested
+[97.10] [ShootCells] Shooting 5 cells
+[97.12] [Intake] System stow requested
+[97.14] [Shooter] Spinning up to: 3604.50
+[97.14] [Hopper] Feeding balls to flywheel
+[97.14] [ShootCells] Shoot action ended
+[97.16] [Hopper] Became idle
+[97.16] [Intake] System stow requested
+[97.16] [Shooter] Stop requested
+[97.20] [Shooter] System idle
+[97.24] [ShootCells] Shooting 5 cells
+[97.26] [Intake] System stow requested
+[97.26] [ShootCells] Shoot action interrupted
+[97.28] [Shooter] Spinning up to: 3604.50
+[97.28] [Intake] System stow requested
+[97.28] [Shooter] Stop requested
+[97.32] [Shooter] System idle
+[110.04] [IntakeCells] Intaking 5 cells
+[110.06] [Intake] Intake requested
+[110.06] [Hopper] Intake requested
+[110.06] [Shooter] Stop requested
+[110.06] [Intake] Intaking balls
+[110.08] [Hopper] Preparing to intake balls
+[110.10] [Shooter] System idle
+[111.64] [Hopper] Intaking balls
+[112.16] [Hopper] Preparing to intake balls
+[112.50] [IntakeCells] Intake action interrupted
+[112.52] [Intake] System stow requested
+[112.52] [Shooter] Stop requested
+[112.52] [Intake] Stowing intake
+[112.54] [Hopper] Became idle
+[112.56] [Shooter] System idle
+[113.46] [ShootCells] Shooting 5 cells
+[113.48] [Intake] System stow requested
+[113.50] [Shooter] Spinning up to: 3604.50
+[113.50] [Hopper] Feeding balls to flywheel
+[114.86] [Shooter] Holding. Spin-Up took 1.358 seconds
+[115.14] [ShootCells] Shoot action ended
+[115.16] [Hopper] Became idle
+[115.16] [Intake] System stow requested
+[115.16] [Shooter] Stop requested
+[115.18] [Hopper] Became idle
+[115.18] [Intake] System stow requested
+[115.18] [Shooter] Stop requested
+[115.18] [ShootCells] Shooting 5 cells
+[115.18] [Intake] System stow requested
+[115.20] [Shooter] Spinning up to: 3604.50
+[115.20] [Hopper] Feeding balls to flywheel
+[115.20] [ShootCells] Shoot action ended
+[115.22] [Shooter] Holding. Spin-Up took 0.025 seconds
+[115.22] [Hopper] Became idle
+[115.22] [Intake] System stow requested
+[115.22] [Shooter] Stop requested
+[115.22] [ShootCells] Shooting 5 cells
+[115.24] [Intake] System stow requested
+[115.26] [Shooter] Spinning up to: 3604.50
+[115.26] [Hopper] Feeding balls to flywheel
+[115.26] [ShootCells] Shoot action ended
+[115.28] [Hopper] Became idle
+[115.28] [Intake] System stow requested
+[115.28] [Shooter] Stop requested
+[115.32] [Shooter] System idle

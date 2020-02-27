@@ -1,0 +1,149 @@
+[2.95] [FaultReporter] 3v3 Rail Enabled
+[2.98] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[2.98] LIBRARY: [FaultReporter] Starting reporter thread
+[2.98] [FaultReporter] 3v3 Rail Enabled
+[2.98] [FaultReporter] 5v Rail Enabled
+[2.98] [FaultReporter] 3v3 Rail Enabled
+[2.98] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[2.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.98] [PanelManipulator] Loaded color threshold: 126.48
+[2.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.98] [Chooser] Publishing auton options
+[2.98] [Chooser] Reading autonomous position
+[2.98] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: 0.00, Deg: 0.00))
+[2.98] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.98] [Robot] Robot disabled
+[2.98] [DriveTrain] Disabling brakes
+[2.98] [DriveTrain] Stopping DriveTrain
+[2.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.98] [Climber] In service mode
+[2.98] [Shooter] System idle
+[2.98] [Hopper] Became idle
+[2.98] [PanelManipulator] Became idle
+[2.98] [Intake] System stow requested
+[2.98] [Shooter] Stop requested
+[2.98] [Intake] Stowing intake
+[3.80] [Shooter] System idle
+[14.04] [Robot] Teleop started
+[14.04] [DriveTrain] Enabling brakes
+[14.04] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[14.04] [Climber] Locked
+[14.04] [Intake] System freeze requested
+[14.04] [Climber] Locked
+[14.04] [FaultReporter] Robot FPGA outputs have been enabled
+[14.04] [Intake] Freezing system
+[14.34] [IntakeCells] Intaking 5 cells
+[14.36] [Intake] Intake requested
+[14.36] [Hopper] Intake requested
+[14.36] [Shooter] Stop requested
+[14.36] [Intake] Intaking balls
+[14.38] [Hopper] Preparing to intake balls
+[14.40] [Shooter] System idle
+[15.64] [Hopper] Intaking balls
+[16.20] [Hopper] Preparing to intake balls
+[16.26] [IntakeCells] Intake action interrupted
+[16.28] [Intake] System stow requested
+[16.28] [Shooter] Stop requested
+[16.28] [Intake] Stowing intake
+[16.30] [Hopper] Became idle
+[16.32] [Shooter] System idle
+[16.80] [ShootCells] Shooting 5 cells
+[16.82] [Intake] System stow requested
+[16.84] [Shooter] Spinning up to: 3560.00
+[16.84] [Hopper] Feeding balls to flywheel
+[18.22] [Hopper] Became idle
+[18.34] [Shooter] Holding. Spin-Up took 1.499 seconds
+[18.34] [Hopper] Feeding balls to flywheel
+[18.54] [ShootCells] Shoot action ended
+[18.54] [ShootCells] Shooting 5 cells
+[18.56] [Hopper] Became idle
+[18.56] [ShootCells] Shoot action ended
+[18.56] [ShootCells] Shooting 5 cells
+[18.58] [ShootCells] Shoot action ended
+[18.58] [ShootCells] Shooting 5 cells
+[18.60] [ShootCells] Shoot action ended
+[18.60] [ShootCells] Shooting 5 cells
+[18.62] [Shooter] Spinning up to: 3560.00
+[18.62] [ShootCells] Shoot action ended
+[18.62] [ShootCells] Shooting 5 cells
+[18.64] [ShootCells] Shoot action ended
+[18.64] [ShootCells] Shooting 5 cells
+[18.66] [ShootCells] Shoot action ended
+[18.66] [ShootCells] Shooting 5 cells
+[18.68] [ShootCells] Shoot action ended
+[18.68] [ShootCells] Shooting 5 cells
+[18.70] [ShootCells] Shoot action ended
+[18.70] [ShootCells] Shooting 5 cells
+[18.72] [ShootCells] Shoot action ended
+[18.72] [ShootCells] Shooting 5 cells
+[18.74] [ShootCells] Shoot action ended
+[18.74] [ShootCells] Shooting 5 cells
+[18.76] [ShootCells] Shoot action ended
+[18.76] [ShootCells] Shooting 5 cells
+[18.78] [ShootCells] Shoot action ended
+[18.78] [ShootCells] Shooting 5 cells
+[18.80] [ShootCells] Shoot action ended
+[18.80] [ShootCells] Shooting 5 cells
+[18.82] [ShootCells] Shoot action ended
+[18.82] [ShootCells] Shooting 5 cells
+[18.84] [ShootCells] Shoot action ended
+[18.84] [ShootCells] Shooting 5 cells
+[18.86] [ShootCells] Shoot action ended
+[18.86] [ShootCells] Shooting 5 cells
+[18.88] [ShootCells] Shoot action ended
+[18.88] [ShootCells] Shooting 5 cells
+[18.90] [ShootCells] Shoot action ended
+[18.90] [ShootCells] Shooting 5 cells
+[18.92] [ShootCells] Shoot action ended
+[18.92] [ShootCells] Shooting 5 cells
+[18.96] [ShootCells] Shoot action ended
+[18.96] [ShootCells] Shooting 5 cells
+[19.00] [ShootCells] Shoot action ended
+[19.00] [ShootCells] Shooting 5 cells
+[19.00] [Shooter] Holding. Spin-Up took 0.389 seconds
+[19.00] [ShootCells] Shoot action ended
+[19.00] [ShootCells] Shooting 5 cells
+[19.02] [ShootCells] Shoot action ended
+[19.02] [ShootCells] Shooting 5 cells
+[19.02] [ShootCells] Shoot action ended
+[19.02] [ShootCells] Shooting 5 cells
+[19.04] [ShootCells] Shoot action ended
+[19.04] [ShootCells] Shooting 5 cells
+[19.06] [ShootCells] Shoot action ended
+[19.06] [ShootCells] Shooting 5 cells
+[19.08] [ShootCells] Shoot action ended
+[19.08] [ShootCells] Shooting 5 cells
+[19.10] [ShootCells] Shoot action ended
+[19.10] [ShootCells] Shooting 5 cells
+[19.12] [ShootCells] Shoot action ended
+[19.12] [ShootCells] Shooting 5 cells
+[19.14] [ShootCells] Shoot action ended
+[19.14] [ShootCells] Shooting 5 cells
+[19.16] [ShootCells] Shoot action ended
+[19.16] [ShootCells] Shooting 5 cells
+[19.18] [ShootCells] Shoot action ended
+[19.18] [ShootCells] Shooting 5 cells
+[19.20] [ShootCells] Shoot action ended
+[19.20] [ShootCells] Shooting 5 cells
+[19.22] [ShootCells] Shoot action ended
+[19.22] [ShootCells] Shooting 5 cells
+[19.24] [ShootCells] Shoot action ended
+[19.24] [ShootCells] Shooting 5 cells
+[19.26] [ShootCells] Shoot action ended
+[19.26] [ShootCells] Shooting 5 cells
+[19.28] [ShootCells] Shoot action ended
+[19.28] [ShootCells] Shooting 5 cells
+[19.30] [ShootCells] Shoot action ended
+[19.30] [ShootCells] Shooting 5 cells
+[19.32] [ShootCells] Shoot action ended
+[19.32] [ShootCells] Shooting 5 cells
+[19.34] [ShootCells] Shoot action ended
+[19.34] [ShootCells] Shooting 5 cells
+[19.36] [ShootCells] Shoot action ended
+[19.36] [ShootCells] Shooting 5 cells
+[19.38] [ShootCells] Shoot action ended
+[19.38] [ShootCells] Shooting 5 cells
+[19.40] [ShootCells] Shoot action ended
+[19.42] [Intake] System stow requested
+[19.42] [Shooter] Stop requested
+[19.46] [Shooter] System idle

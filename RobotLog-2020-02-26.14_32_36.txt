@@ -1,0 +1,54 @@
+[3.38] [Shooter] System idle
+[13.12] [Robot] Teleop started
+[13.12] [DriveTrain] Enabling brakes
+[13.12] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[13.12] [Climber] Locked
+[13.12] [Intake] System freeze requested
+[13.14] [Climber] Locked
+[13.16] [Intake] Freezing system
+[13.18] [FaultReporter] Robot FPGA outputs have been enabled
+[16.32] [IntakeCells] Intaking 5 cells
+[16.34] [Intake] Intake requested
+[16.34] [Hopper] Intake requested
+[16.34] [Shooter] Stop requested
+[16.34] [Intake] Intaking balls
+[16.36] [Hopper] Preparing to intake balls
+[16.38] [Shooter] System idle
+[21.30] [Hopper] Intaking balls
+[21.82] [Hopper] Preparing to intake balls
+[22.10] [IntakeCells] Intake action interrupted
+[22.12] [Intake] System stow requested
+[22.12] [Shooter] Stop requested
+[22.12] [Intake] Stowing intake
+[22.14] [Hopper] Became idle
+[22.16] [Shooter] System idle
+[24.56] [ShootCells] Shooting 5 cells
+[24.58] [Intake] System stow requested
+[24.60] [Shooter] Spinning up to: 3070.50
+[24.62] [Hopper] Feeding balls to flywheel
+[25.88] [Shooter] Holding. Spin-Up took 1.28 seconds
+[26.08] [ShootCells] Shoot action ended
+[26.08] [ShootCells] Shooting 5 cells
+[26.08] [Hopper] Became idle
+[26.08] [ShootCells] Shoot action ended
+[26.08] [ShootCells] Shooting 5 cells
+[26.10] [ShootCells] Shoot action ended
+[26.10] [ShootCells] Shooting 5 cells
+[26.12] [ShootCells] Shoot action ended
+[26.12] [ShootCells] Shooting 5 cells
+[26.14] [ShootCells] Shoot action ended
+[26.14] [ShootCells] Shooting 5 cells
+[26.16] [Shooter] Spinning up to: 3070.50
+[26.18] [ShootCells] Shoot action ended
+[26.18] [ShootCells] Shooting 5 cells
+[26.20] [ShootCells] Shoot action ended
+[26.20] [ShootCells] Shooting 5 cells
+[26.22] [ShootCells] Shoot action ended
+[26.22] [ShootCells] Shooting 5 cells
+[26.24] [ShootCells] Shoot action ended
+[26.24] [ShootCells] Shooting 5 cells
+[26.26] [ShootCells] Shoot action ended
+[26.26] [ShootCells] Shooting 5 cells
+[26.28] [ShootCells] Shoot action ended
+[26.28] [ShootCells] Shooting 5 cells
+[26.30] [ShootCells] Shoot action ended

@@ -1,0 +1,7 @@
+[3.23] [Shooter] System idle
+[6.65] [Robot] Teleop started
+[6.67] [DriveTrain] Enabling brakes
+[6.67] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[6.67] [Climber] Locked
+[6.67] [Intake] System freeze requested
+[6.69] [Climber] Locked

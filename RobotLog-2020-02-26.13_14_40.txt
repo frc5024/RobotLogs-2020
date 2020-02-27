@@ -1,0 +1,53 @@
+[3.46] [Shooter] System idle
+[5.16] [Robot] Teleop started
+[5.16] [DriveTrain] Enabling brakes
+[5.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[5.16] [Climber] Locked
+[5.16] [Intake] System freeze requested
+[5.20] [Climber] Locked
+[5.20] [FaultReporter] Robot FPGA outputs have been enabled
+[5.20] [Intake] Freezing system
+[8.76] [IntakeCells] Intaking 5 cells
+[8.78] [Intake] Intake requested
+[8.78] [Hopper] Intake requested
+[8.78] [Shooter] Stop requested
+[8.78] [Intake] Intaking balls
+[8.80] [Hopper] Preparing to intake balls
+[8.82] [Shooter] System idle
+[10.92] [Hopper] Intaking balls
+[11.44] [Hopper] Preparing to intake balls
+[12.42] [IntakeCells] Intake action interrupted
+[12.44] [Intake] System stow requested
+[12.44] [Shooter] Stop requested
+[12.44] [Intake] Stowing intake
+[12.46] [Hopper] Became idle
+[12.48] [Shooter] System idle
+[14.10] [ShootCells] Shooting 5 cells
+[14.12] [Intake] System stow requested
+[14.14] [Shooter] Spinning up to: 4450.00
+[14.16] [Hopper] Feeding balls to flywheel
+[15.64] [Hopper] Became idle
+[17.08] [Shooter] Holding. Spin-Up took 2.938 seconds
+[17.08] [Hopper] Feeding balls to flywheel
+[17.20] [Shooter] Spinning up to: 4450.00
+[17.20] [Hopper] Became idle
+[17.26] [ShootCells] Shoot action ended
+[17.28] [Intake] System stow requested
+[17.28] [Shooter] Stop requested
+[17.28] [ShootCells] Shooting 5 cells
+[17.30] [Intake] System stow requested
+[17.32] [Shooter] Spinning up to: 4450.00
+[17.32] [Hopper] Feeding balls to flywheel
+[17.34] [Shooter] Spinning up to: 4450.00
+[17.34] [Hopper] Feeding balls to flywheel
+[17.34] [ShootCells] Shoot action ended
+[17.34] [Hopper] Became idle
+[17.34] [Intake] System stow requested
+[17.34] [Shooter] Stop requested
+[17.34] [ShootCells] Shooting 5 cells
+[17.36] [Intake] System stow requested
+[17.38] [Shooter] Spinning up to: 4450.00
+[17.38] [Hopper] Feeding balls to flywheel
+[17.38] [ShootCells] Shoot action ended
+[17.40] [Hopper] Became idle
+[17.40] [Intake] System stow requested
