@@ -1,0 +1,97 @@
+[2.94] [Shooter] Stop requested
+[2.94] [Intake] Stowing intake
+[3.45] [Shooter] System idle
+[21.05] [Robot] Teleop started
+[21.05] [DriveTrain] Enabling brakes
+[21.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[21.05] [Climber] Locked
+[21.05] [Intake] System freeze requested
+[21.05] [Climber] Locked
+[21.07] [Intake] Freezing system
+[21.09] [FaultReporter] Robot FPGA outputs have been enabled
+[28.61] [IntakeCells] Intaking 5 cells
+[28.63] [Intake] Intake requested
+[28.63] [Hopper] Intake requested
+[28.63] [Shooter] Stop requested
+[28.63] [Intake] Intaking balls
+[28.65] [Hopper] Preparing to intake balls
+[28.67] [Shooter] System idle
+[36.29] [Hopper] Intaking balls
+[36.81] [Hopper] Preparing to intake balls
+[39.31] [Hopper] Intaking balls
+[39.51] [Hopper] Preparing to intake balls
+[41.77] [IntakeCells] Intake action interrupted
+[41.79] [Intake] System stow requested
+[41.79] [Shooter] Stop requested
+[41.79] [Intake] Stowing intake
+[41.81] [Hopper] Became idle
+[41.83] [Shooter] System idle
+[44.99] [IntakeCells] Intaking 5 cells
+[45.01] [Intake] Intake requested
+[45.01] [Hopper] Intake requested
+[45.01] [Shooter] Stop requested
+[45.01] [Intake] Intaking balls
+[45.03] [Hopper] Preparing to intake balls
+[45.05] [Shooter] System idle
+[45.23] [Hopper] Intaking balls
+[45.65] [Hopper] Preparing to intake balls
+[47.03] [Hopper] Intaking balls
+[47.71] [Hopper] Preparing to intake balls
+[48.41] [Hopper] Intaking balls
+[48.81] [IntakeCells] Intake action ended
+[48.81] [IntakeCells] Intaking 5 cells
+[48.83] [Intake] System stow requested
+[48.83] [Shooter] Stop requested
+[48.83] [Intake] Stowing intake
+[48.83] [IntakeCells] Intake action ended
+[48.83] [IntakeCells] Intaking 5 cells
+[48.85] [Hopper] Became idle
+[48.85] [IntakeCells] Intake action ended
+[48.85] [IntakeCells] Intaking 5 cells
+[48.87] [Shooter] System idle
+[48.87] [IntakeCells] Intake action ended
+[48.87] [IntakeCells] Intaking 5 cells
+[48.89] [IntakeCells] Intake action ended
+[48.89] [IntakeCells] Intaking 5 cells
+[48.91] [IntakeCells] Intake action ended
+[48.91] [IntakeCells] Intaking 5 cells
+[48.93] [IntakeCells] Intake action ended
+[48.93] [IntakeCells] Intaking 5 cells
+[48.95] [IntakeCells] Intake action ended
+[48.95] [IntakeCells] Intaking 5 cells
+[48.97] [IntakeCells] Intake action ended
+[48.97] [IntakeCells] Intaking 5 cells
+[48.99] [IntakeCells] Intake action ended
+[48.99] [IntakeCells] Intaking 5 cells
+[49.01] [IntakeCells] Intake action ended
+[49.01] [IntakeCells] Intaking 5 cells
+[49.03] [IntakeCells] Intake action ended
+[49.03] [IntakeCells] Intaking 5 cells
+[49.05] [IntakeCells] Intake action ended
+[49.05] [IntakeCells] Intaking 5 cells
+[49.07] [IntakeCells] Intake action ended
+[49.07] [IntakeCells] Intaking 5 cells
+[49.09] [IntakeCells] Intake action ended
+[49.09] [IntakeCells] Intaking 5 cells
+[49.11] [IntakeCells] Intake action ended
+[49.11] [IntakeCells] Intaking 5 cells
+[49.13] [IntakeCells] Intake action ended
+[49.13] [IntakeCells] Intaking 5 cells
+[49.15] [IntakeCells] Intake action ended
+[49.15] [IntakeCells] Intaking 5 cells
+[49.17] [IntakeCells] Intake action ended
+[49.17] [IntakeCells] Intaking 5 cells
+[49.19] [IntakeCells] Intake action ended
+[49.19] [IntakeCells] Intaking 5 cells
+[49.21] [IntakeCells] Intake action ended
+[49.21] [IntakeCells] Intaking 5 cells
+[49.23] [IntakeCells] Intake action ended
+[49.23] [IntakeCells] Intaking 5 cells
+[49.25] [IntakeCells] Intake action ended
+[49.25] [IntakeCells] Intaking 5 cells
+[49.27] [IntakeCells] Intake action ended
+[49.27] [IntakeCells] Intaking 5 cells
+[49.29] [IntakeCells] Intake action ended
+[49.29] [IntakeCells] Intaking 5 cells
+[49.31] [IntakeCells] Intake action ended
+[49.31] [IntakeCells] Intaking 5 cells

@@ -1,0 +1,20 @@
+[99.95] [Robot] Robot disabled
+[99.95] [DriveTrain] Disabling brakes
+[99.95] [DriveTrain] Stopping DriveTrain
+[99.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[99.95] [Climber] In service mode
+[99.95] [FaultReporter] Robot FPGA outputs have been disabled
+[221.17] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[286.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[288.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[349.23] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[351.23] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[353.23] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[390.11] [Robot] Teleop started
+[390.11] [DriveTrain] Enabling brakes
+[390.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[390.11] [Climber] Locked
+[390.11] [Intake] System freeze requested
+[390.11] [Climber] Locked
+[390.11] [Intake] Freezing system
+[390.11] [FaultReporter] Robot FPGA outputs have been enabled

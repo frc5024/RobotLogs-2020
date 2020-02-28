@@ -1,0 +1,64 @@
+[3.13] [Shooter] System idle
+[7.37] [Robot] Teleop started
+[7.37] [DriveTrain] Enabling brakes
+[7.37] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.37] [Climber] Locked
+[7.37] [Intake] System freeze requested
+[7.37] [Climber] Locked
+[7.39] [Intake] Freezing system
+[7.41] [Intake] Freezing system
+[7.41] [FaultReporter] Robot FPGA outputs have been enabled
+[9.93] [TimePanel] Constructing
+[9.93] [TimePanel] Rotating for 5.50 seconds
+[9.93] [Panel Manipulator] Rotating for 5.50 seconds
+[15.47] [TimePanel] Finished spinning
+[15.47] [PanelManipulator] Stop requested
+[15.49] [PanelManipulator] Became idle
+[20.63] [TimePanel] Constructing
+[20.63] [TimePanel] Rotating for 0.40 seconds
+[20.63] [Panel Manipulator] Rotating for 0.40 seconds
+[21.05] [TimePanel] Finished spinning
+[21.05] [PanelManipulator] Stop requested
+[21.07] [PanelManipulator] Became idle
+[24.47] [TimePanel] Constructing
+[24.47] [TimePanel] Rotating for 0.40 seconds
+[24.47] [Panel Manipulator] Rotating for 0.40 seconds
+[24.89] [TimePanel] Finished spinning
+[24.89] [PanelManipulator] Stop requested
+[24.91] [PanelManipulator] Became idle
+[26.49] [TimePanel] Constructing
+[26.49] [TimePanel] Rotating for 0.40 seconds
+[26.49] [Panel Manipulator] Rotating for 0.40 seconds
+[26.93] [TimePanel] Finished spinning
+[26.93] [PanelManipulator] Stop requested
+[26.95] [PanelManipulator] Became idle
+[28.15] [TimePanel] Constructing
+[28.15] [TimePanel] Rotating for 0.40 seconds
+[28.15] [Panel Manipulator] Rotating for 0.40 seconds
+[28.57] [TimePanel] Finished spinning
+[28.57] [PanelManipulator] Stop requested
+[28.59] [PanelManipulator] Became idle
+[29.23] [TimePanel] Constructing
+[29.23] [TimePanel] Rotating for 0.40 seconds
+[29.23] [Panel Manipulator] Rotating for 0.40 seconds
+[29.65] [TimePanel] Finished spinning
+[29.65] [PanelManipulator] Stop requested
+[29.67] [PanelManipulator] Became idle
+[30.33] [TimePanel] Constructing
+[30.33] [TimePanel] Rotating for 0.40 seconds
+[30.33] [Panel Manipulator] Rotating for 0.40 seconds
+[30.75] [TimePanel] Finished spinning
+[30.75] [PanelManipulator] Stop requested
+[30.77] [PanelManipulator] Became idle
+[31.29] [TimePanel] Constructing
+[31.29] [TimePanel] Rotating for 0.40 seconds
+[31.29] [Panel Manipulator] Rotating for 0.40 seconds
+[31.71] [TimePanel] Finished spinning
+[31.71] [PanelManipulator] Stop requested
+[31.73] [PanelManipulator] Became idle
+[32.23] [TimePanel] Constructing
+[32.23] [TimePanel] Rotating for 0.40 seconds
+[32.23] [Panel Manipulator] Rotating for 0.40 seconds
+[32.65] [TimePanel] Finished spinning
+[32.65] [PanelManipulator] Stop requested
+[32.67] [PanelManipulator] Became idle

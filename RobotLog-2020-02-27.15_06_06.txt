@@ -1,0 +1,79 @@
+[3.36] [Shooter] System idle
+[13.02] [Robot] Autonomous started
+[13.02] [Chooser] Generating autonomous command object
+[13.04] [FaultReporter] Robot FPGA outputs have been enabled
+[13.08] [Chooser] Reading autonomous position
+[13.08] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[13.08] [DriveTrain] Enabling brakes
+[13.08] [Climber] Locked
+[13.08] [Hopper] Cell count force-set to: 3
+[13.08]  Starting autonomous actions
+[13.14] [DriveTrain] Stopping DriveTrain
+[13.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.54] [DriveTrain] Stopping DriveTrain
+[14.54] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.54] [Shooter] Fallback velocity set to: 3293.0
+[14.56] [ShootCells] Shooting 3 cells
+[14.58] [Intake] System stow requested
+[14.60] [Shooter] Spinning up to: 3293.00
+[14.62] [Hopper] Feeding balls to flywheel
+[14.88] [Hopper] Became idle
+[16.02] [Shooter] Holding. Spin-Up took 1.4 seconds
+[16.02] [Hopper] Feeding balls to flywheel
+[16.30] [Shooter] Spinning up to: 3293.00
+[16.56] [Hopper] Became idle
+[16.58] [Shooter] Holding. Spin-Up took 0.28 seconds
+[16.58] [Hopper] Feeding balls to flywheel
+[16.74] [ShootCells] Shoot action ended
+[16.74] [Hopper] Became idle
+[16.76] [ShootCells] Shoot action ended
+[16.76] [Hopper] Became idle
+[16.76] [Intake] System stow requested
+[16.76] [Shooter] Stop requested
+[16.78] [Shooter] System idle
+[18.34] [DriveTrain] Stopping DriveTrain
+[18.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.36] [IntakeCells] Intaking 2 cells
+[18.36] [DrivePath] Driving path
+[18.36] [Intake] Intake requested
+[18.36] [Hopper] Intake requested
+[18.36] [Shooter] Stop requested
+[18.36] [Intake] Intaking balls
+[18.40] [Hopper] Preparing to intake balls
+[18.42] [Shooter] System idle
+[19.24] [DrivePath] Finished driving path
+[19.24] [DriveTrain] Stopping DriveTrain
+[19.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.24] [DrivePath] Driving path
+[20.60] [Hopper] Intaking balls
+[21.00] [IntakeCells] Intake action ended
+[21.00] [DrivePath] Finished driving path
+[21.00] [DriveTrain] Stopping DriveTrain
+[21.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[21.02] [Intake] System stow requested
+[21.02] [Shooter] Stop requested
+[21.02] [Intake] Stowing intake
+[21.04] [Hopper] Became idle
+[21.06] [Shooter] System idle
+[21.44] WARNING: [FaultReporter] Robot brownout detected!
+[21.44] [FaultReporter] Robot FPGA outputs have been disabled
+[21.44] [FaultReporter] 3v3 Rail Disabled
+[21.52] [FaultReporter] Robot FPGA outputs have been enabled
+[21.52] [FaultReporter] 3v3 Rail Enabled
+[22.72] [DriveTrain] Stopping DriveTrain
+[22.72] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[22.72] [Shooter] Fallback velocity set to: 3693.5
+[22.74] [Hopper] Cell count force-set to: 2
+[22.76] [ShootCells] Shooting 2 cells
+[22.78] [Intake] System stow requested
+[22.80] [Shooter] Spinning up to: 3693.50
+[22.82] [Hopper] Feeding balls to flywheel
+[22.84] [Hopper] Became idle
+[25.80] [ShootCells] Shoot action interrupted
+[25.86] [Intake] System stow requested
+[25.86] [Shooter] Stop requested
+[25.86] [Hopper] Shooting interrupt requested
+[25.92] [Hopper] Pushing balls to bottom
+[25.92] [Shooter] System idle
+[26.18] [Hopper] Incrementing ball position
+[26.40] [Hopper] Became idle

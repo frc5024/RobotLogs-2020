@@ -1,0 +1,165 @@
+[3.35] [Shooter] System idle
+[19.55] [Robot] Teleop started
+[19.55] [DriveTrain] Enabling brakes
+[19.55] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[19.55] [Climber] Locked
+[19.55] [Intake] System freeze requested
+[19.55] [Climber] Locked
+[19.55] [Intake] Freezing system
+[19.57] [FaultReporter] Robot FPGA outputs have been enabled
+[23.29] [Hopper] Unjam up requested
+[23.29] [Shooter] Spinning up to: 1112.50
+[23.31] [Hopper] Unjamming
+[23.57] WARNING: [FaultReporter] Robot brownout detected!
+[23.57] [FaultReporter] Robot FPGA outputs have been disabled
+[23.57] [FaultReporter] 3v3 Rail Disabled
+[23.73] [FaultReporter] Robot FPGA outputs have been enabled
+[23.73] [FaultReporter] 3v3 Rail Enabled
+[24.85] [Intake] System stow requested
+[24.85] [Shooter] Stop requested
+[24.85] [Intake] Stowing intake
+[24.87] [Hopper] Became idle
+[24.87] [Shooter] System idle
+[32.09] [Hopper] Unjam up requested
+[32.11] [Shooter] Spinning up to: 1112.50
+[32.11] [Hopper] Unjamming
+[32.31] [Intake] System stow requested
+[32.33] [Intake] System stow requested
+[32.33] [Shooter] Stop requested
+[32.33] [Hopper] Became idle
+[32.33] [Shooter] System idle
+[32.79] [Hopper] Unjam up requested
+[32.81] [Shooter] Spinning up to: 1112.50
+[32.83] [Hopper] Unjamming
+[33.27] [Intake] System stow requested
+[33.27] [Shooter] Stop requested
+[33.29] [Hopper] Became idle
+[33.31] [Shooter] System idle
+[34.47] [Intake] Unjam requested
+[34.47] [Hopper] Unjam requested
+[34.47] [Intake] Unjamming balls
+[34.47] [Shooter] Spinning up to: -890.00
+[34.49] [Hopper] Unjamming
+[34.51] [Shooter] Holding. Spin-Up took 0.02 seconds
+[35.15] [Shooter] Spinning up to: -890.00
+[37.93] [Intake] System stow requested
+[37.93] [Shooter] Stop requested
+[37.95] [Intake] System stow requested
+[37.95] [Shooter] Stop requested
+[37.95] [Intake] Stowing intake
+[37.95] [Hopper] Became idle
+[37.95] [Shooter] System idle
+[39.81] WARNING: [FaultReporter] Robot brownout detected!
+[39.81] [FaultReporter] Robot FPGA outputs have been disabled
+[39.81] [FaultReporter] 5v Rail Disabled
+[39.81] [FaultReporter] 3v3 Rail Disabled
+[39.89] [FaultReporter] 5v Rail Enabled
+[39.97] [FaultReporter] 5v Rail Disabled
+[40.05] [FaultReporter] 5v Rail Enabled
+[40.13] [FaultReporter] Robot FPGA outputs have been enabled
+[40.13] [FaultReporter] 3v3 Rail Enabled
+[40.21] WARNING: [FaultReporter] Robot brownout detected!
+[40.21] [FaultReporter] Robot FPGA outputs have been disabled
+[40.21] [FaultReporter] 3v3 Rail Disabled
+[40.29] [FaultReporter] Robot FPGA outputs have been enabled
+[40.29] [FaultReporter] 3v3 Rail Enabled
+[40.37] WARNING: [FaultReporter] Robot brownout detected!
+[40.37] [FaultReporter] Robot FPGA outputs have been disabled
+[40.37] [FaultReporter] 3v3 Rail Disabled
+[40.53] [FaultReporter] 5v Rail Disabled
+[40.61] [FaultReporter] 5v Rail Enabled
+[40.69] [FaultReporter] Robot FPGA outputs have been enabled
+[40.69] [FaultReporter] 3v3 Rail Enabled
+[40.77] WARNING: [FaultReporter] Robot brownout detected!
+[40.77] [FaultReporter] Robot FPGA outputs have been disabled
+[40.77] [FaultReporter] 3v3 Rail Disabled
+[40.93] [FaultReporter] Robot FPGA outputs have been enabled
+[40.93] [FaultReporter] 3v3 Rail Enabled
+[41.01] WARNING: [FaultReporter] Robot brownout detected!
+[41.01] [FaultReporter] Robot FPGA outputs have been disabled
+[41.01] [FaultReporter] 5v Rail Disabled
+[41.01] [FaultReporter] 3v3 Rail Disabled
+[41.09] [FaultReporter] Robot FPGA outputs have been enabled
+[41.09] [FaultReporter] 5v Rail Enabled
+[41.09] [FaultReporter] 3v3 Rail Enabled
+[41.17] WARNING: [FaultReporter] Robot brownout detected!
+[41.17] [FaultReporter] Robot FPGA outputs have been disabled
+[41.17] [FaultReporter] 3v3 Rail Disabled
+[41.33] [FaultReporter] Robot FPGA outputs have been enabled
+[41.33] [FaultReporter] 3v3 Rail Enabled
+[41.41] WARNING: [FaultReporter] Robot brownout detected!
+[41.41] [FaultReporter] Robot FPGA outputs have been disabled
+[41.41] [FaultReporter] 3v3 Rail Disabled
+[41.41] [FaultReporter] 5v Rail Disabled
+[41.41] [FaultReporter] 3v3 Rail Disabled
+[41.49] [FaultReporter] Robot FPGA outputs have been enabled
+[41.49] [FaultReporter] 3v3 Rail Enabled
+[41.49] [FaultReporter] 5v Rail Enabled
+[41.49] [FaultReporter] 3v3 Rail Enabled
+[41.57] WARNING: [FaultReporter] Robot brownout detected!
+[41.57] [FaultReporter] Robot FPGA outputs have been disabled
+[41.57] [FaultReporter] 5v Rail Disabled
+[41.57] [FaultReporter] 3v3 Rail Disabled
+[41.65] [FaultReporter] Robot FPGA outputs have been enabled
+[41.65] [FaultReporter] 5v Rail Enabled
+[41.65] [FaultReporter] 3v3 Rail Enabled
+[41.73] WARNING: [FaultReporter] Robot brownout detected!
+[41.73] [FaultReporter] Robot FPGA outputs have been disabled
+[41.73] [FaultReporter] 3v3 Rail Disabled
+[41.89] [FaultReporter] Robot FPGA outputs have been enabled
+[41.89] [FaultReporter] 3v3 Rail Enabled
+[41.97] WARNING: [FaultReporter] Robot brownout detected!
+[41.97] [FaultReporter] Robot FPGA outputs have been disabled
+[41.97] [FaultReporter] 3v3 Rail Disabled
+[41.97] [FaultReporter] 5v Rail Disabled
+[41.97] [FaultReporter] 3v3 Rail Disabled
+[42.05] [FaultReporter] Robot FPGA outputs have been enabled
+[42.05] [FaultReporter] 3v3 Rail Enabled
+[42.05] [FaultReporter] 5v Rail Enabled
+[42.05] [FaultReporter] 3v3 Rail Enabled
+[42.13] WARNING: [FaultReporter] Robot brownout detected!
+[42.13] [FaultReporter] Robot FPGA outputs have been disabled
+[42.13] [FaultReporter] 5v Rail Disabled
+[42.13] [FaultReporter] 3v3 Rail Disabled
+[42.21] [FaultReporter] Robot FPGA outputs have been enabled
+[42.21] [FaultReporter] 5v Rail Enabled
+[42.21] [FaultReporter] 3v3 Rail Enabled
+[42.29] WARNING: [FaultReporter] Robot brownout detected!
+[42.29] [FaultReporter] Robot FPGA outputs have been disabled
+[42.29] [FaultReporter] 3v3 Rail Disabled
+[42.53] [FaultReporter] 3v3 Rail Disabled
+[42.53] [FaultReporter] 5v Rail Disabled
+[42.61] [FaultReporter] Robot FPGA outputs have been enabled
+[42.61] [FaultReporter] 3v3 Rail Enabled
+[42.61] [FaultReporter] 5v Rail Enabled
+[42.61] [FaultReporter] 3v3 Rail Enabled
+[42.69] WARNING: [FaultReporter] Robot brownout detected!
+[42.69] [FaultReporter] Robot FPGA outputs have been disabled
+[42.69] [FaultReporter] 5v Rail Disabled
+[42.69] [FaultReporter] 3v3 Rail Disabled
+[42.77] [FaultReporter] Robot FPGA outputs have been enabled
+[42.77] [FaultReporter] 5v Rail Enabled
+[42.77] [FaultReporter] 3v3 Rail Enabled
+[42.85] WARNING: [FaultReporter] Robot brownout detected!
+[42.85] [FaultReporter] Robot FPGA outputs have been disabled
+[42.85] [FaultReporter] 3v3 Rail Disabled
+[43.01] [FaultReporter] 5v Rail Disabled
+[43.09] [FaultReporter] 5v Rail Enabled
+[43.17] [FaultReporter] Robot FPGA outputs have been enabled
+[43.17] [FaultReporter] 3v3 Rail Enabled
+[43.25] WARNING: [FaultReporter] Robot brownout detected!
+[43.25] [FaultReporter] Robot FPGA outputs have been disabled
+[43.25] [FaultReporter] 3v3 Rail Disabled
+[43.41] [FaultReporter] Robot FPGA outputs have been enabled
+[43.41] [FaultReporter] 3v3 Rail Enabled
+[43.49] WARNING: [FaultReporter] Robot brownout detected!
+[43.49] [FaultReporter] Robot FPGA outputs have been disabled
+[43.49] [FaultReporter] 3v3 Rail Disabled
+[43.49] [FaultReporter] 5v Rail Disabled
+[43.49] [FaultReporter] 3v3 Rail Disabled
+[43.49] WARNING: [FaultReporter] CAN bus RX error
+[43.57] [FaultReporter] 3v3 Rail Enabled
+[43.57] [FaultReporter] 5v Rail Enabled
+[43.57] WARNING: [FaultReporter] CAN bus RX error
+[43.73] [FaultReporter] Robot FPGA outputs have been enabled
+[43.73] [FaultReporter] 3v3 Rail Enabled

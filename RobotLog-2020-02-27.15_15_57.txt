@@ -1,0 +1,232 @@
+[127.34] [FaultReporter] Robot FPGA outputs have been disabled
+[127.34] [Robot] Robot disabled
+[127.34] [DriveTrain] Disabling brakes
+[127.34] [DriveTrain] Stopping DriveTrain
+[127.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[127.34] [Climber] In service mode
+[173.09] [FaultReporter] Robot FPGA outputs have been enabled
+[173.09] [Robot] Teleop started
+[173.09] [DriveTrain] Enabling brakes
+[173.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[173.09] [Climber] Locked
+[173.09] [Intake] System freeze requested
+[173.09] [Climber] Locked
+[173.11] [Intake] Freezing system
+[174.98] [ShootCells] Shooting 5 cells
+[174.99] [Intake] System stow requested
+[174.99] [Intake] Stowing intake
+[175.02] [Shooter] Spinning up to: 3426.50
+[175.03] [Hopper] Feeding balls to flywheel
+[175.03] [ShootCells] Shoot action ended
+[175.03] [ShootCells] Shooting 5 cells
+[175.03] [Hopper] Became idle
+[175.03] [ShootCells] Shoot action ended
+[175.03] [ShootCells] Shooting 5 cells
+[175.08] [ShootCells] Shoot action ended
+[175.08] [ShootCells] Shooting 5 cells
+[175.10] [ShootCells] Shoot action ended
+[175.10] [ShootCells] Shooting 5 cells
+[175.10] [ShootCells] Shoot action ended
+[175.14] [Intake] System stow requested
+[175.14] [Shooter] Stop requested
+[175.16] [Shooter] System idle
+[175.24] [ShootCells] Shooting 5 cells
+[175.26] [Intake] System stow requested
+[175.28] [Shooter] Spinning up to: 3426.50
+[175.30] [Shooter] Spinning up to: 3426.50
+[175.30] [Hopper] Feeding balls to flywheel
+[175.30] [ShootCells] Shoot action ended
+[175.30] [ShootCells] Shooting 5 cells
+[175.32] [Hopper] Became idle
+[175.32] [ShootCells] Shoot action ended
+[175.32] [ShootCells] Shooting 5 cells
+[175.32] [ShootCells] Shoot action ended
+[175.32] [ShootCells] Shooting 5 cells
+[175.35] [ShootCells] Shoot action ended
+[175.35] [ShootCells] Shooting 5 cells
+[175.38] [ShootCells] Shoot action ended
+[175.38] [ShootCells] Shooting 5 cells
+[175.38] [ShootCells] Shoot action ended
+[175.41] [Intake] System stow requested
+[175.41] [Shooter] Stop requested
+[175.44] [Shooter] System idle
+[175.68] [ShootCells] Shooting 5 cells
+[175.70] [Intake] System stow requested
+[175.72] [Shooter] Spinning up to: 3426.50
+[175.74] [Hopper] Feeding balls to flywheel
+[175.74] [ShootCells] Shoot action ended
+[175.74] [ShootCells] Shooting 5 cells
+[175.74] [Hopper] Became idle
+[175.74] [ShootCells] Shoot action ended
+[175.74] [ShootCells] Shooting 5 cells
+[175.75] [ShootCells] Shoot action ended
+[175.78] [ShootCells] Shoot action ended
+[175.78] [ShootCells] Shooting 5 cells
+[175.80] [ShootCells] Shoot action ended
+[175.80] [ShootCells] Shooting 5 cells
+[175.80] [ShootCells] Shoot action ended
+[175.80] [ShootCells] Shooting 5 cells
+[175.84] [ShootCells] Shoot action ended
+[175.84] [ShootCells] Shooting 5 cells
+[175.86] [ShootCells] Shoot action ended
+[175.86] [ShootCells] Shooting 5 cells
+[175.86] [ShootCells] Shoot action ended
+[175.86] [ShootCells] Shooting 5 cells
+[175.88] [ShootCells] Shoot action ended
+[175.88] [ShootCells] Shooting 5 cells
+[175.90] [ShootCells] Shoot action ended
+[175.90] [ShootCells] Shooting 5 cells
+[175.90] [ShootCells] Shoot action ended
+[175.92] [Intake] System stow requested
+[175.92] [Shooter] Stop requested
+[175.96] [Shooter] System idle
+[192.36] [DriveTrain] Stopping DriveTrain
+[192.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[192.36] [DriveTrain] Disabling brakes
+[193.08] [DriveTrain] Stopping DriveTrain
+[193.08] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[193.08] [DriveTrain] Enabling brakes
+[196.50] [DriveTrain] Stopping DriveTrain
+[196.50] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[196.50] [DriveTrain] Disabling brakes
+[196.88] [DriveTrain] Stopping DriveTrain
+[196.88] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[196.88] [DriveTrain] Enabling brakes
+[209.73] [IntakeCells] Intaking 5 cells
+[209.76] [Intake] Intake requested
+[209.76] [Hopper] Intake requested
+[209.76] [Shooter] Stop requested
+[209.76] [Intake] Intaking balls
+[209.78] [Hopper] Preparing to intake balls
+[209.79] [Shooter] System idle
+[212.27] [Hopper] Intaking balls
+[212.82] [Hopper] Preparing to intake balls
+[214.29] [Hopper] Intaking balls
+[214.58] [Hopper] Preparing to intake balls
+[214.61] WARNING: [FaultReporter] Robot brownout detected!
+[214.61] [FaultReporter] Robot FPGA outputs have been disabled
+[214.61] [FaultReporter] 3v3 Rail Disabled
+[214.85] [FaultReporter] Robot FPGA outputs have been enabled
+[214.85] [FaultReporter] 3v3 Rail Enabled
+[215.09] WARNING: [FaultReporter] Robot brownout detected!
+[215.09] [FaultReporter] Robot FPGA outputs have been disabled
+[215.09] [FaultReporter] 3v3 Rail Disabled
+[215.17] [FaultReporter] Robot FPGA outputs have been enabled
+[215.17] [FaultReporter] 3v3 Rail Enabled
+[215.66] [Hopper] Intaking balls
+[216.23] [Hopper] Preparing to intake balls
+[218.69] WARNING: [FaultReporter] Robot brownout detected!
+[218.69] [FaultReporter] Robot FPGA outputs have been disabled
+[218.69] [FaultReporter] 3v3 Rail Disabled
+[218.77] [FaultReporter] Robot FPGA outputs have been enabled
+[218.77] [FaultReporter] 3v3 Rail Enabled
+[219.26] WARNING: [FaultReporter] Robot brownout detected!
+[219.26] [FaultReporter] Robot FPGA outputs have been disabled
+[219.26] [FaultReporter] 3v3 Rail Disabled
+[219.34] [FaultReporter] 3v3 Rail Disabled
+[219.34] [FaultReporter] 5v Rail Disabled
+[219.42] [FaultReporter] Robot FPGA outputs have been enabled
+[219.42] [FaultReporter] 3v3 Rail Enabled
+[219.42] [FaultReporter] 5v Rail Enabled
+[219.42] [FaultReporter] 3v3 Rail Enabled
+[219.90] WARNING: [FaultReporter] Robot brownout detected!
+[219.90] [FaultReporter] Robot FPGA outputs have been disabled
+[219.90] [FaultReporter] 3v3 Rail Disabled
+[219.97] [FaultReporter] Robot FPGA outputs have been enabled
+[219.97] [FaultReporter] 3v3 Rail Enabled
+[220.45] [Hopper] Intaking balls
+[220.56] [Hopper] Preparing to intake balls
+[221.03] [Hopper] Intaking balls
+[221.15] [Hopper] Preparing to intake balls
+[221.17] WARNING: [FaultReporter] Robot brownout detected!
+[221.17] [FaultReporter] Robot FPGA outputs have been disabled
+[221.17] [FaultReporter] 3v3 Rail Disabled
+[221.50] [FaultReporter] Robot FPGA outputs have been enabled
+[221.50] [FaultReporter] 3v3 Rail Enabled
+[221.57] WARNING: [FaultReporter] Robot brownout detected!
+[221.57] [FaultReporter] Robot FPGA outputs have been disabled
+[221.57] [FaultReporter] 3v3 Rail Disabled
+[221.66] [FaultReporter] Robot FPGA outputs have been enabled
+[221.66] [FaultReporter] 3v3 Rail Enabled
+[221.73] WARNING: [FaultReporter] Robot brownout detected!
+[221.73] [FaultReporter] Robot FPGA outputs have been disabled
+[221.73] [FaultReporter] 3v3 Rail Disabled
+[221.89] [FaultReporter] Robot FPGA outputs have been enabled
+[221.89] [FaultReporter] 3v3 Rail Enabled
+[222.34] [Hopper] Intaking balls
+[223.03] [Hopper] Preparing to intake balls
+[223.94] [Hopper] Intaking balls
+[224.03] [Hopper] Preparing to intake balls
+[224.29] WARNING: [FaultReporter] Robot brownout detected!
+[224.29] [FaultReporter] Robot FPGA outputs have been disabled
+[224.29] [FaultReporter] 3v3 Rail Disabled
+[224.29] [FaultReporter] 5v Rail Disabled
+[224.29] [FaultReporter] 3v3 Rail Disabled
+[224.38] [FaultReporter] Robot FPGA outputs have been enabled
+[224.38] [FaultReporter] 3v3 Rail Enabled
+[224.38] [FaultReporter] 5v Rail Enabled
+[224.38] [FaultReporter] 3v3 Rail Enabled
+[224.53] WARNING: [FaultReporter] Robot brownout detected!
+[224.53] [FaultReporter] Robot FPGA outputs have been disabled
+[224.53] [FaultReporter] 3v3 Rail Disabled
+[224.62] [FaultReporter] Robot FPGA outputs have been enabled
+[224.62] [FaultReporter] 3v3 Rail Enabled
+[224.70] WARNING: [FaultReporter] Robot brownout detected!
+[224.70] [FaultReporter] Robot FPGA outputs have been disabled
+[224.70] [FaultReporter] 3v3 Rail Disabled
+[224.77] [FaultReporter] Robot FPGA outputs have been enabled
+[224.77] [FaultReporter] 3v3 Rail Enabled
+[225.34] [Hopper] Intaking balls
+[225.62] [Hopper] Preparing to intake balls
+[226.67] [Hopper] Intaking balls
+[226.99] [Hopper] Preparing to intake balls
+[229.67] [IntakeCells] Intake action interrupted
+[229.69] [Intake] System stow requested
+[229.69] [Shooter] Stop requested
+[229.69] [Intake] Stowing intake
+[229.72] [Hopper] Became idle
+[229.73] [Shooter] System idle
+[233.61] [DriveTrain] Stopping DriveTrain
+[233.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[233.61] [DriveTrain] Disabling brakes
+[234.47] [DriveTrain] Stopping DriveTrain
+[234.47] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[234.47] [DriveTrain] Enabling brakes
+[234.55] [ShootCells] Shooting 5 cells
+[234.58] [Intake] System stow requested
+[234.59] [Shooter] Spinning up to: 3426.50
+[234.62] [Hopper] Feeding balls to flywheel
+[234.90] [Hopper] Became idle
+[236.16] [Shooter] Holding. Spin-Up took 1.56 seconds
+[236.16] [Hopper] Feeding balls to flywheel
+[236.50] [Shooter] Spinning up to: 3426.50
+[236.90] [Shooter] Holding. Spin-Up took 0.4 seconds
+[237.54] [Shooter] Spinning up to: 3426.50
+[237.78] [Shooter] Holding. Spin-Up took 0.239 seconds
+[238.32] [Shooter] Spinning up to: 3426.50
+[238.60] [Shooter] Holding. Spin-Up took 0.279 seconds
+[238.90] [Shooter] Spinning up to: 3426.50
+[238.92] [Hopper] Became idle
+[238.96] [ShootCells] Shoot action ended
+[238.96] [ShootCells] Shooting 5 cells
+[238.98] [ShootCells] Shoot action ended
+[238.98] [ShootCells] Shooting 5 cells
+[238.98] [ShootCells] Shoot action ended
+[238.98] [ShootCells] Shooting 5 cells
+[239.00] [ShootCells] Shoot action ended
+[239.00] [ShootCells] Shooting 5 cells
+[239.00] [Shooter] Holding. Spin-Up took 0.101 seconds
+[239.00] [ShootCells] Shoot action ended
+[239.00] [ShootCells] Shooting 5 cells
+[239.02] [ShootCells] Shoot action ended
+[239.02] [ShootCells] Shooting 5 cells
+[239.04] [ShootCells] Shoot action ended
+[239.04] [ShootCells] Shooting 5 cells
+[239.06] [ShootCells] Shoot action ended
+[239.06] [ShootCells] Shooting 5 cells
+[239.07] [ShootCells] Shoot action ended
+[239.07] [ShootCells] Shooting 5 cells
+[239.10] [ShootCells] Shoot action ended
+[239.10] [ShootCells] Shooting 5 cells
+[239.12] [ShootCells] Shoot action ended
+[239.12] [ShootCells] Shooting 5 cells

@@ -1,0 +1,12 @@
+[3.34] [Shooter] System idle
+[3.90] [FaultReporter] Robot FPGA outputs have been enabled
+[3.90] [Robot] Teleop started
+[3.90] [DriveTrain] Enabling brakes
+[3.90] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[3.90] [Climber] Locked
+[3.92] [FaultReporter] Robot FPGA outputs have been enabled
+[3.92] [Robot] Teleop started
+[3.94] [FaultReporter] Robot FPGA outputs have been enabled
+[3.94] [Robot] Teleop started
+[3.96] [FaultReporter] Robot FPGA outputs have been enabled
+[3.96] [Robot] Teleop started

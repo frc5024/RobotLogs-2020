@@ -1,0 +1,42 @@
+[2.86] [Shooter] Stop requested
+[2.86] [Intake] Stowing intake
+[3.50] [Shooter] System idle
+[18.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[161.16] [Robot] Teleop started
+[161.16] [DriveTrain] Enabling brakes
+[161.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[161.16] [Climber] Locked
+[161.16] [Intake] System freeze requested
+[161.16] [Climber] Locked
+[161.16] [FaultReporter] Robot FPGA outputs have been enabled
+[161.16] [Intake] Freezing system
+[162.21] [OperatorControl] Operator force-incremented the hopper ball count
+[162.21] [Hopper] Cell count force-set to: 1
+[162.45] [OperatorControl] Operator force-incremented the hopper ball count
+[162.45] [Hopper] Cell count force-set to: 2
+[162.59] [OperatorControl] Operator force-incremented the hopper ball count
+[162.59] [Hopper] Cell count force-set to: 3
+[162.75] [OperatorControl] Operator force-incremented the hopper ball count
+[162.75] [Hopper] Cell count force-set to: 4
+[164.03] [ShootCells] Shooting 5 cells
+[164.05] [Intake] System stow requested
+[164.07] [Intake] System stow requested
+[164.07]  [LIMELIGHT]: Distance to target calculated. Distance is 6.9764m.
+[164.07] [Intake] Stowing intake
+[164.07] [Shooter] Spinning up to: -1780.18
+[164.07] [Hopper] Feeding balls to flywheel
+[164.09] [Shooter] Holding. Spin-Up took 0.02 seconds
+[164.41] [Shooter] Spinning up to: -1780.18
+[164.57] [Hopper] Became idle
+[166.43] [ShootCells] Shoot action interrupted
+[166.45] [Intake] System stow requested
+[166.45] [Shooter] Stop requested
+[166.47] [Intake] System stow requested
+[166.47] [Shooter] Stop requested
+[166.49] [Intake] System stow requested
+[166.49] [Shooter] Stop requested
+[166.49] [Hopper] Shooting interrupt requested
+[166.49] [Hopper] Pushing balls to bottom
+[166.49] [Shooter] System idle
+[167.13] [Hopper] Incrementing ball position
+[167.41] [Hopper] Became idle

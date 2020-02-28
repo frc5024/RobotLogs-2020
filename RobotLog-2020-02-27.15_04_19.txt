@@ -1,0 +1,65 @@
+[3.22] [Shooter] System idle
+[6.20] [Robot] Autonomous started
+[6.20] [Chooser] Generating autonomous command object
+[6.22] [FaultReporter] Robot FPGA outputs have been enabled
+[6.25] [Chooser] Reading autonomous position
+[6.25] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[6.25] [DriveTrain] Enabling brakes
+[6.26] [Climber] Locked
+[6.26] [Hopper] Cell count force-set to: 3
+[6.28]  Starting autonomous actions
+[6.34] [DriveTrain] Stopping DriveTrain
+[6.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.68] [DriveTrain] Stopping DriveTrain
+[7.68] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.68] [Shooter] Fallback velocity set to: 3293.0
+[7.70] [ShootCells] Shooting 3 cells
+[7.72] [Intake] System stow requested
+[7.75] [Shooter] Spinning up to: 3293.00
+[7.75] [Hopper] Feeding balls to flywheel
+[8.08] [Hopper] Became idle
+[9.18] [Shooter] Holding. Spin-Up took 1.448 seconds
+[9.18] [Hopper] Feeding balls to flywheel
+[9.50] [Shooter] Spinning up to: 3293.00
+[9.82] [Shooter] Holding. Spin-Up took 0.319 seconds
+[9.96] [ShootCells] Shoot action ended
+[9.98] [Hopper] Became idle
+[9.98] [Intake] System stow requested
+[9.98] [Shooter] Stop requested
+[10.02] [Shooter] System idle
+[11.52] [DriveTrain] Stopping DriveTrain
+[11.52] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.52] [DrivePath] Driving path
+[11.52] [IntakeCells] Intaking 2 cells
+[11.54] [Intake] Intake requested
+[11.54] [Hopper] Intake requested
+[11.54] [Shooter] Stop requested
+[11.54] [Intake] Intaking balls
+[11.56] [Hopper] Preparing to intake balls
+[11.58] [Shooter] System idle
+[12.44] [DrivePath] Finished driving path
+[12.44] [DriveTrain] Stopping DriveTrain
+[12.44] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[12.44] [DrivePath] Driving path
+[13.78] [Hopper] Intaking balls
+[14.18] [DrivePath] Finished driving path
+[14.18] [DriveTrain] Stopping DriveTrain
+[14.18] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.18] [IntakeCells] Intake action ended
+[14.20] [Intake] System stow requested
+[14.20] [Shooter] Stop requested
+[14.20] [Intake] Stowing intake
+[14.22] [Hopper] Became idle
+[14.24] [Shooter] System idle
+[15.88] [DriveTrain] Stopping DriveTrain
+[15.88] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.88] [Shooter] Fallback velocity set to: 3693.5
+[15.90] [ShootCells] Shooting 3 cells
+[15.92] [Intake] System stow requested
+[15.94] [Shooter] Spinning up to: 3693.50
+[15.94] [Hopper] Feeding balls to flywheel
+[15.94] [ShootCells] Shoot action ended
+[15.97] [Hopper] Became idle
+[15.97] [Intake] System stow requested
+[15.97] [Shooter] Stop requested
+[16.02] [Shooter] System idle

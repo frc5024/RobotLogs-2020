@@ -1,0 +1,59 @@
+[3.42] [Shooter] System idle
+[17.10] [Robot] Teleop started
+[17.10] [DriveTrain] Enabling brakes
+[17.10] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[17.10] [Climber] Locked
+[17.10] [Intake] System freeze requested
+[17.12] [Climber] Locked
+[17.12] [Intake] Freezing system
+[17.18] [FaultReporter] Robot FPGA outputs have been enabled
+[19.42] [OperatorControl] Operator force-incremented the hopper ball count
+[19.42] [Hopper] Cell count force-set to: 1
+[20.72] [ShootCells] Shooting 5 cells
+[20.74] [Intake] System stow requested
+[20.74] [Intake] Stowing intake
+[20.76] [Shooter] Spinning up to: 3426.50
+[20.78] [Hopper] Feeding balls to flywheel
+[22.04] [Hopper] Became idle
+[22.12] [Shooter] Holding. Spin-Up took 1.359 seconds
+[22.14] [Hopper] Feeding balls to flywheel
+[22.28] [Shooter] Spinning up to: 3426.50
+[22.30] [Hopper] Became idle
+[22.30] [ShootCells] Shoot action ended
+[22.32] [Intake] System stow requested
+[22.32] [Shooter] Stop requested
+[22.32] [ShootCells] Shooting 5 cells
+[22.34] [Intake] System stow requested
+[22.36]  [LIMELIGHT]: Distance to target calculated. Distance is 4.3615m.
+[22.36]  [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[22.36] [Shooter] Spinning up to: NaN
+[22.38] [Hopper] Feeding balls to flywheel
+[22.38] [ShootCells] Shoot action ended
+[22.40] [Hopper] Became idle
+[22.40] [Intake] System stow requested
+[22.40] [Shooter] Stop requested
+[22.40] [ShootCells] Shooting 5 cells
+[22.40] [Intake] System stow requested
+[22.40]  [LIMELIGHT]: Distance to target calculated. Distance is 4.3266m.
+[22.40]  [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[22.42] [Shooter] Spinning up to: NaN
+[22.44] [Hopper] Feeding balls to flywheel
+[22.46] [Hopper] Feeding balls to flywheel
+[22.46] [ShootCells] Shoot action ended
+[22.46] [Hopper] Became idle
+[22.46] [Intake] System stow requested
+[22.46] [Shooter] Stop requested
+[22.46] [ShootCells] Shooting 5 cells
+[22.46] [Intake] System stow requested
+[22.46]  [LIMELIGHT]: Distance to target calculated. Distance is 4.3634m.
+[22.46]  [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[22.48] [Shooter] Spinning up to: NaN
+[22.52] [Hopper] Feeding balls to flywheel
+[22.52] [ShootCells] Shoot action ended
+[22.54] [Hopper] Became idle
+[22.54] [Intake] System stow requested
+[22.54] [Shooter] Stop requested
+[22.54] [ShootCells] Shooting 5 cells
+[22.54] [Intake] System stow requested
+[22.54]  [LIMELIGHT]: Distance to target calculated. Distance is 4.3618m.
+[22.54]  [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.

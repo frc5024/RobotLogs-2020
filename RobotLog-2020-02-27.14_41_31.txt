@@ -1,0 +1,61 @@
+[2.98] [Intake] System stow requested
+[2.98] [Shooter] Stop requested
+[2.98] [Intake] Stowing intake
+[3.38] [Shooter] System idle
+[6.00] [FaultReporter] Robot FPGA outputs have been enabled
+[6.00] [Robot] Teleop started
+[6.00] [DriveTrain] Enabling brakes
+[6.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[6.00] [Climber] Locked
+[6.00] [Intake] System freeze requested
+[6.00] [Climber] Locked
+[6.02] [Intake] Freezing system
+[7.96] [DriveTrain] Stopping DriveTrain
+[7.96] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.96] [DriveTrain] Disabling brakes
+[8.66] [DriveTrain] Stopping DriveTrain
+[8.66] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[8.66] [DriveTrain] Enabling brakes
+[9.36] [DriveTrain] Stopping DriveTrain
+[9.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[9.36] [DriveTrain] Disabling brakes
+[10.48] [DriveTrain] Stopping DriveTrain
+[10.48] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[10.48] [DriveTrain] Enabling brakes
+[11.16] [DriveTrain] Stopping DriveTrain
+[11.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.16] [DriveTrain] Disabling brakes
+[14.18] [DriveTrain] Stopping DriveTrain
+[14.18] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.18] [DriveTrain] Enabling brakes
+[14.92] [OperatorControl] Operator force-incremented the hopper ball count
+[14.92] [Hopper] Cell count force-set to: 1
+[15.04] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[16.24] [ShootCells] Shooting 5 cells
+[16.26] [Intake] System stow requested
+[16.26] [Intake] Stowing intake
+[16.28] [Shooter] Spinning up to: 3426.50
+[16.28] [Hopper] Feeding balls to flywheel
+[17.72] [Shooter] Holding. Spin-Up took 1.44 seconds
+[18.00] [ShootCells] Shoot action ended
+[18.00] [ShootCells] Shooting 5 cells
+[18.02] [Hopper] Became idle
+[18.02] [ShootCells] Shoot action ended
+[18.02] [ShootCells] Shooting 5 cells
+[18.04] [ShootCells] Shoot action ended
+[18.04] [ShootCells] Shooting 5 cells
+[18.06] [ShootCells] Shoot action ended
+[18.06] [ShootCells] Shooting 5 cells
+[18.08] [ShootCells] Shoot action ended
+[18.08] [ShootCells] Shooting 5 cells
+[18.10] [ShootCells] Shoot action ended
+[18.10] [ShootCells] Shooting 5 cells
+[18.12] [Shooter] Spinning up to: 3426.50
+[18.12] [ShootCells] Shoot action ended
+[18.12] [ShootCells] Shooting 5 cells
+[18.14] [ShootCells] Shoot action ended
+[18.14] [ShootCells] Shooting 5 cells
+[18.16] [ShootCells] Shoot action ended
+[18.16] [ShootCells] Shooting 5 cells
+[18.18] [ShootCells] Shoot action ended
+[18.18] [ShootCells] Shooting 5 cells

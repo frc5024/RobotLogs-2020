@@ -1,0 +1,8 @@
+[44.46] [Robot] Robot disabled
+[44.46] [DriveTrain] Disabling brakes
+[44.46] [DriveTrain] Stopping DriveTrain
+[44.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[44.46] [Climber] In service mode
+[44.46] [FaultReporter] Robot FPGA outputs have been disabled
+[70.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[76.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

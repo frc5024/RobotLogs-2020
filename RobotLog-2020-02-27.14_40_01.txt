@@ -1,0 +1,44 @@
+[3.26] [Shooter] System idle
+[4.40] [FaultReporter] Robot FPGA outputs have been enabled
+[4.42] [FaultReporter] Robot FPGA outputs have been enabled
+[4.42] [Robot] Teleop started
+[4.42] [DriveTrain] Enabling brakes
+[4.42] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[4.42] [Climber] Locked
+[4.42] [Intake] System freeze requested
+[4.42] [Climber] Locked
+[4.42] [Intake] Freezing system
+[5.22] [DriveTrain] Stopping DriveTrain
+[5.22] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[5.22] [DriveTrain] Disabling brakes
+[7.02] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[10.28] [DriveTrain] Stopping DriveTrain
+[10.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[10.28] [DriveTrain] Enabling brakes
+[11.14] [DriveTrain] Stopping DriveTrain
+[11.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.14] [DriveTrain] Disabling brakes
+[14.74] [DriveTrain] Stopping DriveTrain
+[14.74] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.74] [DriveTrain] Enabling brakes
+[16.24] [DriveTrain] Stopping DriveTrain
+[16.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.24] [DriveTrain] Disabling brakes
+[18.94] [DriveTrain] Stopping DriveTrain
+[18.94] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.94] [DriveTrain] Enabling brakes
+[22.48] [IntakeCells] Intaking 5 cells
+[22.50] [Intake] Intake requested
+[22.50] [Hopper] Intake requested
+[22.50] [Shooter] Stop requested
+[22.50] [Intake] Intaking balls
+[22.52] [Hopper] Preparing to intake balls
+[22.54] [Shooter] System idle
+[28.98] [Hopper] Intaking balls
+[29.50] [Hopper] Preparing to intake balls
+[31.02] [IntakeCells] Intake action interrupted
+[31.04] [Intake] System stow requested
+[31.04] [Shooter] Stop requested
+[31.04] [Intake] Stowing intake
+[31.06] [Hopper] Became idle
+[31.08] [Shooter] System idle

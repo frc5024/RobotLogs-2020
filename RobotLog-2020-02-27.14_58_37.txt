@@ -1,0 +1,93 @@
+[3.01] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[3.01] LIBRARY: [FaultReporter] Starting reporter thread
+[3.03] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[3.03] LIBRARY: [FaultReporter] Starting reporter thread
+[3.05] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[3.05] LIBRARY: [FaultReporter] Starting reporter thread
+[3.05] [FaultReporter] 3v3 Rail Enabled
+[3.05] [FaultReporter] 5v Rail Enabled
+[3.05] [FaultReporter] 3v3 Rail Enabled
+[3.05] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[3.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.05] [PanelManipulator] Loaded color threshold: 126.48
+[3.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.05] [Chooser] Publishing auton options
+[3.05] [Chooser] Reading autonomous position
+[3.05] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[3.05] [Dashboard] Pushing shuffleboard widgets to driverstation
+[3.05] [Robot] Robot disabled
+[3.05] [DriveTrain] Disabling brakes
+[3.05] [DriveTrain] Stopping DriveTrain
+[3.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.05] [Climber] In service mode
+[3.05] [Shooter] System idle
+[3.05] [Hopper] Became idle
+[3.05] [PanelManipulator] Became idle
+[3.05] [Intake] System stow requested
+[3.05] [Shooter] Stop requested
+[3.05] [Intake] Stowing intake
+[3.86] [Shooter] System idle
+[13.24] [Robot] Autonomous started
+[13.24] [Chooser] Generating autonomous command object
+[13.26] [FaultReporter] Robot FPGA outputs have been enabled
+[13.30] [Chooser] Reading autonomous position
+[13.30] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[13.30] [DriveTrain] Enabling brakes
+[13.30] [Climber] Locked
+[13.30] [Hopper] Cell count force-set to: 3
+[13.30]  Starting autonomous actions
+[13.36] [DriveTrain] Stopping DriveTrain
+[13.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.78] [DriveTrain] Stopping DriveTrain
+[14.78] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[14.78] [Shooter] Fallback velocity set to: 3293.0
+[14.80] [ShootCells] Shooting 3 cells
+[14.82] [Intake] System stow requested
+[14.84] [Shooter] Spinning up to: 3293.00
+[14.84] [Hopper] Feeding balls to flywheel
+[15.20] [Hopper] Became idle
+[16.20] [Shooter] Holding. Spin-Up took 1.358 seconds
+[16.20] [Hopper] Feeding balls to flywheel
+[16.56] [Shooter] Spinning up to: 3293.00
+[16.84] [Shooter] Holding. Spin-Up took 0.28 seconds
+[17.00] [ShootCells] Shoot action ended
+[17.02] [Hopper] Became idle
+[17.02] [Intake] System stow requested
+[17.02] [Shooter] Stop requested
+[17.06] [Shooter] System idle
+[18.58] [DriveTrain] Stopping DriveTrain
+[18.58] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.58] [DrivePath] Driving path
+[18.58] [IntakeCells] Intaking 2 cells
+[18.60] [Intake] Intake requested
+[18.60] [Hopper] Intake requested
+[18.60] [Shooter] Stop requested
+[18.60] [Intake] Intaking balls
+[18.62] [Hopper] Preparing to intake balls
+[18.64] [Shooter] System idle
+[19.44] [DrivePath] Finished driving path
+[19.44] [DriveTrain] Stopping DriveTrain
+[19.44] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.44] [DrivePath] Driving path
+[20.88] [Hopper] Intaking balls
+[21.38] [DrivePath] Finished driving path
+[21.38] [DriveTrain] Stopping DriveTrain
+[21.38] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[21.38] [IntakeCells] Intake action ended
+[21.40] [Intake] System stow requested
+[21.40] [Shooter] Stop requested
+[21.40] [Intake] Stowing intake
+[21.42] [Hopper] Became idle
+[21.44] [Shooter] System idle
+[23.10] [DriveTrain] Stopping DriveTrain
+[23.10] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[23.10] [Shooter] Fallback velocity set to: 3693.5
+[23.12] [ShootCells] Shooting 2 cells
+[23.14] [Intake] System stow requested
+[23.16] [Shooter] Spinning up to: 3693.50
+[23.16] [Hopper] Feeding balls to flywheel
+[23.16] [ShootCells] Shoot action ended
+[23.18] [Hopper] Became idle
+[23.18] [Intake] System stow requested
+[23.18] [Shooter] Stop requested
+[23.24] [Shooter] System idle

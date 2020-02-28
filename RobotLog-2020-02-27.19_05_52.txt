@@ -1,0 +1,21 @@
+[3.28] [Shooter] System idle
+[27.12] [Robot] Teleop started
+[27.14] [Robot] Teleop started
+[27.14] [DriveTrain] Enabling brakes
+[27.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[27.14] [Climber] Locked
+[27.14] [Intake] System freeze requested
+[27.16] [Robot] Teleop started
+[27.16] [DriveTrain] Enabling brakes
+[27.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[27.16] [Climber] Locked
+[27.16] [Intake] System freeze requested
+[27.16] [Climber] Locked
+[27.16] [Intake] Freezing system
+[27.16] [FaultReporter] Robot FPGA outputs have been enabled
+[29.66] [TimePanel] Constructing
+[29.66] [TimePanel] Rotating for 5.00 seconds
+[29.66] [Panel Manipulator] Rotating for 5.00 seconds
+[34.66] [TimePanel] Finished spinning
+[34.68] [PanelManipulator] Stop requested
+[34.68] [PanelManipulator] Became idle

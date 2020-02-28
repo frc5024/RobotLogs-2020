@@ -1,0 +1,73 @@
+[3.17] [Shooter] System idle
+[5.81] [FaultReporter] Robot FPGA outputs have been enabled
+[5.81] [Robot] Teleop started
+[5.81] [DriveTrain] Enabling brakes
+[5.81] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[5.84] [FaultReporter] Robot FPGA outputs have been enabled
+[5.84] [Robot] Teleop started
+[5.84] [DriveTrain] Enabling brakes
+[5.84] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[5.84] [Climber] Locked
+[5.84] [Intake] System freeze requested
+[5.84] [Climber] Locked
+[5.84] [Intake] Freezing system
+[6.69] [DriveTrain] Stopping DriveTrain
+[6.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[6.69] [DriveTrain] Disabling brakes
+[9.93] [DriveTrain] Stopping DriveTrain
+[9.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[9.95] [DriveTrain] Enabling brakes
+[12.37] [DriveTrain] Stopping DriveTrain
+[12.37] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[12.37] [DriveTrain] Disabling brakes
+[13.90] [DriveTrain] Stopping DriveTrain
+[13.90] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[13.90] [DriveTrain] Enabling brakes
+[15.73] [DriveTrain] Stopping DriveTrain
+[15.73] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.73] [DriveTrain] Disabling brakes
+[16.81] [DriveTrain] Stopping DriveTrain
+[16.81] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.81] [DriveTrain] Enabling brakes
+[16.91] [DriveTrain] Stopping DriveTrain
+[16.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.91] [DriveTrain] Disabling brakes
+[17.53] [DriveTrain] Stopping DriveTrain
+[17.53] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[17.53] [DriveTrain] Enabling brakes
+[17.95] [DriveTrain] Stopping DriveTrain
+[17.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[17.95] [DriveTrain] Disabling brakes
+[18.97] [DriveTrain] Stopping DriveTrain
+[18.97] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.97] [DriveTrain] Enabling brakes
+[19.35] [DriveTrain] Stopping DriveTrain
+[19.35] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.35] [DriveTrain] Disabling brakes
+[20.95] [DriveTrain] Stopping DriveTrain
+[20.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[20.95] [DriveTrain] Enabling brakes
+[23.17] [DriveTrain] Stopping DriveTrain
+[23.17] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[23.17] [DriveTrain] Disabling brakes
+[25.83] [DriveTrain] Stopping DriveTrain
+[25.83] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[25.83] [DriveTrain] Enabling brakes
+[26.09] [DriveTrain] Stopping DriveTrain
+[26.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[26.09] [DriveTrain] Disabling brakes
+[26.63] [DriveTrain] Stopping DriveTrain
+[26.63] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[26.63] [DriveTrain] Enabling brakes
+[27.52] [DriveTrain] Stopping DriveTrain
+[27.52] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[27.52] [DriveTrain] Disabling brakes
+[32.19] [DriveTrain] Stopping DriveTrain
+[32.21] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.21] [DriveTrain] Enabling brakes
+[39.49] [DriveTrain] Stopping DriveTrain
+[39.49] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[39.49] [DriveTrain] Disabling brakes
+[46.05] [DriveTrain] Stopping DriveTrain
+[46.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[46.05] [DriveTrain] Enabling brakes

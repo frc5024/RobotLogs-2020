@@ -1,0 +1,44 @@
+[32.59] [Robot] Robot disabled
+[32.59] [DriveTrain] Disabling brakes
+[32.59] [DriveTrain] Stopping DriveTrain
+[32.61] [Robot] Robot disabled
+[32.61] [DriveTrain] Disabling brakes
+[32.61] [DriveTrain] Stopping DriveTrain
+[32.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.61] [Climber] In service mode
+[32.61] [FaultReporter] Robot FPGA outputs have been disabled
+[47.09] [FaultReporter] Robot FPGA outputs have been enabled
+[47.09] [Robot] Teleop started
+[47.09] [DriveTrain] Enabling brakes
+[47.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[47.09] [Climber] Locked
+[47.09] [Intake] System freeze requested
+[47.13] [FaultReporter] Robot FPGA outputs have been enabled
+[47.13] [Robot] Teleop started
+[47.13] [DriveTrain] Enabling brakes
+[47.13] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[47.13] [Climber] Locked
+[47.13] [Intake] System freeze requested
+[47.13] [Climber] Locked
+[47.13] [Intake] Freezing system
+[49.49] [OperatorControl] Operator force-incremented the hopper ball count
+[49.49] [Hopper] Cell count force-set to: 3
+[49.67] [OperatorControl] Operator force-incremented the hopper ball count
+[49.67] [Hopper] Cell count force-set to: 4
+[50.79] [ShootCells] Shooting 5 cells
+[50.81] [Intake] System stow requested
+[50.81]  [LIMELIGHT]: Distance to target calculated. Distance is 25.2995m.
+[50.81] [Intake] Stowing intake
+[50.85] [Shooter] Spinning up to: -21519.96
+[50.85] [Hopper] Feeding balls to flywheel
+[50.87] [Shooter] Holding. Spin-Up took 0.021 seconds
+[51.15] [Shooter] Spinning up to: -21519.96
+[51.15] [Hopper] Became idle
+[55.59] [ShootCells] Shoot action interrupted
+[55.61] [Intake] System stow requested
+[55.61] [Shooter] Stop requested
+[55.61] [Hopper] Shooting interrupt requested
+[55.63] [Hopper] Pushing balls to bottom
+[55.65] [Shooter] System idle
+[56.17] [Hopper] Incrementing ball position
+[56.45] [Hopper] Became idle

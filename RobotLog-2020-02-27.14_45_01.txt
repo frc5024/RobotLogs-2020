@@ -1,0 +1,52 @@
+[3.39] [Shooter] System idle
+[42.29] [Robot] Teleop started
+[42.29] [DriveTrain] Enabling brakes
+[42.29] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[42.29] [Climber] Locked
+[42.29] [Intake] System freeze requested
+[42.29] [Climber] Locked
+[42.29] [Intake] Freezing system
+[42.33] [FaultReporter] Robot FPGA outputs have been enabled
+[54.89] [IntakeCells] Intaking 5 cells
+[54.91] [Intake] Intake requested
+[54.91] [Hopper] Intake requested
+[54.91] [Shooter] Stop requested
+[54.91] [Intake] Intaking balls
+[54.93] [Hopper] Preparing to intake balls
+[54.95] [Shooter] System idle
+[58.59] [Hopper] Intaking balls
+[59.07] [Hopper] Preparing to intake balls
+[59.63] [IntakeCells] Intake action interrupted
+[59.65] [Intake] System stow requested
+[59.65] [Shooter] Stop requested
+[59.65] [Intake] Stowing intake
+[59.67] [Hopper] Became idle
+[59.69] [Shooter] System idle
+[65.65] [DriveTrain] Stopping DriveTrain
+[65.65] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[65.65] [DriveTrain] Disabling brakes
+[67.63] [DriveTrain] Stopping DriveTrain
+[67.63] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[67.63] [DriveTrain] Enabling brakes
+[70.01] [DriveTrain] Stopping DriveTrain
+[70.01] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[70.01] [DriveTrain] Disabling brakes
+[71.77] [DriveTrain] Stopping DriveTrain
+[71.77] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[71.77] [DriveTrain] Enabling brakes
+[71.83] [ShootCells] Shooting 5 cells
+[71.85] [Intake] System stow requested
+[71.87] [Shooter] Spinning up to: 3426.50
+[71.87] [Hopper] Feeding balls to flywheel
+[73.29] [Shooter] Holding. Spin-Up took 1.419 seconds
+[73.67] [ShootCells] Shoot action ended
+[73.67] [ShootCells] Shooting 5 cells
+[73.69] [Hopper] Became idle
+[73.69] [ShootCells] Shoot action ended
+[73.69] [ShootCells] Shooting 5 cells
+[73.71] [ShootCells] Shoot action ended
+[73.71] [ShootCells] Shooting 5 cells
+[73.73] [ShootCells] Shoot action ended
+[73.73] [ShootCells] Shooting 5 cells
+[73.75] [ShootCells] Shoot action ended
+[73.75] [ShootCells] Shooting 5 cells

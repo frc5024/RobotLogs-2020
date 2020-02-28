@@ -1,0 +1,47 @@
+[3.29] [Shooter] System idle
+[11.37] [Robot] Teleop started
+[11.37] [DriveTrain] Enabling brakes
+[11.37] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[11.37] [Climber] Locked
+[11.37] [Intake] System freeze requested
+[11.37] [Climber] Locked
+[11.37] [Intake] Freezing system
+[11.41] [FaultReporter] Robot FPGA outputs have been enabled
+[13.77] [OperatorControl] Operator force-incremented the hopper ball count
+[13.77] [Hopper] Cell count force-set to: 1
+[14.03] [OperatorControl] Operator force-incremented the hopper ball count
+[14.03] [Hopper] Cell count force-set to: 2
+[14.25] [OperatorControl] Operator force-incremented the hopper ball count
+[14.25] [Hopper] Cell count force-set to: 3
+[14.73] [OperatorControl] Operator force-incremented the hopper ball count
+[14.73] [Hopper] Cell count force-set to: 4
+[16.77] [ShootCells] Shooting 5 cells
+[16.79] [Intake] System stow requested
+[16.79]  [LIMELIGHT]: Distance to target calculated. Distance is 5.2514m. Angle is 13.288240434570312
+[16.79]  [LIMELIGHT]: Desired velocity calculated. Desired velocity is NaNRPM.
+[16.79] [Intake] Stowing intake
+[16.81] [Shooter] Spinning up to: NaN
+[16.81] [Hopper] Feeding balls to flywheel
+[16.83] [Hopper] Became idle
+[19.43] [ShootCells] Shoot action interrupted
+[19.45] [Intake] System stow requested
+[19.45] [Shooter] Stop requested
+[19.45] [Hopper] Shooting interrupt requested
+[19.47] [Hopper] Pushing balls to bottom
+[19.49] [Shooter] System idle
+[19.73] [Hopper] Incrementing ball position
+[19.95] [Hopper] Became idle
+[24.43] [Hopper] Lowering Balls
+[24.47] [Hopper] Pushing balls to bottom
+[24.73] [Hopper] Incrementing ball position
+[24.97] [Hopper] Finished lowering balss
+[24.97] [Hopper] Lowering Balls
+[24.99] [Hopper] Became idle
+[24.99] [Hopper] Finished lowering balss
+[25.01] [Intake] System stow requested
+[25.01] [Shooter] Stop requested
+[25.05] [Shooter] System idle
+[25.89] [FaultReporter] Robot FPGA outputs have been disabled
+[26.05] [FaultReporter] Robot FPGA outputs have been enabled
+[26.21] [FaultReporter] Robot FPGA outputs have been disabled
+[26.29] [FaultReporter] Robot FPGA outputs have been enabled

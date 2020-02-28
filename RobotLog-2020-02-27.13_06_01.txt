@@ -1,0 +1,18 @@
+[Shooter] System idle
+[Hopper] Became idle
+[PanelManipulator] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Intake] Stowing intake
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Starting rotational control

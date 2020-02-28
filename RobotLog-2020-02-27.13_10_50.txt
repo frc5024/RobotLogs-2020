@@ -1,0 +1,77 @@
+[FaultReporter] Robot FPGA outputs have been disabled
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[PanelManipulator] Stop requested
+[Climber] In service mode
+[PanelManipulator] Became idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[FaultReporter] Robot FPGA outputs have been enabled
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Starting positional control
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 0 Color Offset
+[PanelManipulator] Starting positional control
+[PanelManipulator] Stop requested
+[PanelManipulator] Became idle

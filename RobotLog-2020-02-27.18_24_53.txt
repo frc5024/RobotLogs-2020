@@ -1,0 +1,26 @@
+[2.98] [PanelManipulator] Became idle
+[3.00] [Intake] System stow requested
+[3.00] [Shooter] Stop requested
+[3.00] [Intake] Stowing intake
+[3.76] [Shooter] System idle
+[21.55] [Robot] Teleop started
+[21.55] [DriveTrain] Enabling brakes
+[21.55] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[21.55] [Climber] Locked
+[21.55] [Intake] System freeze requested
+[21.58] [Climber] Locked
+[21.64] [FaultReporter] Robot FPGA outputs have been enabled
+[21.68] [Intake] Freezing system
+[23.12] [OperatorControl] Operator force-incremented the hopper ball count
+[23.12] [Hopper] Cell count force-set to: 1
+[25.86] [ShootCells] Shooting 5 cells
+[25.87] [Intake] System stow requested
+[25.89]  [LIMELIGHT]: Distance to target calculated. Distance is 5.1149m. Angle is 13.742860795898437
+[25.89] [Intake] Stowing intake
+[25.89] [Shooter] Spinning up to: 274.96
+[25.92] [Hopper] Feeding balls to flywheel
+[26.22] [Shooter] Holding. Spin-Up took 0.319 seconds
+[27.29] [Shooter] Spinning up to: 274.96
+[27.31] [Hopper] Became idle
+[27.44] [ShootCells] Shoot action ended
+[27.45] [Intake] System stow requested

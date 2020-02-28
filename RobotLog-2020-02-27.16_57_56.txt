@@ -1,0 +1,21 @@
+[FaultReporter] Robot FPGA outputs have been disabled
+[ShootCells] Shoot action interrupted
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[Hopper] Became idle
+[Intake] System stow requested
+[Shooter] Stop requested
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+WARNING: [FaultReporter] CAN bus utilization has passed %0.9

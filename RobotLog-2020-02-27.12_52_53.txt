@@ -1,0 +1,18 @@
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[PanelManipulator] Stop requested
+[Climber] In service mode
+[PanelManipulator] Became idle
+[FaultReporter] Robot FPGA outputs have been disabled
+[FaultReporter] Robot FPGA outputs have been enabled
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+[PanelManipulator] Starting rotational control

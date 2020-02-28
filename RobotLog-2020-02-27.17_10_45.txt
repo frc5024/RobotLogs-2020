@@ -1,0 +1,12 @@
+[FaultReporter] 3v3 Rail Disabled
+[FaultReporter] 5v Rail Disabled
+[Robot] Robot disabled
+[DriveTrain] Disabling brakes
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[Climber] In service mode
+[DriveTrain] Stopping DriveTrain
+[DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[FaultReporter] 3v3 Rail Enabled
+[FaultReporter] 5v Rail Enabled
+[FaultReporter] 3v3 Rail Enabled

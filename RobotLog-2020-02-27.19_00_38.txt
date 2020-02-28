@@ -1,0 +1,37 @@
+[Shooter] System idle
+[Robot] Teleop started
+[DriveTrain] Enabling brakes
+[DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[Climber] Locked
+[Intake] System freeze requested
+[Climber] Locked
+[Intake] Freezing system
+[FaultReporter] Robot FPGA outputs have been enabled
+[PanelManipulator] Requested 4.0 rotations (32 colors)
+[PanelManipulator] Waiting for contact with control panel
+ROBOT:  [Panel Manipulator] 32 Color Offset
+[PanelManipulator] Starting rotational control
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
+ROBOT:  [Panel Manipulator] 32 Color Offset
