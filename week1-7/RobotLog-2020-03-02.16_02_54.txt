@@ -1,0 +1,17 @@
+[2.91] [Climber] In service mode
+[2.91] [Shooter] System idle
+[2.91] [Hopper] Became idle
+[2.91] [PanelManipulator] Became idle
+[2.91] [Intake] System stow requested
+[2.91] [Shooter] Stop requested
+[2.91] [Intake] Stowing intake
+[3.41] [Shooter] System idle
+[5.85] [Robot] Teleop started
+[5.85] [DriveTrain] Enabling brakes
+[5.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[5.85] [Climber] Locked
+[5.85] [Intake] System freeze requested
+[5.85] [Climber] Locked
+[5.89] [Intake] Freezing system
+[5.91] [FaultReporter] Robot FPGA outputs have been enabled
+[6.79] [DriveTrain] Stopping DriveTrain

@@ -1,0 +1,445 @@
+[3.40] [Shooter] System idle
+[10.40] [Robot] Teleop started
+[10.40] [DriveTrain] Enabling brakes
+[10.40] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[10.40] [Climber] Locked
+[10.40] [Intake] System freeze requested
+[10.40] [Climber] Locked
+[10.40] [Intake] Freezing system
+[10.44] [FaultReporter] Robot FPGA outputs have been enabled
+[15.36] [DriveTrain] Stopping DriveTrain
+[15.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.36] [DriveTrain] Disabling brakes
+[15.64] [DriveTrain] Stopping DriveTrain
+[15.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.64] [DriveTrain] Enabling brakes
+[16.28] [DriveTrain] Stopping DriveTrain
+[16.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.28] [DriveTrain] Disabling brakes
+[18.10] [DriveTrain] Stopping DriveTrain
+[18.10] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.10] [DriveTrain] Enabling brakes
+[18.80] [DriveTrain] Stopping DriveTrain
+[18.80] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.80] [DriveTrain] Disabling brakes
+[19.26] [DriveTrain] Stopping DriveTrain
+[19.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.26] [DriveTrain] Enabling brakes
+[20.32] [DriveTrain] Stopping DriveTrain
+[20.32] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[20.32] [DriveTrain] Disabling brakes
+[21.48] [DriveTrain] Stopping DriveTrain
+[21.48] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[21.48] [DriveTrain] Enabling brakes
+[30.66] [DriveTrain] Stopping DriveTrain
+[30.66] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[30.66] [DriveTrain] Disabling brakes
+[32.20] [DriveTrain] Stopping DriveTrain
+[32.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.20] [DriveTrain] Enabling brakes
+[34.18] [DriveTrain] Stopping DriveTrain
+[34.18] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[34.18] [DriveTrain] Disabling brakes
+[35.80] [DriveTrain] Stopping DriveTrain
+[35.80] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[35.80] [DriveTrain] Enabling brakes
+[36.50] [DriveTrain] Stopping DriveTrain
+[36.50] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[36.50] [DriveTrain] Disabling brakes
+[37.98] [DriveTrain] Stopping DriveTrain
+[37.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[37.98] [DriveTrain] Enabling brakes
+[38.52] [DriveTrain] Stopping DriveTrain
+[38.52] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[38.52] [DriveTrain] Disabling brakes
+[38.92] [DriveTrain] Stopping DriveTrain
+[38.92] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[38.92] [DriveTrain] Enabling brakes
+[39.50] [DriveTrain] Stopping DriveTrain
+[39.50] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[39.50] [DriveTrain] Disabling brakes
+[41.00] [DriveTrain] Stopping DriveTrain
+[41.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[41.00] [DriveTrain] Enabling brakes
+[41.84] [DriveTrain] Stopping DriveTrain
+[41.84] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[41.84] [DriveTrain] Disabling brakes
+[42.68] [DriveTrain] Stopping DriveTrain
+[42.68] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[42.68] [DriveTrain] Enabling brakes
+[43.38] [DriveTrain] Stopping DriveTrain
+[43.38] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.38] [DriveTrain] Disabling brakes
+[45.20] [DriveTrain] Stopping DriveTrain
+[45.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[45.20] [DriveTrain] Enabling brakes
+[59.88] [DriveTrain] Stopping DriveTrain
+[59.88] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[59.88] [DriveTrain] Disabling brakes
+[61.06] [DriveTrain] Stopping DriveTrain
+[61.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[61.06] [DriveTrain] Enabling brakes
+[61.60] [DriveTrain] Stopping DriveTrain
+[61.60] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[61.60] [DriveTrain] Disabling brakes
+[62.44] [DriveTrain] Stopping DriveTrain
+[62.44] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[62.44] [DriveTrain] Enabling brakes
+[63.00] [DriveTrain] Stopping DriveTrain
+[63.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[63.00] [DriveTrain] Disabling brakes
+[67.34] [DriveTrain] Stopping DriveTrain
+[67.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[67.34] [DriveTrain] Enabling brakes
+[67.90] [DriveTrain] Stopping DriveTrain
+[67.90] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[67.90] [DriveTrain] Disabling brakes
+[72.08] [DriveTrain] Stopping DriveTrain
+[72.08] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[72.08] [DriveTrain] Enabling brakes
+[72.88] [DriveTrain] Stopping DriveTrain
+[72.88] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[72.88] [DriveTrain] Disabling brakes
+[74.36] [DriveTrain] Stopping DriveTrain
+[74.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[74.36] [DriveTrain] Enabling brakes
+[74.64] [DriveTrain] Stopping DriveTrain
+[74.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[74.64] [DriveTrain] Disabling brakes
+[75.24] [DriveTrain] Stopping DriveTrain
+[75.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[75.24] [DriveTrain] Enabling brakes
+[76.08] [DriveTrain] Stopping DriveTrain
+[76.08] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[76.08] [DriveTrain] Disabling brakes
+[79.64] [DriveTrain] Stopping DriveTrain
+[79.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[79.64] [DriveTrain] Enabling brakes
+[80.34] [DriveTrain] Stopping DriveTrain
+[80.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[80.34] [DriveTrain] Disabling brakes
+[82.24] [DriveTrain] Stopping DriveTrain
+[82.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[82.24] [DriveTrain] Enabling brakes
+[82.78] [DriveTrain] Stopping DriveTrain
+[82.78] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[82.78] [DriveTrain] Disabling brakes
+[83.70] [DriveTrain] Stopping DriveTrain
+[83.70] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[83.70] [DriveTrain] Enabling brakes
+[84.42] [DriveTrain] Stopping DriveTrain
+[84.42] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[84.42] [DriveTrain] Disabling brakes
+[85.26] [DriveTrain] Stopping DriveTrain
+[85.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[85.26] [DriveTrain] Enabling brakes
+[91.44] [DriveTrain] Stopping DriveTrain
+[91.44] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[91.44] [DriveTrain] Disabling brakes
+[91.78] [DriveTrain] Stopping DriveTrain
+[91.78] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[91.78] [DriveTrain] Enabling brakes
+[126.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[130.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[134.66] [IntakeCells] Intaking 5 cells
+[134.68] [Intake] Intake requested
+[134.68] [Hopper] Intake requested
+[134.68] [Shooter] Stop requested
+[134.68] [Intake] Intaking balls
+[134.70] [Hopper] Preparing to intake balls
+[134.72] [Shooter] System idle
+[134.90] [Hopper] Intaking balls
+[138.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[138.24] [IntakeCells] Intake action interrupted
+[138.26] [Intake] System stow requested
+[138.26] [Shooter] Stop requested
+[138.26] [Intake] Stowing intake
+[138.28] [Hopper] Became idle
+[138.30] [Shooter] System idle
+[141.62] [OperatorControl] Operator force-incremented the hopper ball count
+[141.62] [Hopper] Cell count force-set to: 1
+[141.82] [OperatorControl] Operator force-incremented the hopper ball count
+[141.82] [Hopper] Cell count force-set to: 2
+[141.98] [OperatorControl] Operator force-incremented the hopper ball count
+[141.98] [Hopper] Cell count force-set to: 3
+[142.16] [OperatorControl] Operator force-incremented the hopper ball count
+[142.16] [Hopper] Cell count force-set to: 4
+[142.36] [OperatorControl] Operator force-incremented the hopper ball count
+[142.36] [Hopper] Cell count force-set to: 5
+[146.12] [DriveTrain] Stopping DriveTrain
+[146.12] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[146.12] [DriveTrain] Disabling brakes
+[146.38] [DriveTrain] Stopping DriveTrain
+[146.38] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[146.38] [DriveTrain] Enabling brakes
+[146.76] [DriveTrain] Stopping DriveTrain
+[146.76] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[146.76] [DriveTrain] Disabling brakes
+[147.20] [ShootCells] Shooting 5 cells
+[147.22] [Intake] System stow requested
+[147.24] [Intake] System stow requested
+[147.24] [Shooter] Spinning up to: 3426.50
+[147.24] [Hopper] Feeding balls to flywheel
+[147.46] [Hopper] Became idle
+[147.76] [DriveTrain] Stopping DriveTrain
+[147.76] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[147.76] [DriveTrain] Enabling brakes
+[148.60] [Shooter] Holding. Spin-Up took 1.359 seconds
+[148.60] [Hopper] Feeding balls to flywheel
+[148.78] [Shooter] Spinning up to: 3426.50
+[148.80] [Shooter] Holding. Spin-Up took 0.021 seconds
+[148.94] [Shooter] Spinning up to: 3426.50
+[149.16] [Shooter] Holding. Spin-Up took 0.22 seconds
+[149.36] [Shooter] Spinning up to: 3426.50
+[149.56] [Shooter] Holding. Spin-Up took 0.199 seconds
+[150.46] [Shooter] Spinning up to: 3426.50
+[150.78] [Shooter] Holding. Spin-Up took 0.32 seconds
+[150.84] [ShootCells] Shoot action interrupted
+[150.86] [Hopper] Became idle
+[150.86] [Intake] System stow requested
+[150.86] [Shooter] Stop requested
+[150.86] [Hopper] Shooting interrupt requested
+[150.88] [Hopper] Pushing balls to bottom
+[150.90] [Shooter] System idle
+[150.90] [Hopper] Incrementing ball position
+[151.38] [Hopper] Cell count force-set to: 0
+[158.32] [IntakeCells] Intaking 5 cells
+[158.34] [Intake] Intake requested
+[158.34] [Hopper] Intake requested
+[158.34] [Shooter] Stop requested
+[158.34] [Intake] Intaking balls
+[158.36] [Hopper] Preparing to intake balls
+[158.38] [Shooter] System idle
+[158.56] [Hopper] Intaking balls
+[160.32] [IntakeCells] Intake action interrupted
+[160.34] [Intake] System stow requested
+[160.34] [Shooter] Stop requested
+[160.34] [Intake] Stowing intake
+[160.36] [Hopper] Became idle
+[160.38] [Shooter] System idle
+[160.92] [IntakeCells] Intaking 5 cells
+[160.94] [Intake] Intake requested
+[160.94] [Hopper] Intake requested
+[160.94] [Shooter] Stop requested
+[160.94] [Intake] Intaking balls
+[160.96] [Hopper] Preparing to intake balls
+[160.98] [Shooter] System idle
+[161.16] [Hopper] Intaking balls
+[161.96] [IntakeCells] Intake action ended
+[161.96] [IntakeCells] Intaking 5 cells
+[161.98] [Intake] System stow requested
+[161.98] [Shooter] Stop requested
+[161.98] [Intake] Stowing intake
+[161.98] [IntakeCells] Intake action ended
+[161.98] [IntakeCells] Intaking 5 cells
+[162.00] [Hopper] Became idle
+[162.00] [IntakeCells] Intake action ended
+[162.00] [IntakeCells] Intaking 5 cells
+[162.02] [Shooter] System idle
+[162.02] [IntakeCells] Intake action ended
+[162.02] [IntakeCells] Intaking 5 cells
+[162.04] [IntakeCells] Intake action ended
+[162.04] [IntakeCells] Intaking 5 cells
+[162.06] [IntakeCells] Intake action ended
+[169.48] [OperatorControl] Operator force-incremented the hopper ball count
+[169.48] [Hopper] Cell count force-set to: 1
+[169.48] [DriveTrain] Stopping DriveTrain
+[169.48] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[169.48] [DriveTrain] Disabling brakes
+[169.66] [OperatorControl] Operator force-incremented the hopper ball count
+[169.66] [Hopper] Cell count force-set to: 2
+[169.86] [OperatorControl] Operator force-incremented the hopper ball count
+[169.86] [Hopper] Cell count force-set to: 3
+[170.18] [ShootCells] Shooting 5 cells
+[170.20] [Intake] System stow requested
+[170.22] [Shooter] Spinning up to: 3426.50
+[170.22] [Hopper] Feeding balls to flywheel
+[170.24] [Hopper] Became idle
+[170.28] [DriveTrain] Stopping DriveTrain
+[170.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[170.28] [DriveTrain] Enabling brakes
+[171.56] [Shooter] Holding. Spin-Up took 1.339 seconds
+[171.56] [Hopper] Feeding balls to flywheel
+[171.84] [Shooter] Spinning up to: 3426.50
+[172.06] [ShootCells] Shoot action interrupted
+[172.08] [Hopper] Became idle
+[172.08] [Intake] System stow requested
+[172.08] [Shooter] Stop requested
+[172.08] [Hopper] Shooting interrupt requested
+[172.10] [Hopper] Pushing balls to bottom
+[172.12] [Hopper] Pushing balls to bottom
+[172.12] [Shooter] System idle
+[172.12] [Hopper] Incrementing ball position
+[176.70] [Hopper] Cell count force-set to: 0
+[178.34] [IntakeCells] Intaking 5 cells
+[178.36] [Intake] Intake requested
+[178.36] [Hopper] Intake requested
+[178.36] [Shooter] Stop requested
+[178.36] [Intake] Intaking balls
+[178.38] [Hopper] Preparing to intake balls
+[178.40] [Shooter] System idle
+[178.58] [Hopper] Intaking balls
+[179.82] [IntakeCells] Intake action interrupted
+[179.84] [IntakeCells] Intake action interrupted
+[179.86] [IntakeCells] Intake action interrupted
+[179.86] [Intake] System stow requested
+[179.86] [Shooter] Stop requested
+[179.86] [Intake] Stowing intake
+[179.86] [Hopper] Became idle
+[179.88] [Shooter] System idle
+[180.36] [IntakeCells] Intaking 5 cells
+[180.38] [Intake] Intake requested
+[180.38] [Hopper] Intake requested
+[180.38] [Shooter] Stop requested
+[180.38] [Intake] Intaking balls
+[180.40] [Hopper] Preparing to intake balls
+[180.42] [Shooter] System idle
+[180.60] [Hopper] Intaking balls
+[181.08] [IntakeCells] Intake action interrupted
+[181.10] [Intake] System stow requested
+[181.10] [Shooter] Stop requested
+[181.10] [Intake] Stowing intake
+[181.12] [Hopper] Became idle
+[181.14] [Shooter] System idle
+[183.60] [IntakeCells] Intaking 5 cells
+[183.62] [Intake] Intake requested
+[183.62] [Hopper] Intake requested
+[183.62] [Shooter] Stop requested
+[183.62] [Intake] Intaking balls
+[183.64] [Hopper] Preparing to intake balls
+[183.66] [Shooter] System idle
+[183.84] [Hopper] Intaking balls
+[184.44] [IntakeCells] Intake action ended
+[184.44] [IntakeCells] Intaking 5 cells
+[184.46] [IntakeCells] Intake action ended
+[184.46] [IntakeCells] Intaking 5 cells
+[184.46] [Intake] System stow requested
+[184.46] [Shooter] Stop requested
+[184.46] [Intake] Stowing intake
+[184.46] [IntakeCells] Intake action ended
+[184.46] [IntakeCells] Intaking 5 cells
+[184.48] [Hopper] Became idle
+[184.48] [IntakeCells] Intake action ended
+[184.48] [IntakeCells] Intaking 5 cells
+[184.50] [Shooter] System idle
+[184.52] [IntakeCells] Intake action ended
+[184.52] [IntakeCells] Intaking 5 cells
+[184.52] [IntakeCells] Intake action ended
+[184.52] [IntakeCells] Intaking 5 cells
+[184.54] [IntakeCells] Intake action ended
+[184.54] [IntakeCells] Intaking 5 cells
+[184.56] [IntakeCells] Intake action ended
+[192.02] [OperatorControl] Operator force-incremented the hopper ball count
+[192.02] [Hopper] Cell count force-set to: 1
+[192.40] [OperatorControl] Operator force-incremented the hopper ball count
+[192.40] [Hopper] Cell count force-set to: 2
+[192.56] [OperatorControl] Operator force-incremented the hopper ball count
+[192.56] [Hopper] Cell count force-set to: 3
+[192.78] [OperatorControl] Operator force-incremented the hopper ball count
+[192.78] [Hopper] Cell count force-set to: 4
+[193.00] [OperatorControl] Operator force-incremented the hopper ball count
+[193.00] [Hopper] Cell count force-set to: 5
+[193.14] [DriveTrain] Stopping DriveTrain
+[193.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[193.14] [DriveTrain] Disabling brakes
+[194.08] [ShootCells] Shooting 5 cells
+[194.10] [Intake] System stow requested
+[194.12] [Shooter] Spinning up to: 3426.50
+[194.12] [Hopper] Feeding balls to flywheel
+[194.14] [Hopper] Became idle
+[194.30] [DriveTrain] Stopping DriveTrain
+[194.30] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[194.30] [DriveTrain] Enabling brakes
+[195.28] [ShootCells] Shoot action interrupted
+[195.30] [Intake] System stow requested
+[195.30] [Shooter] Stop requested
+[195.30] [Hopper] Shooting interrupt requested
+[195.32] [Hopper] Pushing balls to bottom
+[195.34] [Shooter] System idle
+[195.34] [Hopper] Incrementing ball position
+[195.40] [ShootCells] Shooting 5 cells
+[195.42] [Intake] System stow requested
+[195.44] [Shooter] Spinning up to: 3426.50
+[195.44] [Hopper] Feeding balls to flywheel
+[195.44] [DriveTrain] Stopping DriveTrain
+[195.44] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[195.44] [DriveTrain] Disabling brakes
+[195.98] [DriveTrain] Stopping DriveTrain
+[195.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[195.98] [DriveTrain] Enabling brakes
+[196.02] [Hopper] Became idle
+[196.86] [Shooter] Holding. Spin-Up took 1.419 seconds
+[196.86] [Hopper] Feeding balls to flywheel
+[197.00] [Shooter] Spinning up to: 3426.50
+[197.00] [Hopper] Became idle
+[197.04] [Hopper] Feeding balls to flywheel
+[197.16] [Shooter] Holding. Spin-Up took 0.16 seconds
+[197.16] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[197.46] [Shooter] Spinning up to: 3426.50
+[197.82] [ShootCells] Shoot action interrupted
+[197.84] [Hopper] Became idle
+[197.84] [Intake] System stow requested
+[197.84] [Shooter] Stop requested
+[197.84] [Hopper] Shooting interrupt requested
+[197.86] [Hopper] Pushing balls to bottom
+[197.88] [Shooter] System idle
+[197.88] [Hopper] Incrementing ball position
+[198.94] [Hopper] Cell count force-set to: 0
+[203.70] [IntakeCells] Intaking 5 cells
+[203.72] [Intake] Intake requested
+[203.72] [Hopper] Intake requested
+[203.72] [Shooter] Stop requested
+[203.72] [Intake] Intaking balls
+[203.74] [Hopper] Preparing to intake balls
+[203.76] [Hopper] Preparing to intake balls
+[203.76] [Shooter] System idle
+[203.94] [Hopper] Intaking balls
+[205.20] [IntakeCells] Intake action interrupted
+[205.22] [Intake] System stow requested
+[205.22] [Shooter] Stop requested
+[205.24] [Intake] System stow requested
+[205.26] [Intake] System stow requested
+[205.26] [Shooter] Stop requested
+[205.26] [Intake] Stowing intake
+[205.26] [Hopper] Became idle
+[205.26] [Shooter] System idle
+[205.68] [IntakeCells] Intaking 5 cells
+[205.70] [Intake] Intake requested
+[205.70] [Hopper] Intake requested
+[205.70] [Shooter] Stop requested
+[205.70] [Intake] Intaking balls
+[205.72] [Hopper] Preparing to intake balls
+[205.74] [Shooter] System idle
+[205.92] [Hopper] Intaking balls
+[206.86] [IntakeCells] Intake action interrupted
+[206.88] [Intake] System stow requested
+[206.88] [Shooter] Stop requested
+[206.90] [Intake] System stow requested
+[206.90] [Shooter] Stop requested
+[206.90] [Intake] Stowing intake
+[206.90] [Hopper] Became idle
+[206.92] [Shooter] System idle
+[209.00] [IntakeCells] Intaking 5 cells
+[209.02] [Intake] Intake requested
+[209.02] [Hopper] Intake requested
+[209.02] [Shooter] Stop requested
+[209.02] [Intake] Intaking balls
+[209.04] [Intake] Intake requested
+[209.06] [Intake] Intake requested
+[209.06] [Hopper] Intake requested
+[209.06] [Shooter] Stop requested
+[209.06] [Intake] Intaking balls
+[209.06] [Hopper] Preparing to intake balls
+[209.06] [Shooter] System idle
+[209.24] [Hopper] Intaking balls
+[209.52] [IntakeCells] Intake action ended
+[209.52] [IntakeCells] Intaking 5 cells
+[209.54] [Intake] System stow requested
+[209.54] [Shooter] Stop requested
+[209.54] [Intake] Stowing intake
+[209.54] [IntakeCells] Intake action ended
+[209.54] [IntakeCells] Intaking 5 cells
+[209.56] [Hopper] Became idle
+[209.56] [IntakeCells] Intake action ended
+[209.56] [IntakeCells] Intaking 5 cells
+[209.58] [Shooter] System idle
