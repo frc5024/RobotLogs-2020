@@ -1,0 +1,56 @@
+[155.16] [FaultReporter] Robot FPGA outputs have been disabled
+[155.18] [Robot] Robot disabled
+[155.18] [AnalyticsEngine] ----- Begin Match Analytics -----
+[155.18] [AnalyticsEngine] ------ End Match Analytics ------
+[155.18] [AnalyticsEngine] Cleared event map
+[155.18] [DriveTrain] Disabling brakes
+[155.18] [DriveTrain] Stopping DriveTrain
+[155.18] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[155.18] [IntakeCells] Intake action interrupted
+[155.18] [Climber] In service mode
+[155.18] [Intake] System stow requested
+[155.18] [Shooter] Stop requested
+[155.18] [Intake] Stowing intake
+[155.20] [Hopper] Became idle
+[155.22] [Shooter] System idle
+[167.56] [Robot] Teleop started
+[167.56] [DriveTrain] Enabling brakes
+[167.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[167.56] [Climber] Locked
+[167.56] [Intake] System freeze requested
+[167.56] [Climber] Locked
+[167.56] [Intake] Freezing system
+[167.56] [IntakeCells] Intaking 5 cells
+[167.56] [FaultReporter] Robot FPGA outputs have been enabled
+[167.58] [Intake] Intake requested
+[167.58] [Hopper] Intake requested
+[167.58] [Shooter] Stop requested
+[167.58] [Intake] Intaking balls
+[167.60] [Hopper] Preparing to intake balls
+[167.62] [Shooter] System idle
+[168.38] [IntakeCells] Intake action interrupted
+[168.40] [Intake] System stow requested
+[168.40] [Shooter] Stop requested
+[168.40] [Intake] Stowing intake
+[168.42] [Hopper] Became idle
+[168.44] [Shooter] System idle
+[168.54] [IntakeCells] Intaking 5 cells
+[168.56] [Intake] Intake requested
+[168.56] [Hopper] Intake requested
+[168.56] [Shooter] Stop requested
+[168.56] [Intake] Intaking balls
+[168.58] [Hopper] Preparing to intake balls
+[168.60] [Shooter] System idle
+[169.24] [IntakeCells] Intake action interrupted
+[169.26] [Intake] System stow requested
+[169.26] [Shooter] Stop requested
+[169.26] [Intake] Stowing intake
+[169.28] [Hopper] Became idle
+[169.30] [Shooter] System idle
+[174.28] [IntakeCells] Intaking 5 cells
+[174.30] [Intake] Intake requested
+[174.30] [Hopper] Intake requested
+[174.30] [Shooter] Stop requested
+[174.30] [Intake] Intaking balls
+[174.32] [Hopper] Preparing to intake balls
+[174.34] [Shooter] System idle

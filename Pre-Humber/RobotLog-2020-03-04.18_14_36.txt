@@ -1,0 +1,38 @@
+[3.01] [FaultReporter] 3v3 Rail Enabled
+[3.01] [FaultReporter] 5v Rail Enabled
+[3.01] [FaultReporter] 3v3 Rail Enabled
+[3.01] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[3.01] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.01] [PanelManipulator] Loaded color threshold: 126.48
+[3.01] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.01] [Chooser] Publishing auton options
+[3.01] [Chooser] Reading autonomous position
+[3.01] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[3.01] [Dashboard] Pushing shuffleboard widgets to driverstation
+[3.01] [Robot] Robot disabled
+[3.01] [AnalyticsEngine] ----- Begin Match Analytics -----
+[3.01] [AnalyticsEngine] ------ End Match Analytics ------
+[3.01] [AnalyticsEngine] Cleared event map
+[3.01] [DriveTrain] Disabling brakes
+[3.01] [DriveTrain] Stopping DriveTrain
+[3.01] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.01] [Climber] In service mode
+[3.01] [Shooter] System idle
+[3.01] [Hopper] Became idle
+[3.01] [PanelManipulator] Became idle
+[3.01] [Intake] System stow requested
+[3.01] [Shooter] Stop requested
+[3.01] [Intake] Stowing intake
+[3.76] [Shooter] System idle
+[15.86] [Robot] Autonomous started
+[15.86] [Chooser] Generating autonomous command object
+[15.90] [Chooser] Reading autonomous position
+[15.90] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[15.90] [DriveTrain] Enabling brakes
+[15.90] [Climber] Locked
+[15.90] [Hopper] Cell count force-set to: 3
+[15.90] [FaultReporter] Robot FPGA outputs have been enabled
+[15.92]  Starting autonomous actions
+[15.96] [Autonomous] Ensuring proper heading
+[16.00] [DriveTrain] Stopping DriveTrain
+[16.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12

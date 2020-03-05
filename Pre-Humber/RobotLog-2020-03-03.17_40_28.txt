@@ -1,0 +1,13 @@
+[43.06] [Robot] Robot disabled
+[43.06] [AnalyticsEngine] ----- Begin Match Analytics -----
+[43.06] [AnalyticsEngine] ------ End Match Analytics ------
+[43.06] [AnalyticsEngine] Cleared event map
+[43.06] [DriveTrain] Disabling brakes
+[43.06] [DriveTrain] Stopping DriveTrain
+[43.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.06] [Climber] In service mode
+[43.10] [FaultReporter] Robot FPGA outputs have been disabled
+[87.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[91.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[95.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[99.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

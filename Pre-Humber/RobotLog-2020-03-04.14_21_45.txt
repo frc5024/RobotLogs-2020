@@ -1,0 +1,145 @@
+[2.90] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.90] [Robot] Robot disabled
+[2.90] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.90] [AnalyticsEngine] ------ End Match Analytics ------
+[2.90] [AnalyticsEngine] Cleared event map
+[2.90] [DriveTrain] Disabling brakes
+[2.90] [DriveTrain] Stopping DriveTrain
+[2.90] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.90] [Climber] In service mode
+[2.90] [Shooter] System idle
+[2.90] [Hopper] Became idle
+[2.90] [PanelManipulator] Became idle
+[3.02] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[3.02] LIBRARY: [FaultReporter] Starting reporter thread
+[3.02] [FaultReporter] 3v3 Rail Enabled
+[3.02] [FaultReporter] 5v Rail Enabled
+[3.02] [FaultReporter] 3v3 Rail Enabled
+[3.02] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[3.02] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.02] [PanelManipulator] Loaded color threshold: 126.48
+[3.02] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.02] [Chooser] Publishing auton options
+[3.02] [Chooser] Reading autonomous position
+[3.02] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[3.02] [Dashboard] Pushing shuffleboard widgets to driverstation
+[3.02] [Robot] Robot disabled
+[3.02] [AnalyticsEngine] ----- Begin Match Analytics -----
+[3.02] [AnalyticsEngine] ------ End Match Analytics ------
+[3.02] [AnalyticsEngine] Cleared event map
+[3.02] [DriveTrain] Disabling brakes
+[3.02] [DriveTrain] Stopping DriveTrain
+[3.02] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.02] [Climber] In service mode
+[3.02] [Shooter] System idle
+[3.02] [Hopper] Became idle
+[3.02] [PanelManipulator] Became idle
+[3.02] [Intake] System stow requested
+[3.02] [Shooter] Stop requested
+[3.02] [Intake] Stowing intake
+[3.02] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[3.65] [Shooter] System idle
+[39.89] [Robot] Teleop started
+[39.89] [DriveTrain] Enabling brakes
+[39.89] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[39.89] [Climber] Locked
+[39.89] [Intake] System freeze requested
+[39.89] [Climber] Locked
+[39.91] [Robot] Teleop started
+[39.91] [DriveTrain] Enabling brakes
+[39.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[39.91] [Climber] Locked
+[39.91] [Intake] System freeze requested
+[39.91] [Climber] Locked
+[39.91] [FaultReporter] Robot FPGA outputs have been enabled
+[40.01] [Intake] Freezing system
+[40.25] [OperatorControl] Operator force-incremented the hopper ball count
+[40.25] [Hopper] Cell count force-set to: 1
+[40.55] [OperatorControl] Operator force-incremented the hopper ball count
+[40.55] [Hopper] Cell count force-set to: 2
+[40.93] [OperatorControl] Operator force-incremented the hopper ball count
+[40.93] [Hopper] Cell count force-set to: 3
+[41.05] [OperatorControl] Operator force-incremented the hopper ball count
+[41.05] [Hopper] Cell count force-set to: 4
+[43.55] [ShootCells] Shooting 5 cells
+[43.55] [Intake] System stow requested
+[43.55] [Intake] Stowing intake
+[43.57] [Shooter] Spinning up to: 3782.50
+[43.57] [Hopper] Feeding balls to flywheel
+[44.33] [Hopper] Became idle
+[45.09] [Shooter] Holding. Spin-Up took 1.518 seconds
+[45.09] [Hopper] Feeding balls to flywheel
+[45.47] [Shooter] Spinning up to: 3782.50
+[45.55] [ShootCells] Shoot action interrupted
+[45.57] [Hopper] Became idle
+[45.57] [Intake] System stow requested
+[45.57] [Shooter] Stop requested
+[45.57] [Hopper] Shooting interrupt requested
+[45.59] [Hopper] Pushing balls to bottom
+[45.61] [Shooter] System idle
+[46.71] [Hopper] Incrementing ball position
+[46.97] [Hopper] Became idle
+[58.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[62.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[66.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[88.87] [ShootCells] Shooting 5 cells
+[88.89] [Intake] System stow requested
+[88.91] [Shooter] Spinning up to: 3782.50
+[88.91] [Hopper] Feeding balls to flywheel
+[90.05] [Hopper] Became idle
+[90.43] [Shooter] Holding. Spin-Up took 1.52 seconds
+[90.43] [Hopper] Feeding balls to flywheel
+[90.83] [ShootCells] Shoot action interrupted
+[90.85] [Hopper] Became idle
+[90.85] [Intake] System stow requested
+[90.85] [Shooter] Stop requested
+[90.85] [Hopper] Shooting interrupt requested
+[90.87] [Hopper] Pushing balls to bottom
+[90.89] [Shooter] System idle
+[92.27] [Hopper] Incrementing ball position
+[92.53] [Hopper] Became idle
+[117.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[121.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[125.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[162.41] [ShootCells] Shooting 5 cells
+[162.43] [Intake] System stow requested
+[162.45] [Shooter] Spinning up to: 3782.50
+[162.45] [Hopper] Feeding balls to flywheel
+[163.91] [Hopper] Became idle
+[164.01] [Shooter] Holding. Spin-Up took 1.559 seconds
+[164.01] [Hopper] Feeding balls to flywheel
+[164.59] [ShootCells] Shoot action interrupted
+[164.61] [Hopper] Became idle
+[164.61] [Intake] System stow requested
+[164.61] [Shooter] Stop requested
+[164.61] [Hopper] Shooting interrupt requested
+[164.63] [Hopper] Pushing balls to bottom
+[164.65] [Shooter] System idle
+[168.65] [Hopper] Cell count force-set to: 0
+[168.67] [Hopper] Became idle
+[176.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[180.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[204.73] [IntakeCells] Intaking 5 cells
+[204.75] [Intake] Intake requested
+[204.75] [Hopper] Intake requested
+[204.75] [Shooter] Stop requested
+[204.75] [Intake] Intaking balls
+[204.77] [Hopper] Preparing to intake balls
+[204.79] [Shooter] System idle
+[206.21] [Hopper] Intaking balls
+[206.97] [Hopper] Preparing to intake balls
+[207.47] [Hopper] Intaking balls
+[208.17] [Hopper] Preparing to intake balls
+[208.75] [Hopper] Intaking balls
+[209.51] [Hopper] Preparing to intake balls
+[210.05] [Hopper] Intaking balls
+[210.93] [Hopper] Preparing to intake balls
+[210.95] [IntakeCells] Intake action ended
+[210.95] [IntakeCells] Intaking 5 cells
+[210.97] [Intake] System stow requested
+[210.97] [Shooter] Stop requested
+[210.97] [Intake] Stowing intake
+[210.97] [IntakeCells] Intake action ended
+[210.97] [IntakeCells] Intaking 5 cells
+[210.99] [Hopper] Became idle
+[210.99] [IntakeCells] Intake action ended

@@ -1,0 +1,45 @@
+[705.08] [Robot] Robot disabled
+[705.08] [AnalyticsEngine] ----- Begin Match Analytics -----
+[705.08] [AnalyticsEngine] Times unjamed: 2
+[705.08] [AnalyticsEngine] ------ End Match Analytics ------
+[705.08] [AnalyticsEngine] Cleared event map
+[705.08] [DriveTrain] Disabling brakes
+[705.08] [FaultReporter] Robot FPGA outputs have been disabled
+[705.08] [DriveTrain] Stopping DriveTrain
+[705.08] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[705.08] [Climber] In service mode
+[707.52] [Robot] Teleop started
+[707.52] [DriveTrain] Enabling brakes
+[707.52] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[707.52] [Climber] Locked
+[707.52] [Intake] System freeze requested
+[707.52] [Climber] Locked
+[707.54] [Intake] Freezing system
+[707.54] [Intake] Unjam requested
+[707.54] [Hopper] Unjam requested
+[707.54] [Intake] Unjamming balls
+[707.56] [FaultReporter] Robot FPGA outputs have been enabled
+[707.58] [FaultReporter] Robot FPGA outputs have been enabled
+[707.58] [Shooter] Spinning up to: -890.00
+[707.58] [Hopper] Unjamming
+[707.58] [Shooter] Holding. Spin-Up took 0.014 seconds
+[707.92] [Shooter] Spinning up to: -890.00
+[708.32] [Intake] System stow requested
+[708.32] [Shooter] Stop requested
+[708.32] [Intake] Stowing intake
+[708.34] [Hopper] Became idle
+[708.36] [Shooter] System idle
+[711.76] [IntakeCells] Intaking 5 cells
+[711.78] [Intake] Intake requested
+[711.78] [Hopper] Intake requested
+[711.78] [Shooter] Stop requested
+[711.78] [Intake] Intaking balls
+[711.80] [Hopper] Preparing to intake balls
+[711.82] [Shooter] System idle
+[717.50] [Hopper] Intaking balls
+[718.86] [IntakeCells] Intake action interrupted
+[718.88] [Intake] System stow requested
+[718.88] [Shooter] Stop requested
+[718.88] [Intake] Stowing intake
+[718.90] [Hopper] Became idle
+[718.92] [Shooter] System idle

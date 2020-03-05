@@ -1,0 +1,18 @@
+[29.80] [Robot] Robot disabled
+[29.80] [AnalyticsEngine] ----- Begin Match Analytics -----
+[29.80] [AnalyticsEngine] Balls loaded: 1
+[29.80] [AnalyticsEngine] Balls shot: 5
+[29.80] [AnalyticsEngine] ------ End Match Analytics ------
+[29.80] [AnalyticsEngine] Cleared event map
+[29.80] [DriveTrain] Disabling brakes
+[29.80] [DriveTrain] Stopping DriveTrain
+[29.82] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[29.82] [Climber] In service mode
+[29.88] [FaultReporter] Robot FPGA outputs have been disabled
+[31.40] [Robot] Teleop started
+[31.40] [DriveTrain] Enabling brakes
+[31.40] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[31.40] [Climber] Locked
+[31.42] [Intake] System freeze requested
+[31.42] [Climber] Locked
+[31.42] [Intake] Freezing system

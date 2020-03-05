@@ -1,0 +1,41 @@
+[2.92] [Chooser] Reading autonomous position
+[2.92] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[2.92] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.92] [Robot] Robot disabled
+[2.92] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.92] [AnalyticsEngine] ------ End Match Analytics ------
+[2.92] [AnalyticsEngine] Cleared event map
+[2.92] [DriveTrain] Disabling brakes
+[2.92] [DriveTrain] Stopping DriveTrain
+[2.92] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.92] [Climber] In service mode
+[2.92] [Shooter] System idle
+[2.92] [Hopper] Became idle
+[2.92] [PanelManipulator] Became idle
+[2.92] [Intake] System stow requested
+[2.92] [Shooter] Stop requested
+[2.92] [Intake] Stowing intake
+[3.56] [Shooter] System idle
+[32.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[39.16] [Robot] Teleop started
+[39.16] [DriveTrain] Enabling brakes
+[39.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[39.16] [Climber] Locked
+[39.16] [Intake] System freeze requested
+[39.18] [FaultReporter] Robot FPGA outputs have been enabled
+[39.18] [Climber] Locked
+[39.20] [Intake] Freezing system
+[39.88] [IntakeCells] Intaking 5 cells
+[39.88] [Intake] Intake requested
+[39.88] [Hopper] Intake requested
+[39.88] [Shooter] Stop requested
+[39.88] [Intake] Intaking balls
+[39.90] [Hopper] Preparing to intake balls
+[39.92] [Shooter] System idle
+[40.10] [Hopper] Intaking balls
+[41.62] [IntakeCells] Intake action interrupted
+[41.64] [Intake] System stow requested
+[41.64] [Shooter] Stop requested
+[41.64] [Intake] Stowing intake
+[41.68] [Hopper] Became idle
+[41.68] [Shooter] System idle

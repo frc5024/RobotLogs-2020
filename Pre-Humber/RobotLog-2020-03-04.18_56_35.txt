@@ -1,0 +1,6 @@
+[32.63] [DriveTrain] Stopping DriveTrain
+[32.65] [DriveTrain] Stopping DriveTrain
+[32.65] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.65] [DriveTrain] Disabling brakes
+[32.65] [DriveTrain] Set control mode to VOLTAGE with signal: <5.19, 5.24>
+[32.91] [Robot] Robot disabled

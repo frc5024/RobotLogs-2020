@@ -1,0 +1,93 @@
+[138.82] [Robot] Robot disabled
+[138.82] [AnalyticsEngine] ----- Begin Match Analytics -----
+[138.82] [AnalyticsEngine] Times unjamed: 1
+[138.82] [AnalyticsEngine] ------ End Match Analytics ------
+[138.82] [AnalyticsEngine] Cleared event map
+[138.82] [DriveTrain] Disabling brakes
+[138.82] [DriveTrain] Stopping DriveTrain
+[138.82] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[138.82] [Climber] In service mode
+[138.86] [FaultReporter] Robot FPGA outputs have been disabled
+[143.12] [Robot] Teleop started
+[143.12] [DriveTrain] Enabling brakes
+[143.12] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[143.12] [Climber] Locked
+[143.12] [Intake] System freeze requested
+[143.12] [Climber] Locked
+[143.12] [Intake] Freezing system
+[143.18] [FaultReporter] Robot FPGA outputs have been enabled
+[160.14] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[203.18] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[211.18] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[262.22] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[266.22] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[270.22] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[380.30] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[701.32] [IntakeCells] Intaking 5 cells
+[701.34] [CellSuperstructure] Entering intake state
+[701.34] [Intake] Intake requested
+[701.34] [Hopper] Intake requested
+[701.34] [Shooter] Stop requested
+[701.34] [Intake] Intaking balls
+[701.36] [Hopper] Preparing to intake balls
+[701.38] [Shooter] System idle
+[701.56] [Hopper] Intaking balls
+[702.90] [IntakeCells] Intake action interrupted
+[702.92] [CellSuperstructure] Entering idle state
+[702.92] [Intake] System stow requested
+[702.92] [Shooter] Stop requested
+[702.92] [Intake] Stowing intake
+[702.94] [Hopper] Became idle
+[702.96] [Shooter] System idle
+[707.80] [IntakeCells] Intaking 5 cells
+[707.82] [CellSuperstructure] Entering intake state
+[707.82] [Intake] Intake requested
+[707.82] [Hopper] Intake requested
+[707.82] [Shooter] Stop requested
+[707.82] [Intake] Intaking balls
+[707.84] [Hopper] Preparing to intake balls
+[707.86] [Shooter] System idle
+[708.04] [Hopper] Intaking balls
+[714.78] [IntakeCells] Intake action interrupted
+[714.80] [CellSuperstructure] Entering idle state
+[714.80] [Intake] System stow requested
+[714.80] [Shooter] Stop requested
+[714.80] [Intake] Stowing intake
+[714.82] [Hopper] Became idle
+[714.84] [Shooter] System idle
+[771.86] [IntakeCells] Intaking 5 cells
+[771.88] [CellSuperstructure] Entering intake state
+[771.88] [Intake] Intake requested
+[771.88] [Hopper] Intake requested
+[771.88] [Shooter] Stop requested
+[771.88] [Intake] Intaking balls
+[771.90] [Hopper] Preparing to intake balls
+[771.92] [Shooter] System idle
+[772.10] [Hopper] Intaking balls
+[774.54] [IntakeCells] Intake action interrupted
+[774.56] [CellSuperstructure] Entering idle state
+[774.56] [Intake] System stow requested
+[774.56] [Shooter] Stop requested
+[774.56] [Intake] Stowing intake
+[774.58] [Hopper] Became idle
+[774.60] [Shooter] System idle
+[776.12] [IntakeCells] Intaking 5 cells
+[776.14] [CellSuperstructure] Entering intake state
+[776.14] [Intake] Intake requested
+[776.14] [Hopper] Intake requested
+[776.14] [Shooter] Stop requested
+[776.14] [Intake] Intaking balls
+[776.16] [Hopper] Preparing to intake balls
+[776.18] [Shooter] System idle
+[776.36] [Hopper] Intaking balls
+[779.70] [IntakeCells] Intake action interrupted
+[779.72] [CellSuperstructure] Entering idle state
+[779.72] [Intake] System stow requested
+[779.72] [Shooter] Stop requested
+[779.72] [Intake] Stowing intake
+[779.74] [CellSuperstructure] Entering idle state
+[779.74] [Intake] System stow requested
+[779.74] [Shooter] Stop requested
+[779.74] [Intake] Stowing intake
+[779.74] [Hopper] Became idle
+[779.76] [Shooter] System idle

@@ -1,0 +1,35 @@
+[497.02] [Robot] Robot disabled
+[497.02] [AnalyticsEngine] ----- Begin Match Analytics -----
+[497.02] [AnalyticsEngine] ------ End Match Analytics ------
+[497.02] [AnalyticsEngine] Cleared event map
+[497.02] [DriveTrain] Disabling brakes
+[497.02] [DriveTrain] Stopping DriveTrain
+[497.02] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[497.02] [Climber] In service mode
+[497.02] [FaultReporter] Robot FPGA outputs have been disabled
+[501.06] [Robot] Teleop started
+[501.06] [DriveTrain] Enabling brakes
+[501.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[501.06] [Climber] Locked
+[501.06] [Intake] System freeze requested
+[501.06] [Climber] Locked
+[501.10] [FaultReporter] Robot FPGA outputs have been enabled
+[502.94] [ShootCells] Shooting 5 cells
+[502.98] [Intake] System stow requested
+[502.98] [Intake] Stowing intake
+[503.00] [Shooter] Spinning up to: 3426.50
+[503.02] [Shooter] Spinning up to: 3426.50
+[503.02] [Hopper] Feeding balls to flywheel
+[503.02] [ShootCells] Shoot action ended
+[503.02] [ShootCells] Shooting 5 cells
+[503.02] [Hopper] Became idle
+[503.02] [ShootCells] Shoot action ended
+[503.02] [ShootCells] Shooting 5 cells
+[503.04] [ShootCells] Shoot action ended
+[503.04] [ShootCells] Shooting 5 cells
+[503.04] [ShootCells] Shoot action ended
+[503.04] [ShootCells] Shooting 5 cells
+[503.06] [ShootCells] Shoot action ended
+[503.06] [ShootCells] Shooting 5 cells
+[503.08] [ShootCells] Shoot action ended
+[503.08] [ShootCells] Shooting 5 cells

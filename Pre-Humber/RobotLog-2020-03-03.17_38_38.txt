@@ -1,0 +1,41 @@
+[3.64] [Shooter] System idle
+[22.22] [FaultReporter] Robot FPGA outputs have been enabled
+[22.22] [Robot] Teleop started
+[22.22] [DriveTrain] Enabling brakes
+[22.22] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[22.22] [Climber] Locked
+[22.22] [Intake] System freeze requested
+[22.24] [Climber] Locked
+[22.24] [Intake] Freezing system
+[23.40] [IntakeCells] Intaking 5 cells
+[23.42] [CellSuperstructure] Entering intake state
+[23.42] [Intake] Intake requested
+[23.42] [Hopper] Intake requested
+[23.42] [Shooter] Stop requested
+[23.42] [Intake] Intaking balls
+[23.44] [Hopper] Preparing to intake balls
+[23.46] [Shooter] System idle
+[23.64] [Hopper] Intaking balls
+[24.84] [IntakeCells] Intake action interrupted
+[24.86] [CellSuperstructure] Entering idle state
+[24.86] [Intake] System stow requested
+[24.86] [Shooter] Stop requested
+[24.86] [Intake] Stowing intake
+[24.88] [Hopper] Became idle
+[24.90] [Shooter] System idle
+[26.90] [IntakeCells] Intaking 5 cells
+[26.92] [CellSuperstructure] Entering intake state
+[26.92] [Intake] Intake requested
+[26.92] [Hopper] Intake requested
+[26.92] [Shooter] Stop requested
+[26.92] [Intake] Intaking balls
+[26.94] [Hopper] Preparing to intake balls
+[26.96] [Shooter] System idle
+[27.14] [Hopper] Intaking balls
+[34.90] [IntakeCells] Intake action interrupted
+[34.92] [CellSuperstructure] Entering idle state
+[34.92] [Intake] System stow requested
+[34.92] [Shooter] Stop requested
+[34.92] [Intake] Stowing intake
+[34.94] [Hopper] Became idle
+[34.96] [Shooter] System idle

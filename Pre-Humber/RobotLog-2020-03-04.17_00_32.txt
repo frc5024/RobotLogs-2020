@@ -1,0 +1,37 @@
+[2.91] [AnalyticsEngine] ------ End Match Analytics ------
+[2.91] [AnalyticsEngine] Cleared event map
+[2.91] [DriveTrain] Disabling brakes
+[2.91] [DriveTrain] Stopping DriveTrain
+[2.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.91] [Climber] In service mode
+[2.91] [Shooter] System idle
+[2.91] [Hopper] Became idle
+[2.91] [PanelManipulator] Became idle
+[2.91] [Intake] System stow requested
+[2.91] [Shooter] Stop requested
+[2.91] [Intake] Stowing intake
+[3.35] [Shooter] System idle
+[4.09] [Robot] Teleop started
+[4.09] [DriveTrain] Enabling brakes
+[4.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[4.09] [Climber] Locked
+[4.11] [Intake] System freeze requested
+[4.13] [FaultReporter] Robot FPGA outputs have been enabled
+[4.13] [Climber] Locked
+[4.25] [Intake] Freezing system
+[5.01] [ShootCellsBackend] Shooting 5 cells
+[5.01] [CellSuperstructure] Shoot 5 cells requested
+[5.03] [Intake] System stow requested
+[5.03] [Intake] Stowing intake
+[5.07] [Shooter] Spinning up to: 3288.74
+[5.09] [Hopper] Feeding balls to flywheel
+[5.09] [ShootCellsBackend] Shoot action ended
+[5.13] [Hopper] Became idle
+[5.13] [Intake] System stow requested
+[5.13] [Shooter] Stop requested
+[5.17] [Shooter] System idle
+[5.25] [ShootCellsBackend] Shooting 5 cells
+[5.25] [CellSuperstructure] Shoot 5 cells requested
+[5.27] [Intake] System stow requested
+[5.27] [Shooter] Spinning up to: 3693.50
+[5.29] [Hopper] Feeding balls to flywheel

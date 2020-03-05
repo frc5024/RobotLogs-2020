@@ -1,0 +1,64 @@
+[2.97] [PanelManipulator] Became idle
+[2.97] [Intake] System stow requested
+[2.97] [Shooter] Stop requested
+[2.97] [Intake] Stowing intake
+[3.69] [Shooter] System idle
+[73.39] [Robot] Teleop started
+[73.39] [DriveTrain] Enabling brakes
+[73.39] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[73.39] [Climber] Locked
+[73.39] [Intake] System freeze requested
+[73.39] [Climber] Locked
+[73.42] [Intake] Freezing system
+[73.42] [FaultReporter] Robot FPGA outputs have been enabled
+[73.49] [IntakeCells] Intaking 5 cells
+[73.49] [Intake] Intake requested
+[73.49] [Hopper] Intake requested
+[73.49] [Shooter] Stop requested
+[73.49] [Intake] Intaking balls
+[73.51] [Hopper] Preparing to intake balls
+[73.51] [Shooter] System idle
+[76.13] [Hopper] Intaking balls
+[78.05] [IntakeCells] Intake action interrupted
+[78.07] [Intake] System stow requested
+[78.07] [Shooter] Stop requested
+[78.07] [Intake] Stowing intake
+[78.09] [Hopper] Became idle
+[78.11] [Shooter] System idle
+[81.27] [Intake] Unjam requested
+[81.27] [Hopper] Unjam requested
+[81.27] [Intake] Unjamming balls
+[81.29] [Shooter] Spinning up to: -890.00
+[81.29] [Hopper] Unjamming
+[81.31] [Shooter] Holding. Spin-Up took 0.019 seconds
+[81.65] [Shooter] Spinning up to: -890.00
+[82.39] [Intake] System stow requested
+[82.39] [Shooter] Stop requested
+[82.39] [Intake] Stowing intake
+[82.41] [Hopper] Became idle
+[82.43] [Shooter] System idle
+[83.03] [Intake] Unjam requested
+[83.03] [Hopper] Unjam requested
+[83.03] [Intake] Unjamming balls
+[83.05] [Shooter] Spinning up to: -890.00
+[83.05] [Hopper] Unjamming
+[83.07] [Shooter] Holding. Spin-Up took 0.02 seconds
+[83.19] [Intake] System stow requested
+[83.19] [Shooter] Stop requested
+[83.19] [Intake] Stowing intake
+[83.21] [Hopper] Became idle
+[83.23] [Shooter] System idle
+[124.93] [IntakeCells] Intaking 5 cells
+[124.95] [Intake] Intake requested
+[124.95] [Hopper] Intake requested
+[124.95] [Shooter] Stop requested
+[124.95] [Intake] Intaking balls
+[124.97] [Hopper] Preparing to intake balls
+[124.99] [Shooter] System idle
+[128.03] [Hopper] Intaking balls
+[129.27] [IntakeCells] Intake action interrupted
+[129.29] [Intake] System stow requested
+[129.29] [Shooter] Stop requested
+[129.29] [Intake] Stowing intake
+[129.31] [Hopper] Became idle
+[129.33] [Shooter] System idle

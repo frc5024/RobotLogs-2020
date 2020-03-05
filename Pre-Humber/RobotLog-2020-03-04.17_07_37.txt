@@ -1,0 +1,168 @@
+[2.95] [Intake] System stow requested
+[2.95] [Shooter] Stop requested
+[2.95] [Intake] Stowing intake
+[3.55] [Shooter] System idle
+[11.41] [Robot] Teleop started
+[11.41] [DriveTrain] Enabling brakes
+[11.41] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[11.41] [Climber] Locked
+[11.41] [Intake] System freeze requested
+[11.43] [FaultReporter] Robot FPGA outputs have been enabled
+[11.43] [Climber] Locked
+[11.45] [Intake] Freezing system
+[12.69] [DriveTrain] Stopping DriveTrain
+[12.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[12.69] [DriveTrain] Disabling brakes
+[15.17] [DriveTrain] Stopping DriveTrain
+[15.17] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.17] [DriveTrain] Enabling brakes
+[23.21] [ShootCellsBackend] Shooting 5 cells
+[23.21] [CellSuperstructure] Shoot 5 cells requested
+[23.23] [Intake] System stow requested
+[23.25] [Intake] Stowing intake
+[23.27] [Shooter] Spinning up to: 3424.33
+[23.29] [Hopper] Feeding balls to flywheel
+[23.29] [ShootCellsBackend] Shoot action ended
+[23.31] [Hopper] Became idle
+[23.31] [Intake] System stow requested
+[23.31] [Shooter] Stop requested
+[23.33] [Shooter] System idle
+[23.43] [ShootCellsBackend] Shooting 5 cells
+[23.43] [CellSuperstructure] Shoot 5 cells requested
+[23.45] [Intake] System stow requested
+[23.47] [Shooter] Spinning up to: 3693.50
+[23.49] [Hopper] Feeding balls to flywheel
+[23.49] [ShootCellsBackend] Shoot action ended
+[23.49] [Hopper] Became idle
+[23.49] [Intake] System stow requested
+[23.49] [Shooter] Stop requested
+[23.53] [Shooter] System idle
+[28.27] [ShootCellsBackend] Shooting 5 cells
+[28.27] [CellSuperstructure] Shoot 5 cells requested
+[28.29] [Intake] System stow requested
+[28.31] [Shooter] Spinning up to: 3424.33
+[28.33] [Hopper] Feeding balls to flywheel
+[28.33] [ShootCellsBackend] Shoot action ended
+[28.33] [Hopper] Became idle
+[28.33] [Intake] System stow requested
+[28.33] [Shooter] Stop requested
+[28.37] [Shooter] System idle
+[28.47] [ShootCellsBackend] Shooting 5 cells
+[28.47] [CellSuperstructure] Shoot 5 cells requested
+[28.49] [Intake] System stow requested
+[28.51] [Shooter] Spinning up to: 3693.50
+[28.51] [Hopper] Feeding balls to flywheel
+[28.51] [ShootCellsBackend] Shoot action ended
+[28.53] [Hopper] Became idle
+[28.53] [Intake] System stow requested
+[28.53] [Shooter] Stop requested
+[28.57] [Shooter] System idle
+[28.67] [ShootCellsBackend] Shooting 5 cells
+[28.67] [CellSuperstructure] Shoot 5 cells requested
+[28.69] [Intake] System stow requested
+[28.71] [Shooter] Spinning up to: 3693.50
+[28.71] [Hopper] Feeding balls to flywheel
+[28.71] [ShootCellsBackend] Shoot action ended
+[28.73] [Hopper] Became idle
+[28.73] [Intake] System stow requested
+[28.73] [Shooter] Stop requested
+[28.77] [Shooter] System idle
+[28.87] [ShootCellsBackend] Shooting 5 cells
+[28.87] [CellSuperstructure] Shoot 5 cells requested
+[28.89] [Intake] System stow requested
+[28.91] [Shooter] Spinning up to: 3693.50
+[28.91] [Hopper] Feeding balls to flywheel
+[28.91] [ShootCellsBackend] Shoot action ended
+[28.93] [Hopper] Became idle
+[28.93] [Intake] System stow requested
+[28.93] [Shooter] Stop requested
+[28.97] [Shooter] System idle
+[29.07] [ShootCellsBackend] Shooting 5 cells
+[29.07] [CellSuperstructure] Shoot 5 cells requested
+[29.09] [Intake] System stow requested
+[29.11] [Shooter] Spinning up to: 3693.50
+[29.13] [Hopper] Feeding balls to flywheel
+[29.13] [ShootCellsBackend] Shoot action ended
+[29.15] [Hopper] Became idle
+[29.15] [Intake] System stow requested
+[29.15] [Shooter] Stop requested
+[29.17] [Shooter] System idle
+[29.27] [ShootCellsBackend] Shooting 5 cells
+[29.27] [CellSuperstructure] Shoot 5 cells requested
+[29.29] [Intake] System stow requested
+[29.31] [Shooter] Spinning up to: 3424.33
+[29.31] [Hopper] Feeding balls to flywheel
+[29.33] [ShootCellsBackend] Shoot action ended
+[29.33] [Hopper] Became idle
+[29.33] [Intake] System stow requested
+[29.33] [Shooter] Stop requested
+[29.37] [Shooter] System idle
+[29.47] [ShootCellsBackend] Shooting 5 cells
+[29.47] [CellSuperstructure] Shoot 5 cells requested
+[29.49] [Intake] System stow requested
+[29.51] [Shooter] Spinning up to: 3693.50
+[29.51] [Hopper] Feeding balls to flywheel
+[29.51] [ShootCellsBackend] Shoot action ended
+[29.53] [Hopper] Became idle
+[29.53] [Intake] System stow requested
+[29.53] [Shooter] Stop requested
+[29.57] [Shooter] System idle
+[29.65] [ShootCellsBackend] Shooting 5 cells
+[29.65] [CellSuperstructure] Shoot 5 cells requested
+[29.67] [Intake] System stow requested
+[29.69] [Shooter] Spinning up to: 3693.50
+[29.69] [Hopper] Feeding balls to flywheel
+[29.69] [ShootCellsBackend] Shoot action ended
+[29.71] [Hopper] Became idle
+[29.71] [Intake] System stow requested
+[29.71] [Shooter] Stop requested
+[29.75] [Shooter] System idle
+[30.47] [ShootCellsBackend] Shooting 5 cells
+[30.47] [CellSuperstructure] Shoot 5 cells requested
+[30.49] [Intake] System stow requested
+[30.51] [Shooter] Spinning up to: 3424.33
+[30.51] [Hopper] Feeding balls to flywheel
+[30.51] [ShootCellsBackend] Shoot action ended
+[30.53] [Hopper] Became idle
+[30.53] [Intake] System stow requested
+[30.53] [Shooter] Stop requested
+[30.57] [Shooter] System idle
+[30.67] [ShootCellsBackend] Shooting 5 cells
+[30.67] [CellSuperstructure] Shoot 5 cells requested
+[30.69] [Intake] System stow requested
+[30.71] [Shooter] Spinning up to: 3693.50
+[30.73] [Hopper] Feeding balls to flywheel
+[30.73] [ShootCellsBackend] Shoot action ended
+[30.73] [Hopper] Became idle
+[30.73] [Intake] System stow requested
+[30.73] [Shooter] Stop requested
+[30.77] [Shooter] System idle
+[30.85] [ShootCellsBackend] Shooting 5 cells
+[30.85] [CellSuperstructure] Shoot 5 cells requested
+[30.87] [Intake] System stow requested
+[30.89] [Shooter] Spinning up to: 3693.50
+[30.89] [Hopper] Feeding balls to flywheel
+[30.89] [ShootCellsBackend] Shoot action ended
+[30.91] [Hopper] Became idle
+[30.91] [Intake] System stow requested
+[30.91] [Shooter] Stop requested
+[30.95] [Shooter] System idle
+[31.05] [ShootCellsBackend] Shooting 5 cells
+[31.05] [CellSuperstructure] Shoot 5 cells requested
+[31.07] [Intake] System stow requested
+[31.09] [Shooter] Spinning up to: 3693.50
+[31.09] [Hopper] Feeding balls to flywheel
+[31.09] [ShootCellsBackend] Shoot action ended
+[31.11] [Hopper] Became idle
+[31.11] [Intake] System stow requested
+[31.11] [Shooter] Stop requested
+[31.15] [Shooter] System idle
+[31.25] [ShootCellsBackend] Shooting 5 cells
+[31.25] [CellSuperstructure] Shoot 5 cells requested
+[31.27] [Intake] System stow requested
+[31.29] [Shooter] Spinning up to: 3693.50
+[31.29] [Hopper] Feeding balls to flywheel
+[31.29] [ShootCellsBackend] Shoot action ended
+[31.31] [Hopper] Became idle
+[31.31] [Intake] System stow requested
+[31.31] [Shooter] Stop requested

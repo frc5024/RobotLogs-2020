@@ -1,0 +1,7 @@
+[2.93] [Shooter] Stop requested
+[2.93] [Intake] Stowing intake
+[3.53] [Shooter] System idle
+[16.79] [Robot] Autonomous started
+[16.79] [Chooser] Generating autonomous command object
+[16.85] [Chooser] Reading autonomous position
+[16.85] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))

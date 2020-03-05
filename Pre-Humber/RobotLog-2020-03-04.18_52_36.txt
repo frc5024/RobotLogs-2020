@@ -1,0 +1,50 @@
+[16.26] [Robot] Robot disabled
+[16.26] [AnalyticsEngine] ----- Begin Match Analytics -----
+[16.26] [AnalyticsEngine] Balls shot: 1
+[16.26] [AnalyticsEngine] ------ End Match Analytics ------
+[16.26] [AnalyticsEngine] Cleared event map
+[16.26] [DriveTrain] Disabling brakes
+[16.26] [DriveTrain] Stopping DriveTrain
+[16.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.26] [Climber] In service mode
+[16.26] [DriveTrain] Stopping DriveTrain
+[16.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[16.28] [FaultReporter] Robot FPGA outputs have been disabled
+[44.72] [Robot] Autonomous started
+[44.74] [Robot] Autonomous started
+[44.74] [Chooser] Generating autonomous command object
+[44.74] [Chooser] Reading autonomous position
+[44.74] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[44.74] [DriveTrain] Enabling brakes
+[44.74] [Climber] Locked
+[44.74] [Hopper] Cell count force-set to: 3
+[44.74]  Starting autonomous actions
+[44.77] [FaultReporter] Robot FPGA outputs have been enabled
+[44.78] [Autonomous] Ensuring robot is facing proper heading
+[44.86] [DriveTrain] Stopping DriveTrain
+[44.86] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[44.88] [Autonomous] Shooting 3 cells
+[44.88] [Hopper] Cell count force-set to: 3
+[44.90] [ShootCells] Shooting 3 cells
+[44.92] [Intake] System stow requested
+[44.94] [Shooter] Spinning up to: 3693.50
+[44.94] [Hopper] Feeding balls to flywheel
+[45.16] [Hopper] Became idle
+[46.44] [Shooter] Holding. Spin-Up took 1.499 seconds
+[46.44] [Hopper] Feeding balls to flywheel
+[46.80] [Shooter] Spinning up to: 3693.50
+[46.95] [Shooter] Holding. Spin-Up took 0.139 seconds
+[47.16] [Shooter] Spinning up to: 3693.50
+[47.20] [Shooter] Holding. Spin-Up took 0.059 seconds
+[47.68] [Shooter] Spinning up to: 3693.50
+[47.68] [Hopper] Became idle
+[47.70] [ShootCells] Shoot action ended
+[47.72] [Intake] System stow requested
+[47.72] [Shooter] Stop requested
+[47.72] [Autonomous] Driving Backwards
+[47.72] [DriveTrain] Setting DriveTrain ramp rate to: 0.25
+[47.74] [DriveTrain] Stopping DriveTrain
+[47.76] [DriveTrain] Stopping DriveTrain
+[47.76] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[47.76] [Shooter] System idle
+[47.76] [Autonomous] Auto Path has finished

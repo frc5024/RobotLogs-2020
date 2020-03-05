@@ -1,0 +1,16 @@
+[3.37] [Shooter] System idle
+[15.67] [Robot] Teleop started
+[15.67] [DriveTrain] Enabling brakes
+[15.67] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[15.67] [Climber] Locked
+[15.67] [Intake] System freeze requested
+[15.69] [Climber] Locked
+[15.73] [FaultReporter] Robot FPGA outputs have been enabled
+[15.79] [Intake] Freezing system
+[16.17] [IntakeCells] Intaking 5 cells
+[16.19] [Intake] Intake requested
+[16.19] [Hopper] Intake requested
+[16.19] [Shooter] Stop requested
+[16.19] [Intake] Intaking balls
+[16.21] [Hopper] Preparing to intake balls
+[16.23] [Shooter] System idle

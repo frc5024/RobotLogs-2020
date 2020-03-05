@@ -1,0 +1,111 @@
+[2.85] [DriveTrain] Stopping DriveTrain
+[2.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.85] [Climber] In service mode
+[2.95] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[2.95] LIBRARY: [FaultReporter] Starting reporter thread
+[2.97] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[2.97] LIBRARY: [FaultReporter] Starting reporter thread
+[2.97] [FaultReporter] 3v3 Rail Enabled
+[2.97] [FaultReporter] 5v Rail Enabled
+[2.99] LIBRARY: [FaultReporter] Reporting on FPGA version: 33558530.33558530
+[2.99] LIBRARY: [FaultReporter] Starting reporter thread
+[2.99] [FaultReporter] 3v3 Rail Enabled
+[2.99] [FaultReporter] 5v Rail Enabled
+[2.99] [FaultReporter] 3v3 Rail Enabled
+[2.99] LIBRARY:  Climb camera's connection mode has been set to: Stay Awake
+[2.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.99] [PanelManipulator] Loaded color threshold: 126.48
+[2.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.99] [Chooser] Publishing auton options
+[2.99] [Chooser] Reading autonomous position
+[2.99] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[2.99] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.99] [Robot] Robot disabled
+[2.99] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.99] [AnalyticsEngine] ------ End Match Analytics ------
+[2.99] [AnalyticsEngine] Cleared event map
+[2.99] [DriveTrain] Disabling brakes
+[2.99] [DriveTrain] Stopping DriveTrain
+[2.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.99] [Climber] In service mode
+[2.99] [Shooter] System idle
+[2.99] [Hopper] Became idle
+[2.99] [PanelManipulator] Became idle
+[2.99] [Intake] System stow requested
+[2.99] [Shooter] Stop requested
+[2.99] [Intake] Stowing intake
+[3.82] [Shooter] System idle
+[50.04] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[75.66] [Robot] Autonomous started
+[75.66] [Chooser] Generating autonomous command object
+[75.70] [Chooser] Reading autonomous position
+[75.70] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[75.70] [DriveTrain] Enabling brakes
+[75.70] [Climber] Locked
+[75.70] [Hopper] Cell count force-set to: 3
+[75.72]  Starting autonomous actions
+[75.72] [FaultReporter] Robot FPGA outputs have been enabled
+[75.76] [Autonomous] Ensuring robot is facing proper heading
+[75.80] [DriveTrain] Stopping DriveTrain
+[75.80] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[75.82] [Autonomous] Shooting 3 cells
+[75.82] [Hopper] Cell count force-set to: 3
+[75.84] [ShootCells] Shooting 3 cells
+[75.86] [Intake] System stow requested
+[75.88] [Shooter] Spinning up to: 3693.50
+[75.88] [Hopper] Feeding balls to flywheel
+[76.16] [Hopper] Became idle
+[77.32] [Shooter] Holding. Spin-Up took 1.44 seconds
+[77.32] [Hopper] Feeding balls to flywheel
+[77.72] [Shooter] Spinning up to: 3693.50
+[77.84] [Shooter] Holding. Spin-Up took 0.12 seconds
+[78.06] [Shooter] Spinning up to: 3693.50
+[78.06] [Hopper] Became idle
+[78.16] [Hopper] Feeding balls to flywheel
+[78.20] [Shooter] Holding. Spin-Up took 0.14 seconds
+[78.32] [Shooter] Spinning up to: 3693.50
+[78.50] [Shooter] Holding. Spin-Up took 0.18 seconds
+[78.70] [Shooter] Spinning up to: 3693.50
+[78.70] [Hopper] Became idle
+[79.38] [Shooter] Holding. Spin-Up took 0.679 seconds
+[79.38] [Hopper] Feeding balls to flywheel
+[79.52] [ShootCells] Shoot action ended
+[79.54] [Hopper] Became idle
+[79.54] [Intake] System stow requested
+[79.54] [Shooter] Stop requested
+[79.54] [Autonomous] Turning to face Trench
+[79.58] [Shooter] System idle
+[81.12] [DriveTrain] Stopping DriveTrain
+[81.12] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[81.14] [Autonomous] Driving to trench
+[81.14] [DrivePath] Driving path
+[82.26] [DrivePath] Finished driving path
+[82.26] [DriveTrain] Stopping DriveTrain
+[82.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[83.56] [DriveTrain] Stopping DriveTrain
+[83.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[83.58] [Autonomous] Starting Command Race
+[83.58] [IntakeCells] Intaking 1 cells
+[83.58] [DrivePath] Driving path
+[83.60] [Intake] Intake requested
+[83.60] [Hopper] Intake requested
+[83.60] [Shooter] Stop requested
+[83.60] [Intake] Intaking balls
+[83.62] [Hopper] Preparing to intake balls
+[83.64] [Shooter] System idle
+[84.80] [Hopper] Intaking balls
+[85.34] [IntakeCells] Intake action ended
+[85.34] [DrivePath] Finished driving path
+[85.34] [DriveTrain] Stopping DriveTrain
+[85.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[85.36] [Hopper] Preparing to intake balls
+[85.36] [Intake] System stow requested
+[85.36] [Shooter] Stop requested
+[85.36] [Intake] Stowing intake
+[85.36] [Autonomous] Performing Turn 1
+[85.38] [Hopper] Became idle
+[85.40] [Shooter] System idle
+[86.82] [DriveTrain] Stopping DriveTrain
+[86.82] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[86.84] [Autonomous] Performing Turn 2
+[88.36] [DriveTrain] Stopping DriveTrain

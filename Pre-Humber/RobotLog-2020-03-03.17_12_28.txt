@@ -1,0 +1,62 @@
+[3.32] [Shooter] System idle
+[38.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[42.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[46.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[85.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[89.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[93.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[97.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[114.94] [Robot] Teleop started
+[114.94] [DriveTrain] Enabling brakes
+[114.94] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[114.94] [Climber] Locked
+[114.94] [Intake] System freeze requested
+[114.94] [Climber] Locked
+[114.94] [FaultReporter] Robot FPGA outputs have been enabled
+[114.94] [Intake] Freezing system
+[120.48] [IntakeCells] Intaking 5 cells
+[120.50] [IntakeCells] Intaking 5 cells
+[120.50] [CellSuperstructure] Entering intake state
+[120.50] [Intake] Intake requested
+[120.50] [Hopper] Intake requested
+[120.50] [Shooter] Stop requested
+[120.50] [Intake] Intaking balls
+[120.52] [Hopper] Preparing to intake balls
+[120.54] [Shooter] System idle
+[120.72] [Hopper] Intaking balls
+[122.34] [IntakeCells] Intake action interrupted
+[122.36] [CellSuperstructure] Entering idle state
+[122.36] [Intake] System stow requested
+[122.36] [Shooter] Stop requested
+[122.36] [Intake] Stowing intake
+[122.38] [Hopper] Became idle
+[122.40] [Shooter] System idle
+[126.42] [CellSuperstructure] Entering unjam state
+[126.42] [Intake] Unjam requested
+[126.42] [Hopper] Unjam requested
+[126.42] [Intake] Unjamming balls
+[126.44] [Shooter] Spinning up to: -890.00
+[126.44] [Hopper] Unjamming
+[126.46] [Shooter] Holding. Spin-Up took 0.016 seconds
+[126.64] [CellSuperstructure] Entering idle state
+[126.64] [Intake] System stow requested
+[126.64] [Shooter] Stop requested
+[126.64] [Intake] Stowing intake
+[126.66] [Hopper] Became idle
+[126.68] [Shooter] System idle
+[128.34] [IntakeCells] Intaking 5 cells
+[128.36] [CellSuperstructure] Entering intake state
+[128.36] [Intake] Intake requested
+[128.36] [Hopper] Intake requested
+[128.36] [Shooter] Stop requested
+[128.36] [Intake] Intaking balls
+[128.38] [Hopper] Preparing to intake balls
+[128.40] [Shooter] System idle
+[128.58] [Hopper] Intaking balls
+[130.22] [IntakeCells] Intake action interrupted
+[130.24] [CellSuperstructure] Entering idle state
+[130.24] [Intake] System stow requested
+[130.24] [Shooter] Stop requested
+[130.24] [Intake] Stowing intake
+[130.26] [Hopper] Became idle
+[130.28] [Shooter] System idle

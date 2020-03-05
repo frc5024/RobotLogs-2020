@@ -1,0 +1,69 @@
+[631.72] [Robot] Robot disabled
+[631.72] [AnalyticsEngine] ----- Begin Match Analytics -----
+[631.72] [AnalyticsEngine] ------ End Match Analytics ------
+[631.72] [AnalyticsEngine] Cleared event map
+[631.72] [DriveTrain] Disabling brakes
+[631.72] [DriveTrain] Stopping DriveTrain
+[631.72] [FaultReporter] Robot FPGA outputs have been disabled
+[631.72] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[631.72] [Climber] In service mode
+[636.50] [Robot] Teleop started
+[636.50] [DriveTrain] Enabling brakes
+[636.50] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[636.50] [Climber] Locked
+[636.50] [Intake] System freeze requested
+[636.50] [Climber] Locked
+[636.52] [Intake] Freezing system
+[636.52] [FaultReporter] Robot FPGA outputs have been enabled
+[674.52] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[687.16] [IntakeCells] Intaking 5 cells
+[687.18] [Intake] Intake requested
+[687.18] [Hopper] Intake requested
+[687.18] [Shooter] Stop requested
+[687.18] [Intake] Intaking balls
+[687.20] [Hopper] Preparing to intake balls
+[687.22] [Shooter] System idle
+[688.36] [Hopper] Intaking balls
+[690.14] [IntakeCells] Intake action interrupted
+[690.16] [Intake] System stow requested
+[690.16] [Shooter] Stop requested
+[690.16] [Intake] Stowing intake
+[690.18] [Hopper] Became idle
+[690.20] [Shooter] System idle
+[691.80] [Intake] Unjam requested
+[691.80] [Hopper] Unjam requested
+[691.80] [Intake] Unjamming balls
+[691.82] [Shooter] Spinning up to: -890.00
+[691.82] [Hopper] Unjamming
+[691.84] [Shooter] Holding. Spin-Up took 0.02 seconds
+[692.12] [Intake] System stow requested
+[692.12] [Shooter] Stop requested
+[692.12] [Intake] Stowing intake
+[692.14] [Hopper] Became idle
+[692.16] [Shooter] System idle
+[693.18] [Intake] Unjam requested
+[693.18] [Hopper] Unjam requested
+[693.18] [Intake] Unjamming balls
+[693.20] [Shooter] Spinning up to: -890.00
+[693.20] [Hopper] Unjamming
+[693.22] [Shooter] Holding. Spin-Up took 0.02 seconds
+[693.54] [Shooter] Spinning up to: -890.00
+[693.94] [Intake] System stow requested
+[693.94] [Shooter] Stop requested
+[693.94] [Intake] Stowing intake
+[693.96] [Hopper] Became idle
+[693.98] [Shooter] System idle
+[694.28] [IntakeCells] Intaking 5 cells
+[694.30] [Intake] Intake requested
+[694.30] [Hopper] Intake requested
+[694.30] [Shooter] Stop requested
+[694.30] [Intake] Intaking balls
+[694.32] [Hopper] Preparing to intake balls
+[694.34] [Shooter] System idle
+[696.12] [Hopper] Intaking balls
+[697.24] [IntakeCells] Intake action interrupted
+[697.26] [Intake] System stow requested
+[697.26] [Shooter] Stop requested
+[697.26] [Intake] Stowing intake
+[697.28] [Hopper] Became idle
+[697.30] [Shooter] System idle

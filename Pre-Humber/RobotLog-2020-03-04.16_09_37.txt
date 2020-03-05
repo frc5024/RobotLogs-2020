@@ -1,0 +1,31 @@
+[582.22] [Robot] Robot disabled
+[582.22] [AnalyticsEngine] ----- Begin Match Analytics -----
+[582.22] [AnalyticsEngine] Times unjamed: 8
+[582.22] [AnalyticsEngine] Autoaim actions (free space): 2
+[582.22] [AnalyticsEngine] Ball count override events: 11
+[582.22] [AnalyticsEngine] Autoaim actions (pivot): 12
+[582.22] [AnalyticsEngine] Balls loaded: 59
+[582.22] [AnalyticsEngine] Balls shot: 23
+[582.22] [AnalyticsEngine] Ball count reset requests: 12
+[582.22] [AnalyticsEngine] ------ End Match Analytics ------
+[582.22] [AnalyticsEngine] Cleared event map
+[582.22] [DriveTrain] Disabling brakes
+[582.22] [DriveTrain] Stopping DriveTrain
+[582.22] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[582.22] [Climber] In service mode
+[582.28] [FaultReporter] Robot FPGA outputs have been disabled
+[600.66] [Robot] Teleop started
+[600.66] [DriveTrain] Enabling brakes
+[600.66] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[600.66] [Climber] Locked
+[600.66] [Intake] System freeze requested
+[600.66] [Climber] Locked
+[600.68] [Intake] Freezing system
+[600.68] [FaultReporter] Robot FPGA outputs have been enabled
+[601.26] [IntakeCells] Intaking 5 cells
+[601.28] [Intake] Intake requested
+[601.28] [Hopper] Intake requested
+[601.28] [Shooter] Stop requested
+[601.28] [Intake] Intaking balls
+[601.30] [Hopper] Preparing to intake balls
+[601.32] [Shooter] System idle

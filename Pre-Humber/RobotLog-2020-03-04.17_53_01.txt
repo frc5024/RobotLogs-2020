@@ -1,0 +1,20 @@
+[3.69] [Shooter] System idle
+[13.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[17.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[21.09] [Robot] Teleop started
+[21.09] [DriveTrain] Enabling brakes
+[21.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[21.09] [Climber] Locked
+[21.09] [Intake] System freeze requested
+[21.09] [Climber] Locked
+[21.11] [Robot] Teleop started
+[21.11] [DriveTrain] Enabling brakes
+[21.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[21.11] [Climber] Locked
+[21.11] [Intake] System freeze requested
+[21.11] [Climber] Locked
+[21.11] [Intake] Freezing system
+[21.11] [FaultReporter] Robot FPGA outputs have been enabled
+[68.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[72.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[76.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

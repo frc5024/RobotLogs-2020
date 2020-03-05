@@ -1,0 +1,101 @@
+[2.97] [PanelManipulator] Became idle
+[2.97] [Intake] System stow requested
+[2.97] [Shooter] Stop requested
+[2.97] [Intake] Stowing intake
+[3.45] [Shooter] System idle
+[12.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[14.13] [Robot] Teleop started
+[14.15] [Robot] Teleop started
+[14.15] [DriveTrain] Enabling brakes
+[14.15] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[14.15] [Climber] Locked
+[14.15] [Intake] System freeze requested
+[14.15] [Climber] Locked
+[14.15] [Intake] Freezing system
+[14.19] [FaultReporter] Robot FPGA outputs have been enabled
+[15.33] [Intake] Unjam requested
+[15.35] [Hopper] Unjam requested
+[15.35] [Intake] Unjamming balls
+[15.35] [Shooter] Spinning up to: -890.00
+[15.37] [Hopper] Unjamming
+[15.39] [Shooter] Holding. Spin-Up took 0.02 seconds
+[15.69] [Shooter] Spinning up to: -890.00
+[15.93] [Intake] System stow requested
+[15.93] [Shooter] Stop requested
+[15.93] [Intake] Stowing intake
+[15.95] [Hopper] Became idle
+[15.95] [Shooter] System idle
+[16.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[22.05] [IntakeCells] Intaking 5 cells
+[22.05] [Intake] Intake requested
+[22.05] [Hopper] Intake requested
+[22.05] [Shooter] Stop requested
+[22.07] [Intake] Intaking balls
+[22.09] [Hopper] Preparing to intake balls
+[22.09] [Shooter] System idle
+[22.27] [Hopper] Intaking balls
+[23.31] [IntakeCells] Intake action interrupted
+[23.31] [Intake] System stow requested
+[23.31] [Shooter] Stop requested
+[23.31] [Intake] Stowing intake
+[23.35] [Hopper] Became idle
+[23.35] [Shooter] System idle
+[31.35] [IntakeCells] Intaking 5 cells
+[31.35] [Intake] Intake requested
+[31.35] [Hopper] Intake requested
+[31.35] [Shooter] Stop requested
+[31.35] [Intake] Intaking balls
+[31.39] [Hopper] Preparing to intake balls
+[31.39] [Shooter] System idle
+[35.87] [Hopper] Intaking balls
+[37.43] [IntakeCells] Intake action ended
+[37.45] [IntakeCells] Intaking 5 cells
+[37.47] [Intake] System stow requested
+[37.47] [Shooter] Stop requested
+[37.47] [Intake] Stowing intake
+[37.47] [IntakeCells] Intake action ended
+[37.49] [Hopper] Became idle
+[37.49] [Shooter] System idle
+[44.43] [Intake] Unjam requested
+[44.43] [Hopper] Unjam requested
+[44.43] [Intake] Unjamming balls
+[44.45] [Shooter] Spinning up to: -890.00
+[44.47] [Hopper] Unjamming
+[44.47] [Shooter] Holding. Spin-Up took 0.02 seconds
+[44.81] [Shooter] Spinning up to: -890.00
+[46.15] [Intake] System stow requested
+[46.17] [Intake] System stow requested
+[46.17] [Shooter] Stop requested
+[46.17] [Intake] Stowing intake
+[46.17] [Hopper] Became idle
+[46.17] [Shooter] System idle
+[69.45] [IntakeCells] Intaking 5 cells
+[69.47] [Intake] Intake requested
+[69.47] [Hopper] Intake requested
+[69.47] [Shooter] Stop requested
+[69.47] [Intake] Intaking balls
+[69.51] [Hopper] Preparing to intake balls
+[69.51] [Shooter] System idle
+[69.69] [Hopper] Intaking balls
+[70.21] [Hopper] Preparing to intake balls
+[71.77] [IntakeCells] Intake action interrupted
+[71.79] [Intake] System stow requested
+[71.79] [Shooter] Stop requested
+[71.79] [Intake] Stowing intake
+[71.83] [Hopper] Became idle
+[71.83] [Shooter] System idle
+[75.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[134.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[138.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[150.87] [Intake] Unjam requested
+[150.87] [Hopper] Unjam requested
+[150.87] [Intake] Unjamming balls
+[150.89] [Shooter] Spinning up to: -890.00
+[150.91] [Hopper] Unjamming
+[150.91] [Shooter] Holding. Spin-Up took 0.02 seconds
+[151.25] [Shooter] Spinning up to: -890.00
+[151.27] [Intake] System stow requested
+[151.27] [Shooter] Stop requested
+[151.27] [Intake] Stowing intake
+[151.29] [Hopper] Became idle
+[151.29] [Shooter] System idle

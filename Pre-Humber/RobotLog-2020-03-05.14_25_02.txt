@@ -1,0 +1,27 @@
+[131.66] [Robot] Robot disabled
+[131.66] [AnalyticsEngine] ----- Begin Match Analytics -----
+[131.66] [AnalyticsEngine] Climb requests: 1
+[131.66] [AnalyticsEngine] ------ End Match Analytics ------
+[131.66] [AnalyticsEngine] Cleared event map
+[131.66] [DriveTrain] Disabling brakes
+[131.68] [Robot] Robot disabled
+[131.68] [AnalyticsEngine] ----- Begin Match Analytics -----
+[131.68] [AnalyticsEngine] Climb requests: 1
+[131.68] [AnalyticsEngine] ------ End Match Analytics ------
+[131.68] [AnalyticsEngine] Cleared event map
+[131.68] [DriveTrain] Disabling brakes
+[131.68] [DriveTrain] Stopping DriveTrain
+[131.68] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[131.68] [Climber] Locked
+[131.68] [Climber] In service mode
+[131.68] [FaultReporter] Robot FPGA outputs have been disabled
+[261.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[279.14] [Robot] Teleop started
+[279.14] [DriveTrain] Enabling brakes
+[279.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[279.14] [Climber] Locked
+[279.14] [Intake] System freeze requested
+[279.14] [Climber] Locked
+[279.20] [FaultReporter] Robot FPGA outputs have been enabled
+[284.88] [Climber] Unlocked
+[328.24] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

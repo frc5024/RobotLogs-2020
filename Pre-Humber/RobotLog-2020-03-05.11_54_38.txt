@@ -1,0 +1,76 @@
+[286.55] [Robot] Robot disabled
+[286.55] [AnalyticsEngine] ----- Begin Match Analytics -----
+[286.55] [AnalyticsEngine] ------ End Match Analytics ------
+[286.55] [AnalyticsEngine] Cleared event map
+[286.55] [DriveTrain] Disabling brakes
+[286.55] [DriveTrain] Stopping DriveTrain
+[286.55] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[286.55] [IntakeCells] Intake action interrupted
+[286.55] [Climber] In service mode
+[286.55] [Intake] System stow requested
+[286.55] [Shooter] Stop requested
+[286.55] [Intake] Stowing intake
+[286.57] [Hopper] Became idle
+[286.59] [Shooter] System idle
+[286.61] [FaultReporter] Robot FPGA outputs have been disabled
+[653.65] [Robot] Teleop started
+[653.65] [DriveTrain] Enabling brakes
+[653.65] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[653.65] [Climber] Locked
+[653.65] [Intake] System freeze requested
+[653.65] [Climber] Locked
+[653.65] [FaultReporter] Robot FPGA outputs have been enabled
+[653.67] [Intake] Freezing system
+[671.37] [IntakeCells] Intaking 5 cells
+[671.39] [Intake] Intake requested
+[671.39] [Hopper] Intake requested
+[671.39] [Shooter] Stop requested
+[671.39] [Intake] Intaking balls
+[671.41] [Hopper] Preparing to intake balls
+[671.43] [Shooter] System idle
+[672.05] [IntakeCells] Intake action interrupted
+[672.07] [Intake] System stow requested
+[672.07] [Shooter] Stop requested
+[672.07] [Intake] Stowing intake
+[672.09] [Hopper] Became idle
+[672.11] [Shooter] System idle
+[697.23] [IntakeCells] Intaking 5 cells
+[697.25] [Intake] Intake requested
+[697.25] [Hopper] Intake requested
+[697.25] [Shooter] Stop requested
+[697.25] [Intake] Intaking balls
+[697.27] [Hopper] Preparing to intake balls
+[697.29] [Shooter] System idle
+[697.47] [Hopper] Intaking balls
+[698.07] [Hopper] Preparing to intake balls
+[698.29] [IntakeCells] Intake action interrupted
+[698.31] [Intake] System stow requested
+[698.31] [Shooter] Stop requested
+[698.31] [Intake] Stowing intake
+[698.33] [Hopper] Became idle
+[698.35] [Shooter] System idle
+[700.09] [IntakeCells] Intaking 5 cells
+[700.11] [Intake] Intake requested
+[700.11] [Hopper] Intake requested
+[700.11] [Shooter] Stop requested
+[700.11] [Intake] Intaking balls
+[700.13] [Hopper] Preparing to intake balls
+[700.15] [Shooter] System idle
+[700.33] [Hopper] Intaking balls
+[700.97] [Hopper] Preparing to intake balls
+[701.07] [IntakeCells] Intake action interrupted
+[701.09] [Intake] System stow requested
+[701.09] [Shooter] Stop requested
+[701.09] [Intake] Stowing intake
+[701.11] [Hopper] Became idle
+[701.13] [Shooter] System idle
+[705.01] [Hopper] Unjam up requested
+[705.03] [Shooter] Spinning up to: 1557.50
+[705.05] [Hopper] Unjamming
+[705.85] [Shooter] Holding. Spin-Up took 0.819 seconds
+[705.95] [Shooter] Spinning up to: 1557.50
+[706.45] [Shooter] Holding. Spin-Up took 0.5 seconds
+[706.57] [Intake] System stow requested
+[706.57] [Shooter] Stop requested
+[706.59] [Hopper] Became idle
+[706.61] [Shooter] System idle

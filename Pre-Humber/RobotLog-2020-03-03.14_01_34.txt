@@ -1,0 +1,12 @@
+[2.88] [Shooter] Stop requested
+[2.88] [Intake] Stowing intake
+[3.48] [Shooter] System idle
+[32.06] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[122.76] [Robot] Teleop started
+[122.76] [DriveTrain] Enabling brakes
+[122.76] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[122.76] [Climber] Locked
+[122.76] [Intake] System freeze requested
+[122.76] [Climber] Locked
+[122.78] [FaultReporter] Robot FPGA outputs have been enabled
+[122.78] [Intake] Freezing system

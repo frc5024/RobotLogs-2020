@@ -1,0 +1,22 @@
+[2.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.91] [PanelManipulator] Loaded color threshold: 126.48
+[2.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.91] [Chooser] Publishing auton options
+[2.91] [Chooser] Reading autonomous position
+[2.91] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[2.91] [Dashboard] Pushing shuffleboard widgets to driverstation
+[2.91] [Robot] Robot disabled
+[2.91] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.91] [AnalyticsEngine] ------ End Match Analytics ------
+[2.91] [AnalyticsEngine] Cleared event map
+[2.91] [DriveTrain] Disabling brakes
+[2.91] [DriveTrain] Stopping DriveTrain
+[2.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.91] [Climber] In service mode
+[2.91] [Shooter] System idle
+[2.91] [Hopper] Became idle
+[2.91] [PanelManipulator] Became idle
+[2.91] [Intake] System stow requested
+[2.91] [Shooter] Stop requested
+[2.91] [Intake] Stowing intake
+[3.50] [Shooter] System idle

@@ -1,0 +1,45 @@
+[2.91] [DriveTrain] Disabling brakes
+[2.91] [DriveTrain] Stopping DriveTrain
+[2.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.91] [Climber] In service mode
+[2.91] [Shooter] System idle
+[2.91] [Hopper] Became idle
+[2.91] [PanelManipulator] Became idle
+[2.91] [Intake] System stow requested
+[2.91] [Shooter] Stop requested
+[2.91] [Intake] Stowing intake
+[3.35] [Shooter] System idle
+[7.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[17.53] [Robot] Autonomous started
+[17.53] [Chooser] Generating autonomous command object
+[17.59] [FaultReporter] Robot FPGA outputs have been enabled
+[17.59] [Chooser] Reading autonomous position
+[17.59] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[17.59] [DriveTrain] Enabling brakes
+[17.59] [Climber] Locked
+[17.59] [Hopper] Cell count force-set to: 3
+[17.61]  Starting autonomous actions
+[17.65] [Autonomous] Ensuring proper heading
+[17.69] [DriveTrain] Stopping DriveTrain
+[17.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[17.69] [Autonomous] Turing to Goal
+[19.13] [DriveTrain] Stopping DriveTrain
+[19.13] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.13] [Hopper] Cell count force-set to: 3
+[19.17] [Autonomous] Shooting 3 Balls
+[19.17] [ShootCells] Shooting 3 cells
+[19.19] [Intake] System stow requested
+[19.21] [Shooter] Spinning up to: 3693.50
+[19.21] [Hopper] Feeding balls to flywheel
+[19.45] [Hopper] Became idle
+[20.71] [Shooter] Holding. Spin-Up took 1.5 seconds
+[20.71] [Hopper] Feeding balls to flywheel
+[21.09] [Shooter] Spinning up to: 3693.50
+[21.25] [Shooter] Holding. Spin-Up took 0.161 seconds
+[21.67] [Shooter] Spinning up to: 3693.50
+[21.87] [Shooter] Holding. Spin-Up took 0.2 seconds
+[22.03] [ShootCells] Shoot action ended
+[22.05] [Hopper] Became idle
+[22.05] [Intake] System stow requested
+[22.05] [Shooter] Stop requested
+[22.05] [Autonomous] Turning to Face Trench

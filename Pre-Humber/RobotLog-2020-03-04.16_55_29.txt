@@ -1,0 +1,56 @@
+[2.97] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.02] [AnalyticsEngine] ------ End Match Analytics ------
+[3.02] [AnalyticsEngine] Cleared event map
+[3.02] [DriveTrain] Disabling brakes
+[3.02] [DriveTrain] Stopping DriveTrain
+[3.05] [AnalyticsEngine] ------ End Match Analytics ------
+[3.05] [AnalyticsEngine] Cleared event map
+[3.05] [DriveTrain] Disabling brakes
+[3.07] [AnalyticsEngine] ------ End Match Analytics ------
+[3.07] [AnalyticsEngine] Cleared event map
+[3.07] [DriveTrain] Disabling brakes
+[3.07] [DriveTrain] Stopping DriveTrain
+[3.07] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[3.07] [Climber] In service mode
+[3.07] [Shooter] System idle
+[3.07] [Hopper] Became idle
+[3.07] [PanelManipulator] Became idle
+[3.07] [Intake] System stow requested
+[3.07] [Shooter] Stop requested
+[3.07] [Intake] Stowing intake
+[3.73] [Shooter] System idle
+[38.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[54.11] [Robot] Teleop started
+[54.11] [DriveTrain] Enabling brakes
+[54.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[54.11] [Climber] Locked
+[54.11] [Intake] System freeze requested
+[54.13] [FaultReporter] Robot FPGA outputs have been enabled
+[54.13] [Climber] Locked
+[54.15] [Intake] Freezing system
+[55.07] [ShootCellsBackend] Shooting 5 cells
+[55.09] [Intake] System stow requested
+[55.09] [Intake] Stowing intake
+[55.11] [Shooter] Spinning up to: 3693.50
+[55.13] [Hopper] Feeding balls to flywheel
+[55.13] [ShootCellsBackend] Shoot action ended
+[55.15] [Hopper] Feeding balls to flywheel
+[55.15] [ShootCellsBackend] Shoot action ended
+[55.15] [Hopper] Became idle
+[55.15] [Intake] System stow requested
+[55.15] [Shooter] Stop requested
+[55.15] [ShootCellsBackend] Shooting 5 cells
+[55.17] [Shooter] System idle
+[55.17] [Intake] System stow requested
+[55.19] [Shooter] Spinning up to: 3211.60
+[55.21] [Hopper] Feeding balls to flywheel
+[55.21] [ShootCellsBackend] Shoot action ended
+[55.23] [Hopper] Became idle
+[55.23] [Intake] System stow requested
+[55.23] [Shooter] Stop requested
+[55.23] [ShootCellsBackend] Shooting 5 cells
+[55.25] [Shooter] System idle
+[55.25] [Intake] System stow requested
+[55.27] [Shooter] Spinning up to: 3693.50
+[55.29] [Hopper] Feeding balls to flywheel
+[55.29] [ShootCellsBackend] Shoot action ended

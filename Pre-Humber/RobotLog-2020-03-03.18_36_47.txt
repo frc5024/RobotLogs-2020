@@ -1,0 +1,120 @@
+[154.13] [Robot] Robot disabled
+[154.15] [Robot] Robot disabled
+[154.15] [AnalyticsEngine] ----- Begin Match Analytics -----
+[154.15] [AnalyticsEngine] Balls shot: 1
+[154.15] [AnalyticsEngine] Times unjamed: 3
+[154.15] [AnalyticsEngine] Balls loaded: 1
+[154.15] [AnalyticsEngine] ------ End Match Analytics ------
+[154.15] [AnalyticsEngine] Cleared event map
+[154.15] [DriveTrain] Disabling brakes
+[154.15] [DriveTrain] Stopping DriveTrain
+[154.15] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[154.15] [Climber] In service mode
+[154.19] [FaultReporter] Robot FPGA outputs have been disabled
+[158.79] [Robot] Teleop started
+[158.79] [DriveTrain] Enabling brakes
+[158.81] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[158.81] [Climber] Locked
+[158.81] [Intake] System freeze requested
+[158.81] [Climber] Locked
+[158.81] [Intake] Freezing system
+[158.83] [FaultReporter] Robot FPGA outputs have been enabled
+[201.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[524.35] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[585.39] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[587.39] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[709.47] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[772.51] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[889.79] [IntakeCells] Intaking 5 cells
+[889.81] [Intake] Intake requested
+[889.81] [Hopper] Intake requested
+[889.81] [Shooter] Stop requested
+[889.81] [Intake] Intaking balls
+[889.85] [Hopper] Preparing to intake balls
+[889.85] [Shooter] System idle
+[891.41] [Hopper] Intaking balls
+[892.25] [Hopper] Preparing to intake balls
+[893.67] [Hopper] Intaking balls
+[894.73] [Hopper] Preparing to intake balls
+[895.97] [IntakeCells] Intake action interrupted
+[895.99] [Intake] System stow requested
+[895.99] [Shooter] Stop requested
+[895.99] [Intake] Stowing intake
+[896.03] [Hopper] Became idle
+[896.03] [Shooter] System idle
+[922.11] [Intake] Unjam requested
+[922.11] [Hopper] Unjam requested
+[922.11] [Intake] Unjamming balls
+[922.13] [Shooter] Spinning up to: -890.00
+[922.15] [Hopper] Unjamming
+[922.15] [Shooter] Holding. Spin-Up took 0.019 seconds
+[922.49] [Shooter] Spinning up to: -890.00
+[923.17] [Intake] System stow requested
+[923.17] [Shooter] Stop requested
+[923.17] [Intake] Stowing intake
+[923.19] [Hopper] Became idle
+[923.19] [Shooter] System idle
+[1028.67] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[1181.53] [IntakeCells] Intaking 5 cells
+[1181.55] [Intake] Intake requested
+[1181.55] [Hopper] Intake requested
+[1181.55] [Shooter] Stop requested
+[1181.55] [Intake] Intaking balls
+[1181.59] [Hopper] Preparing to intake balls
+[1181.59] [Shooter] System idle
+[1183.99] [Hopper] Intaking balls
+[1184.73] [Hopper] Preparing to intake balls
+[1185.87] [Hopper] Intaking balls
+[1186.71] [Hopper] Preparing to intake balls
+[1187.55] [IntakeCells] Intake action interrupted
+[1187.57] [Intake] System stow requested
+[1187.57] [Shooter] Stop requested
+[1187.57] [Intake] Stowing intake
+[1187.61] [Hopper] Became idle
+[1187.61] [Shooter] System idle
+[1213.19] [IntakeCells] Intaking 5 cells
+[1213.21] [Intake] Intake requested
+[1213.21] [Hopper] Intake requested
+[1213.21] [Shooter] Stop requested
+[1213.21] [Intake] Intaking balls
+[1213.25] [Hopper] Preparing to intake balls
+[1213.25] [Shooter] System idle
+[1214.39] [Hopper] Intaking balls
+[1215.61] [Hopper] Preparing to intake balls
+[1215.91] [Hopper] Intaking balls
+[1218.41] [IntakeCells] Intake action ended
+[1218.41] [IntakeCells] Intaking 5 cells
+[1218.43] [Intake] System stow requested
+[1218.45] [Intake] System stow requested
+[1218.45] [Shooter] Stop requested
+[1218.45] [Intake] Stowing intake
+[1218.45] [IntakeCells] Intake action ended
+[1218.45] [IntakeCells] Intaking 5 cells
+[1218.47] [Hopper] Became idle
+[1218.47] [IntakeCells] Intake action ended
+[1218.47] [IntakeCells] Intaking 5 cells
+[1218.47] [Shooter] System idle
+[1218.49] [IntakeCells] Intake action ended
+[1218.51] [IntakeCells] Intake action ended
+[1218.51] [IntakeCells] Intaking 5 cells
+[1218.51] [IntakeCells] Intake action ended
+[1218.51] [IntakeCells] Intaking 5 cells
+[1218.53] [IntakeCells] Intake action ended
+[1218.53] [IntakeCells] Intaking 5 cells
+[1218.55] [IntakeCells] Intake action ended
+[1218.55] [IntakeCells] Intaking 5 cells
+[1218.57] [IntakeCells] Intake action ended
+[1218.57] [IntakeCells] Intaking 5 cells
+[1218.57] [IntakeCells] Intake action ended
+[1218.59] [IntakeCells] Intaking 5 cells
+[1218.61] [IntakeCells] Intake action ended
+[1218.61] [IntakeCells] Intaking 5 cells
+[1218.63] [IntakeCells] Intake action ended
+[1218.63] [IntakeCells] Intaking 5 cells
+[1218.65] [IntakeCells] Intake action ended
+[1218.67] [IntakeCells] Intake action ended
+[1218.67] [IntakeCells] Intaking 5 cells
+[1218.67] [IntakeCells] Intake action ended
+[1218.67] [IntakeCells] Intaking 5 cells
+[1218.69] [IntakeCells] Intake action ended
+[1218.69] [IntakeCells] Intaking 5 cells

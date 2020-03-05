@@ -1,0 +1,112 @@
+[7.56] [Robot] Robot disabled
+[7.56] [AnalyticsEngine] ----- Begin Match Analytics -----
+[7.58] [AnalyticsEngine] ------ End Match Analytics ------
+[7.58] [AnalyticsEngine] Cleared event map
+[7.58] [DriveTrain] Disabling brakes
+[7.62] [DriveTrain] Stopping DriveTrain
+[7.62] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.62] [Climber] In service mode
+[7.66] [Shooter] System idle
+[7.68] [Hopper] Became idle
+[7.74] [PanelManipulator] Became idle
+[7.76] [Intake] System stow requested
+[7.76] [Shooter] Stop requested
+[7.78] [Intake] Stowing intake
+[8.84] [Shooter] System idle
+[167.50] [Robot] Teleop started
+[167.50] [DriveTrain] Enabling brakes
+[167.50] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[167.50] [Climber] Locked
+[167.50] [Intake] System freeze requested
+[167.50] [Climber] Locked
+[167.50] [Intake] Freezing system
+[167.52] [FaultReporter] Robot FPGA outputs have been enabled
+[168.16] [IntakeCells] Intaking 5 cells
+[168.18] [Intake] Intake requested
+[168.18] [Hopper] Intake requested
+[168.18] [Shooter] Stop requested
+[168.18] [Intake] Intaking balls
+[168.20] [Hopper] Preparing to intake balls
+[168.22] [Shooter] System idle
+[170.24] [Hopper] Intaking balls
+[170.94] [Hopper] Preparing to intake balls
+[171.92] [FaultReporter] Robot FPGA outputs have been disabled
+[172.00] [FaultReporter] Robot FPGA outputs have been enabled
+[172.16] [FaultReporter] Robot FPGA outputs have been disabled
+[172.32] [FaultReporter] Robot FPGA outputs have been enabled
+[173.60] [Hopper] Intaking balls
+[174.32] [Hopper] Preparing to intake balls
+[176.04] [Hopper] Intaking balls
+[176.88] [Hopper] Preparing to intake balls
+[179.28] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[183.54] [IntakeCells] Intake action interrupted
+[183.56] [Intake] System stow requested
+[183.56] [Shooter] Stop requested
+[183.56] [Intake] Stowing intake
+[183.58] [Hopper] Became idle
+[183.60] [Shooter] System idle
+[184.46] [Intake] Unjam requested
+[184.46] [Hopper] Unjam requested
+[184.46] [Intake] Unjamming balls
+[184.48] [Shooter] Spinning up to: -890.00
+[184.48] [Hopper] Unjamming
+[184.50] [Shooter] Holding. Spin-Up took 0.018 seconds
+[184.80] [Shooter] Spinning up to: -890.00
+[184.86] [Intake] System stow requested
+[184.86] [Shooter] Stop requested
+[184.86] [Intake] Stowing intake
+[184.88] [Hopper] Became idle
+[184.90] [Shooter] System idle
+[185.46] [Intake] Unjam requested
+[185.46] [Hopper] Unjam requested
+[185.48] [Intake] Unjam requested
+[185.50] [Intake] Unjam requested
+[185.50] [Hopper] Unjam requested
+[185.50] [Intake] Unjamming balls
+[185.50] [Shooter] Spinning up to: -890.00
+[185.50] [Hopper] Unjamming
+[185.50] [Shooter] Holding. Spin-Up took 0.017 seconds
+[185.66] [Intake] System stow requested
+[185.66] [Shooter] Stop requested
+[185.66] [Intake] Stowing intake
+[185.68] [Hopper] Became idle
+[185.70] [Shooter] System idle
+[186.18] [Hopper] Lowering Balls
+[186.22] [Hopper] Pushing balls to bottom
+[186.24] [Hopper] Incrementing ball position
+[186.50] [Hopper] Finished lowering balss
+[186.50] [Hopper] Lowering Balls
+[186.52] [Hopper] Finished lowering balss
+[186.54] [Hopper] Finished lowering balss
+[186.54] [Hopper] Lowering Balls
+[186.54] [Hopper] Became idle
+[186.54] [Hopper] Finished lowering balss
+[186.54] [Intake] System stow requested
+[186.54] [Shooter] Stop requested
+[186.58] [Shooter] System idle
+[187.12] [IntakeCells] Intaking 5 cells
+[187.14] [Intake] Intake requested
+[187.14] [Hopper] Intake requested
+[187.14] [Shooter] Stop requested
+[187.14] [Intake] Intaking balls
+[187.16] [Hopper] Preparing to intake balls
+[187.18] [Shooter] System idle
+[188.74] [Hopper] Intaking balls
+[189.42] [Hopper] Preparing to intake balls
+[190.10] [Hopper] Intaking balls
+[190.98] [Hopper] Preparing to intake balls
+[192.02] [Hopper] Intaking balls
+[192.26] [IntakeCells] Intake action ended
+[192.26] [IntakeCells] Intaking 5 cells
+[192.28] [Intake] System stow requested
+[192.28] [Shooter] Stop requested
+[192.28] [Intake] Stowing intake
+[192.28] [IntakeCells] Intake action ended
+[192.28] [IntakeCells] Intaking 5 cells
+[192.30] [Hopper] Became idle
+[192.30] [IntakeCells] Intake action ended
+[192.32] [Hopper] Became idle
+[192.32] [IntakeCells] Intake action ended
+[192.32] [IntakeCells] Intaking 5 cells
+[192.32] [Shooter] System idle
+[192.32] [IntakeCells] Intake action ended

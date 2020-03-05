@@ -1,0 +1,35 @@
+[2.87] [Hopper] Became idle
+[2.87] [PanelManipulator] Became idle
+[2.87] [CellSuperstructure] Entering idle state
+[2.87] [Intake] System stow requested
+[2.87] [Shooter] Stop requested
+[2.87] [Intake] Stowing intake
+[3.35] [Shooter] System idle
+[24.35] [Robot] Teleop started
+[24.35] [DriveTrain] Enabling brakes
+[24.35] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[24.35] [Climber] Locked
+[24.35] [Intake] System freeze requested
+[24.37] [FaultReporter] Robot FPGA outputs have been enabled
+[24.37] [Climber] Locked
+[24.37] [Intake] Freezing system
+[36.77] [CellSuperstructure] Entering unjam state
+[36.77] [Intake] Unjam requested
+[36.77] [Hopper] Unjam requested
+[36.77] [Intake] Unjamming balls
+[36.79] [Shooter] Spinning up to: -890.00
+[36.81] [Hopper] Unjamming
+[36.83] [Shooter] Holding. Spin-Up took 0.019 seconds
+[37.15] [Shooter] Spinning up to: -890.00
+[37.61] [CellSuperstructure] Entering idle state
+[37.61] [Intake] System stow requested
+[37.61] [Shooter] Stop requested
+[37.61] [Intake] Stowing intake
+[37.61] [Hopper] Became idle
+[37.63] [Shooter] System idle
+[43.57] [CellSuperstructure] Entering unjam state
+[43.57] [Intake] Unjam requested
+[43.57] [Hopper] Unjam requested
+[43.57] [Intake] Unjamming balls
+[43.59] [Shooter] Spinning up to: -890.00
+[43.61] [Hopper] Unjamming

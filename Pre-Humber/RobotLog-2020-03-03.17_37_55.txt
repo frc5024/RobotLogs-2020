@@ -1,0 +1,9 @@
+[2.96] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.96] [Climber] In service mode
+[2.96] [Shooter] System idle
+[2.96] [Hopper] Became idle
+[2.96] [PanelManipulator] Became idle
+[2.96] [Intake] System stow requested
+[2.96] [Shooter] Stop requested
+[2.96] [Intake] Stowing intake
+[3.63] [Shooter] System idle

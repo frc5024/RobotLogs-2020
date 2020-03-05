@@ -1,0 +1,105 @@
+[3.49] [Shooter] System idle
+[21.75] [Robot] Autonomous started
+[21.75] [Chooser] Generating autonomous command object
+[21.79] [Chooser] Reading autonomous position
+[21.79] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[21.79] [DriveTrain] Enabling brakes
+[21.79] [Climber] Locked
+[21.79] [Hopper] Cell count force-set to: 3
+[21.79]  Starting autonomous actions
+[21.81] [Chooser] Reading autonomous position
+[21.81] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[21.81] [DriveTrain] Enabling brakes
+[21.81] [Climber] Locked
+[21.81] [Hopper] Cell count force-set to: 3
+[21.81]  Starting autonomous actions
+[21.81] [FaultReporter] Robot FPGA outputs have been enabled
+[21.83] [Autonomous] Ensuring proper heading
+[21.89] [DriveTrain] Stopping DriveTrain
+[21.89] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[21.91] [Autonomous] Turing to Goal
+[23.23] [DriveTrain] Stopping DriveTrain
+[23.23] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[23.23] [Hopper] Cell count force-set to: 3
+[23.27] [Autonomous] Shooting 3 Balls
+[23.27] [ShootCells] Shooting 3 cells
+[23.29] [Intake] System stow requested
+[23.31] [Shooter] Spinning up to: 3693.50
+[23.31] [Hopper] Feeding balls to flywheel
+[23.49] [Hopper] Became idle
+[24.71] [Shooter] Holding. Spin-Up took 1.398 seconds
+[24.71] [Hopper] Feeding balls to flywheel
+[24.87] [Shooter] Spinning up to: 3693.50
+[24.87] [Hopper] Became idle
+[24.89] [Hopper] Feeding balls to flywheel
+[24.93] [Shooter] Holding. Spin-Up took 0.06 seconds
+[25.13] [Shooter] Spinning up to: 3693.50
+[25.19] [Shooter] Holding. Spin-Up took 0.058 seconds
+[25.41] [Shooter] Spinning up to: 3693.50
+[25.41] [Hopper] Became idle
+[25.45] [Hopper] Feeding balls to flywheel
+[25.49] [Shooter] Holding. Spin-Up took 0.079 seconds
+[25.63] [Shooter] Spinning up to: 3693.50
+[25.77] [Shooter] Holding. Spin-Up took 0.139 seconds
+[25.97] [Shooter] Spinning up to: 3693.50
+[25.97] [Hopper] Became idle
+[25.97] [ShootCells] Shoot action ended
+[25.99] [Intake] System stow requested
+[25.99] [Shooter] Stop requested
+[25.99] [Autonomous] Turning to Face Trench
+[26.03] [Shooter] System idle
+[27.59] [DriveTrain] Stopping DriveTrain
+[27.61] [DriveTrain] Stopping DriveTrain
+[27.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[27.61] [Autonomous] Driving to Trench balls and Intaking 2 Cells
+[27.61] [DrivePath] Driving path
+[27.61] [IntakeCells] Intaking 2 cells
+[27.63] [Intake] Intake requested
+[27.63] [Hopper] Intake requested
+[27.63] [Shooter] Stop requested
+[27.63] [Intake] Intaking balls
+[27.67] [Hopper] Preparing to intake balls
+[27.67] [Shooter] System idle
+[28.47] [DrivePath] Finished driving path
+[28.47] [DriveTrain] Stopping DriveTrain
+[28.47] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[28.47] [DrivePath] Driving path
+[29.77] [Hopper] Intaking balls
+[30.29] [Hopper] Preparing to intake balls
+[30.81] [Hopper] Intaking balls
+[31.27] [DrivePath] Finished driving path
+[31.27] [DriveTrain] Stopping DriveTrain
+[31.27] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[31.27] [IntakeCells] Intake action interrupted
+[31.29] [Intake] System stow requested
+[31.29] [Shooter] Stop requested
+[31.29] [Intake] Stowing intake
+[31.29] [Autonomous] Turning towards Target
+[31.31] [Hopper] Became idle
+[31.33] [Shooter] System idle
+[32.65] [DriveTrain] Stopping DriveTrain
+[32.65] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[34.15] [DriveTrain] Stopping DriveTrain
+[34.15] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[34.17] [Autonomous] Shooting Three Balls
+[34.17] [ShootCells] Shooting 2 cells
+[34.19] [Intake] System stow requested
+[34.21] [Intake] System stow requested
+[34.21] [Shooter] Spinning up to: 3693.50
+[34.21] [Hopper] Feeding balls to flywheel
+[35.35] [Hopper] Became idle
+[35.63] [Shooter] Holding. Spin-Up took 1.42 seconds
+[35.63] [Hopper] Feeding balls to flywheel
+[35.77] [Shooter] Spinning up to: 3693.50
+[35.77] [Hopper] Became idle
+[35.81] [Hopper] Feeding balls to flywheel
+[35.87] [Shooter] Holding. Spin-Up took 0.1 seconds
+[36.03] [Shooter] Spinning up to: 3693.50
+[36.13] [Shooter] Holding. Spin-Up took 0.099 seconds
+[36.31] [Shooter] Spinning up to: 3693.50
+[36.31] [Hopper] Became idle
+[36.33] [ShootCells] Shoot action ended
+[36.35] [Intake] System stow requested
+[36.35] [Shooter] Stop requested
+[36.35] [Autonomous] Path Finished
+[36.39] [Shooter] System idle

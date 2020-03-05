@@ -1,0 +1,5 @@
+[3.02] [PanelManipulator] Became idle
+[3.02] [Intake] System stow requested
+[3.02] [Shooter] Stop requested
+[3.02] [Intake] Stowing intake
+[3.66] [Shooter] System idle

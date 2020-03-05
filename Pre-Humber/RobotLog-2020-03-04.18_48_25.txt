@@ -1,0 +1,49 @@
+[3.03] [PanelManipulator] Became idle
+[3.05] [PanelManipulator] Became idle
+[3.05] [Intake] System stow requested
+[3.05] [Shooter] Stop requested
+[3.05] [Intake] Stowing intake
+[3.55] [Shooter] System idle
+[18.07] [Robot] Autonomous started
+[18.07] [Chooser] Generating autonomous command object
+[18.07] [FaultReporter] Robot FPGA outputs have been enabled
+[18.11] [Chooser] Reading autonomous position
+[18.11] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[18.11] [DriveTrain] Enabling brakes
+[18.11] [Climber] Locked
+[18.11] [Hopper] Cell count force-set to: 3
+[18.13]  Starting autonomous actions
+[18.17] [Autonomous] Ensuring proper heading
+[18.21] [DriveTrain] Stopping DriveTrain
+[18.21] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.23] [Autonomous] Turing to Goal
+[19.67] [DriveTrain] Stopping DriveTrain
+[19.67] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[19.67] [Hopper] Cell count force-set to: 3
+[19.71] [Autonomous] Shooting 3 Balls
+[19.71] [ShootCells] Shooting 3 cells
+[19.73] [Intake] System stow requested
+[19.75] [Shooter] Spinning up to: 3693.50
+[19.75] [Hopper] Feeding balls to flywheel
+[19.99] [Hopper] Became idle
+[21.23] [Shooter] Holding. Spin-Up took 1.481 seconds
+[21.23] [Hopper] Feeding balls to flywheel
+[21.61] [Shooter] Spinning up to: 3693.50
+[21.75] [Shooter] Holding. Spin-Up took 0.14 seconds
+[21.97] [Shooter] Spinning up to: 3693.50
+[21.97] [Hopper] Became idle
+[21.99] [Hopper] Feeding balls to flywheel
+[22.01] [Shooter] Holding. Spin-Up took 0.04 seconds
+[22.51] [Shooter] Spinning up to: 3693.50
+[22.51] [Hopper] Became idle
+[22.51] [ShootCells] Shoot action ended
+[22.53] [Intake] System stow requested
+[22.53] [Shooter] Stop requested
+[22.53] [Autonomous] Driving Backwards
+[22.57] [Shooter] System idle
+[24.09] [DriveTrain] Stopping DriveTrain
+[24.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[24.09] [DriveTrain] Setting DriveTrain ramp rate to: 0.25
+[24.11] [DriveTrain] Stopping DriveTrain
+[24.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[24.13] [Autonomous] Path Finished

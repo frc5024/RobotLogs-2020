@@ -1,0 +1,57 @@
+[89.08] [Robot] Robot disabled
+[89.08] [AnalyticsEngine] ----- Begin Match Analytics -----
+[89.08] [AnalyticsEngine] ------ End Match Analytics ------
+[89.08] [AnalyticsEngine] Cleared event map
+[89.08] [DriveTrain] Disabling brakes
+[89.08] [DriveTrain] Stopping DriveTrain
+[89.08] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[89.08] [Climber] In service mode
+[89.08] [FaultReporter] Robot FPGA outputs have been disabled
+[98.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[123.30] [Robot] Teleop started
+[123.30] [DriveTrain] Enabling brakes
+[123.30] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[123.30] [Climber] Locked
+[123.30] [Intake] System freeze requested
+[123.30] [Climber] Locked
+[123.32] [FaultReporter] Robot FPGA outputs have been enabled
+[125.12] [Intake] Unjam requested
+[125.12] [Hopper] Unjam requested
+[125.12] [Intake] Unjamming balls
+[125.14] [Shooter] Spinning up to: -890.00
+[125.14] [Hopper] Unjamming
+[125.16] [Shooter] Holding. Spin-Up took 0.021 seconds
+[125.44] [Shooter] Spinning up to: -890.00
+[126.18] [Intake] System stow requested
+[126.18] [Shooter] Stop requested
+[126.18] [Intake] Stowing intake
+[126.20] [Hopper] Became idle
+[126.22] [Shooter] System idle
+[127.52] [IntakeCells] Intaking 5 cells
+[127.54] [Intake] Intake requested
+[127.54] [Hopper] Intake requested
+[127.54] [Shooter] Stop requested
+[127.54] [Intake] Intaking balls
+[127.56] [Hopper] Preparing to intake balls
+[127.58] [Shooter] System idle
+[129.14] [Hopper] Intaking balls
+[129.80] [Hopper] Preparing to intake balls
+[132.36] [IntakeCells] Intake action interrupted
+[132.38] [Intake] System stow requested
+[132.38] [Shooter] Stop requested
+[132.38] [Intake] Stowing intake
+[132.40] [Hopper] Became idle
+[132.42] [Shooter] System idle
+[136.20] [IntakeCells] Intaking 5 cells
+[136.22] [Intake] Intake requested
+[136.22] [Hopper] Intake requested
+[136.22] [Shooter] Stop requested
+[136.22] [Intake] Intaking balls
+[136.24] [Hopper] Preparing to intake balls
+[136.26] [Shooter] System idle
+[141.78] [IntakeCells] Intake action interrupted
+[141.80] [Intake] System stow requested
+[141.80] [Shooter] Stop requested
+[141.80] [Intake] Stowing intake
+[141.82] [Hopper] Became idle
+[141.84] [Shooter] System idle

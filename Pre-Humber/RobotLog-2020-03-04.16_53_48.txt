@@ -1,0 +1,39 @@
+[3.35] [Shooter] System idle
+[43.77] [Robot] Teleop started
+[43.79] [Robot] Teleop started
+[43.79] [DriveTrain] Enabling brakes
+[43.79] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[43.79] [Climber] Locked
+[43.79] [Intake] System freeze requested
+[43.79] [Climber] Locked
+[43.79] [Intake] Freezing system
+[43.83] [FaultReporter] Robot FPGA outputs have been enabled
+[45.47] [ShootCellsBackend] Shooting 5 cells
+[45.49] [Intake] System stow requested
+[45.49] [Intake] Stowing intake
+[45.51] [Shooter] Spinning up to: 3693.50
+[45.53] [Hopper] Feeding balls to flywheel
+[45.53] [ShootCellsBackend] Shoot action ended
+[45.53] [Hopper] Became idle
+[45.53] [Intake] System stow requested
+[45.53] [Shooter] Stop requested
+[45.57] [ShootCellsBackend] Shooting 5 cells
+[45.59] [Shooter] System idle
+[45.59] [Intake] System stow requested
+[45.61] [Shooter] Spinning up to: 3211.60
+[45.61] [Hopper] Feeding balls to flywheel
+[45.61] [ShootCellsBackend] Shoot action ended
+[45.63] [Hopper] Became idle
+[45.63] [Intake] System stow requested
+[45.63] [Shooter] Stop requested
+[45.63] [ShootCellsBackend] Shooting 5 cells
+[45.65] [Shooter] System idle
+[45.65] [Intake] System stow requested
+[45.67] [Shooter] Spinning up to: 3693.50
+[45.67] [Hopper] Feeding balls to flywheel
+[45.69] [ShootCellsBackend] Shoot action ended
+[45.71] [Hopper] Became idle
+[45.71] [Intake] System stow requested
+[45.71] [Shooter] Stop requested
+[45.71] [ShootCellsBackend] Shooting 5 cells
+[45.73] [Shooter] System idle

@@ -1,0 +1,40 @@
+[3.43] [Shooter] System idle
+[20.71] [Robot] Teleop started
+[20.71] [DriveTrain] Enabling brakes
+[20.71] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[20.71] [Climber] Locked
+[20.71] [Intake] System freeze requested
+[20.71] [Climber] Locked
+[20.73] [Intake] Freezing system
+[20.76] [FaultReporter] Robot FPGA outputs have been enabled
+[29.13] [IntakeCells] Intaking 5 cells
+[29.15] [Intake] Intake requested
+[29.15] [Hopper] Intake requested
+[29.15] [Shooter] Stop requested
+[29.15] [Intake] Intaking balls
+[29.17] [Hopper] Preparing to intake balls
+[29.19] [Shooter] System idle
+[30.61] [Hopper] Intaking balls
+[31.37] [Hopper] Preparing to intake balls
+[37.77] [Hopper] Intaking balls
+[39.13] [Hopper] Preparing to intake balls
+[40.23] [Hopper] Intaking balls
+[41.21] [Hopper] Preparing to intake balls
+[43.59] [Hopper] Intaking balls
+[45.49] [IntakeCells] Intake action interrupted
+[45.51] [Intake] System stow requested
+[45.51] [Shooter] Stop requested
+[45.51] [Intake] Stowing intake
+[45.53] [Hopper] Became idle
+[45.55] [Shooter] System idle
+[46.73] [DriveTrain] Stopping DriveTrain
+[46.73] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[46.73] [DriveTrain] Disabling brakes
+[46.93] [OperatorControl] Operator force-incremented the hopper ball count
+[46.93] [Hopper] Cell count force-set to: 4
+[47.11] [OperatorControl] Operator force-incremented the hopper ball count
+[47.11] [Hopper] Cell count force-set to: 5
+[47.15] [DriveTrain] Stopping DriveTrain
+[47.15] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[47.15] [DriveTrain] Enabling brakes
+[47.63] [DriveTrain] Stopping DriveTrain

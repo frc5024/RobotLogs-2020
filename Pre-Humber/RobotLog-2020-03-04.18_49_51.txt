@@ -1,0 +1,47 @@
+[2.84] [PanelManipulator] Became idle
+[2.84] [Intake] System stow requested
+[2.84] [Shooter] Stop requested
+[2.84] [Intake] Stowing intake
+[3.36] [Shooter] System idle
+[41.60] [Robot] Autonomous started
+[41.60] [Chooser] Generating autonomous command object
+[41.64] [Chooser] Reading autonomous position
+[41.64] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[41.64] [DriveTrain] Enabling brakes
+[41.64] [Climber] Locked
+[41.64] [Hopper] Cell count force-set to: 3
+[41.66] [FaultReporter] Robot FPGA outputs have been enabled
+[41.66]  Starting autonomous actions
+[41.70] [Autonomous] Ensuring proper heading
+[41.74] [DriveTrain] Stopping DriveTrain
+[41.74] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[41.76] [Autonomous] Turing to Goal
+[43.22] [DriveTrain] Stopping DriveTrain
+[43.22] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.22] [Hopper] Cell count force-set to: 3
+[43.26] [Autonomous] Shooting 3 Balls
+[43.26] [ShootCells] Shooting 3 cells
+[43.28] [Intake] System stow requested
+[43.30] [Shooter] Spinning up to: 3693.50
+[43.32] [Hopper] Feeding balls to flywheel
+[43.56] [Hopper] Became idle
+[44.80] [Shooter] Holding. Spin-Up took 1.479 seconds
+[44.80] [Hopper] Feeding balls to flywheel
+[45.14] [Shooter] Spinning up to: 3693.50
+[45.24] [Shooter] Holding. Spin-Up took 0.099 seconds
+[45.50] [Shooter] Spinning up to: 3693.50
+[45.52] [Hopper] Became idle
+[45.54] [Hopper] Feeding balls to flywheel
+[45.56] [Shooter] Holding. Spin-Up took 0.059 seconds
+[45.76] [Shooter] Spinning up to: 3693.50
+[45.82] [Shooter] Holding. Spin-Up took 0.061 seconds
+[46.06] [Shooter] Spinning up to: 3693.50
+[46.08] [Hopper] Became idle
+[46.08] [ShootCells] Shoot action ended
+[46.10] [Intake] System stow requested
+[46.10] [Shooter] Stop requested
+[46.10] [Autonomous] Driving Backwards
+[46.12] [Shooter] System idle
+[47.68] [DriveTrain] Stopping DriveTrain
+[47.68] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[47.70] [Autonomous] Path Finished

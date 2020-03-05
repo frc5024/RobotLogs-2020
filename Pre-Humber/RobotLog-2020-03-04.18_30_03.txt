@@ -1,0 +1,27 @@
+[25.99] [Robot] Robot disabled
+[25.99] [AnalyticsEngine] ----- Begin Match Analytics -----
+[25.99] [AnalyticsEngine] Balls shot: 4
+[25.99] [AnalyticsEngine] ------ End Match Analytics ------
+[25.99] [AnalyticsEngine] Cleared event map
+[25.99] [DriveTrain] Disabling brakes
+[25.99] [DriveTrain] Stopping DriveTrain
+[25.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[25.99] [Climber] In service mode
+[25.99] [IntakeCells] Intake action interrupted
+[25.99] [DrivePath] Finished driving path
+[25.99] [DriveTrain] Stopping DriveTrain
+[25.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[26.01] [Intake] System stow requested
+[26.01] [Shooter] Stop requested
+[26.01] [Intake] Stowing intake
+[26.03] [Hopper] Became idle
+[26.05] [Shooter] System idle
+[26.05] [FaultReporter] Robot FPGA outputs have been disabled
+[27.63] [Robot] Teleop started
+[27.63] [DriveTrain] Enabling brakes
+[27.63] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[27.63] [Climber] Locked
+[27.63] [Intake] System freeze requested
+[27.63] [Climber] Locked
+[27.63] [Intake] Freezing system
+[27.65] [FaultReporter] Robot FPGA outputs have been enabled

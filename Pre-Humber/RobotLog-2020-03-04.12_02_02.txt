@@ -1,0 +1,59 @@
+[176.62] [IntakeCells] Intake action interrupted
+[176.64] [Robot] Robot disabled
+[176.64] [AnalyticsEngine] ----- Begin Match Analytics -----
+[176.64] [AnalyticsEngine] ------ End Match Analytics ------
+[176.64] [AnalyticsEngine] Cleared event map
+[176.64] [DriveTrain] Disabling brakes
+[176.64] [DriveTrain] Stopping DriveTrain
+[176.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[176.64] [Climber] In service mode
+[176.64] [Intake] System stow requested
+[176.64] [Shooter] Stop requested
+[176.64] [Intake] Stowing intake
+[176.66] [Hopper] Became idle
+[176.68] [Shooter] System idle
+[176.68] [FaultReporter] Robot FPGA outputs have been disabled
+[190.32] [Robot] Teleop started
+[190.34] [Robot] Teleop started
+[190.34] [DriveTrain] Enabling brakes
+[190.34] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[190.36] [Robot] Teleop started
+[190.36] [DriveTrain] Enabling brakes
+[190.36] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[190.36] [Climber] Locked
+[190.36] [Intake] System freeze requested
+[190.36] [Climber] Locked
+[190.36] [Intake] Freezing system
+[190.36] [IntakeCells] Intaking 5 cells
+[190.36] [Intake] Intake requested
+[190.36] [Hopper] Intake requested
+[190.36] [Shooter] Stop requested
+[190.36] [Intake] Intaking balls
+[190.38] [Robot] Teleop started
+[190.38] [DriveTrain] Enabling brakes
+[190.38] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[190.38] [Climber] Locked
+[190.38] [Intake] System freeze requested
+[190.38] [Climber] Locked
+[190.38] [Intake] Freezing system
+[190.38] [IntakeCells] Intaking 5 cells
+[190.38] [Intake] Intake requested
+[190.38] [Hopper] Intake requested
+[190.38] [Shooter] Stop requested
+[190.38] [Intake] Intaking balls
+[190.38] [FaultReporter] Robot FPGA outputs have been enabled
+[190.38] [Hopper] Preparing to intake balls
+[190.38] [Shooter] System idle
+[190.86] [IntakeCells] Intake action interrupted
+[190.88] [Intake] System stow requested
+[190.88] [Shooter] Stop requested
+[190.88] [Intake] Stowing intake
+[190.90] [Hopper] Became idle
+[190.92] [Shooter] System idle
+[193.20] [IntakeCells] Intaking 5 cells
+[193.22] [Intake] Intake requested
+[193.22] [Hopper] Intake requested
+[193.22] [Shooter] Stop requested
+[193.22] [Intake] Intaking balls
+[193.24] [Hopper] Preparing to intake balls
+[193.26] [Shooter] System idle

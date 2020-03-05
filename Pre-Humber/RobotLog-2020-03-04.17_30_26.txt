@@ -1,0 +1,11 @@
+[2.92] [Intake] System stow requested
+[2.92] [Shooter] Stop requested
+[2.92] [Intake] Stowing intake
+[3.53] [Shooter] System idle
+[12.41] [Robot] Autonomous started
+[12.41] [Chooser] Generating autonomous command object
+[12.45] [Chooser] Reading autonomous position
+[12.45] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[12.45] [DriveTrain] Enabling brakes
+[12.45] [Climber] Locked
+[12.45] [Hopper] Cell count force-set to: 3

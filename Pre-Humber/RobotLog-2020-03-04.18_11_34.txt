@@ -1,0 +1,28 @@
+[48.06] [Shooter] Holding. Spin-Up took 0.18 seconds
+[48.20] [ShootCells] Shoot action ended
+[48.22] [Shooter] Spinning up to: 3693.50
+[48.24] [Hopper] Became idle
+[48.24] [Intake] System stow requested
+[48.24] [Shooter] Stop requested
+[48.24] [Autonomous] Path Finished
+[48.28] [FaultReporter] Robot FPGA outputs have been disabled
+[48.30] [Robot] Robot disabled
+[48.32] [Robot] Robot disabled
+[48.32] [AnalyticsEngine] ----- Begin Match Analytics -----
+[48.32] [AnalyticsEngine] Balls shot: 6
+[48.32] [AnalyticsEngine] Balls loaded: 2
+[48.32] [AnalyticsEngine] ------ End Match Analytics ------
+[48.32] [AnalyticsEngine] Cleared event map
+[48.32] [DriveTrain] Disabling brakes
+[48.32] [DriveTrain] Stopping DriveTrain
+[48.32] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[48.32] [Climber] In service mode
+[48.32] [Shooter] System idle
+[49.88] [FaultReporter] Robot FPGA outputs have been enabled
+[49.88] [Robot] Teleop started
+[49.88] [DriveTrain] Enabling brakes
+[49.88] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[49.88] [Climber] Locked
+[49.88] [Intake] System freeze requested
+[49.88] [Climber] Locked
+[49.90] [Intake] Freezing system

@@ -1,0 +1,95 @@
+[3.57] [Shooter] System idle
+[11.41] [Robot] Autonomous started
+[11.41] [Chooser] Generating autonomous command object
+[11.45] [FaultReporter] Robot FPGA outputs have been enabled
+[11.47] [Chooser] Reading autonomous position
+[11.49] [Chooser] Reading autonomous position
+[11.49] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[11.51] [Chooser] Reading autonomous position
+[11.51] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[11.51] [DriveTrain] Enabling brakes
+[11.51] [Climber] Locked
+[11.51] [Hopper] Cell count force-set to: 3
+[11.51]  Starting autonomous actions
+[11.51] [Autonomous] Ensuring robot is facing proper heading
+[11.55] [DriveTrain] Stopping DriveTrain
+[11.55] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.57] [Autonomous] Shooting 3 cells
+[11.57] [Hopper] Cell count force-set to: 3
+[11.59] [ShootCells] Shooting 3 cells
+[11.61] [Intake] System stow requested
+[11.63] [Shooter] Spinning up to: 3693.50
+[11.63] [Hopper] Feeding balls to flywheel
+[11.85] [Hopper] Became idle
+[13.05] [Shooter] Holding. Spin-Up took 1.42 seconds
+[13.05] [Hopper] Feeding balls to flywheel
+[13.25] [Shooter] Spinning up to: 3693.50
+[13.25] [Hopper] Became idle
+[13.27] [Hopper] Feeding balls to flywheel
+[13.31] [Shooter] Holding. Spin-Up took 0.06 seconds
+[13.47] [Shooter] Spinning up to: 3693.50
+[13.59] [Shooter] Holding. Spin-Up took 0.12 seconds
+[13.77] [Shooter] Spinning up to: 3693.50
+[13.77] [Hopper] Became idle
+[13.79] [Hopper] Feeding balls to flywheel
+[13.83] [Shooter] Holding. Spin-Up took 0.059 seconds
+[14.05] [Shooter] Spinning up to: 3693.50
+[14.09] [Shooter] Holding. Spin-Up took 0.04 seconds
+[14.27] [Shooter] Spinning up to: 3693.50
+[14.27] [Hopper] Became idle
+[14.27] [ShootCells] Shoot action ended
+[14.29] [Intake] System stow requested
+[14.29] [Shooter] Stop requested
+[14.29] [Autonomous] Turning to face Trench
+[14.33] [Shooter] System idle
+[15.91] [DriveTrain] Stopping DriveTrain
+[15.91] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.93] [Autonomous] Driving to trench
+[15.93] [DrivePath] Driving path
+[17.05] [DrivePath] Finished driving path
+[17.05] [DriveTrain] Stopping DriveTrain
+[17.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.41] [DriveTrain] Stopping DriveTrain
+[18.41] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[18.43] [Autonomous] Starting Command Race
+[18.43] [IntakeCells] Intaking 1 cells
+[18.43] [DrivePath] Driving path
+[18.45] [Intake] Intake requested
+[18.45] [Hopper] Intake requested
+[18.45] [Shooter] Stop requested
+[18.45] [Intake] Intaking balls
+[18.47] [Hopper] Preparing to intake balls
+[18.49] [Shooter] System idle
+[19.57] [Hopper] Intaking balls
+[20.15] [IntakeCells] Intake action ended
+[20.15] [DrivePath] Finished driving path
+[20.15] [DriveTrain] Stopping DriveTrain
+[20.15] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[20.17] [Hopper] Preparing to intake balls
+[20.17] [Intake] System stow requested
+[20.17] [Shooter] Stop requested
+[20.17] [Intake] Stowing intake
+[20.17] [Autonomous] Performing Turn 1
+[20.19] [Hopper] Became idle
+[20.21] [Shooter] System idle
+[21.57] [DriveTrain] Stopping DriveTrain
+[21.57] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[21.59] [Autonomous] Performing Turn 2
+[23.05] [DriveTrain] Stopping DriveTrain
+[23.05] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[23.07] [Autonomous] Shooting 1 cell
+[23.07] [ShootCells] Shooting 1 cells
+[23.09] [Intake] System stow requested
+[23.11] [Shooter] Spinning up to: 3693.50
+[23.11] [Hopper] Feeding balls to flywheel
+[24.55] [Shooter] Holding. Spin-Up took 1.44 seconds
+[24.75] [Shooter] Spinning up to: 3693.50
+[24.75] [Hopper] Became idle
+[24.93] [Shooter] Holding. Spin-Up took 0.18 seconds
+[24.93] [Hopper] Feeding balls to flywheel
+[25.01] [ShootCells] Shoot action ended
+[25.03] [Hopper] Became idle
+[25.03] [Intake] System stow requested
+[25.03] [Shooter] Stop requested
+[25.03] [Autonomous] Auto Path has finished
+[25.09] [Shooter] System idle
