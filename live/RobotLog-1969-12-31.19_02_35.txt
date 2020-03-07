@@ -1,0 +1,22 @@
+[5.28] [Dashboard] Pushing shuffleboard widgets to driverstation
+[5.66] [Robot] Robot disabled
+[5.70] [AnalyticsEngine] ----- Begin Match Analytics -----
+[5.82] [AnalyticsEngine] ------ End Match Analytics ------
+[5.84] [AnalyticsEngine] ------ End Match Analytics ------
+[5.84] [AnalyticsEngine] Cleared event map
+[5.84] [DriveTrain] Disabling brakes
+[5.90] [DriveTrain] Stopping DriveTrain
+[5.92] [DriveTrain] Stopping DriveTrain
+[5.92] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[5.92] [Climber] In service mode
+[5.97] [DriveTrain] Stopping DriveTrain
+[5.99] [DriveTrain] Stopping DriveTrain
+[5.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[5.99] [Climber] In service mode
+[5.99] [Shooter] System idle
+[5.99] [Hopper] Became idle
+[5.99] [PanelManipulator] Became idle
+[5.99] [Intake] System stow requested
+[5.99] [Shooter] Stop requested
+[5.99] [Intake] Stowing intake
+[6.50] [Shooter] System idle

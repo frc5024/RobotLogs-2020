@@ -1,0 +1,6 @@
+[6.34] [Hopper] Became idle
+[6.40] [PanelManipulator] Became idle
+[6.40] [Intake] System stow requested
+[6.42] [Shooter] Stop requested
+[6.44] [Intake] Stowing intake
+[7.26] [Shooter] System idle

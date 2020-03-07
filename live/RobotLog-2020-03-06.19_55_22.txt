@@ -1,0 +1,106 @@
+[1112.41] [FaultReporter] Robot FPGA outputs have been disabled
+[1112.41] [Robot] Robot disabled
+[1112.41] [AnalyticsEngine] ----- Begin Match Analytics -----
+[1112.41] [AnalyticsEngine] Balls shot: 4
+[1112.41] [AnalyticsEngine] ------ End Match Analytics ------
+[1112.41] [AnalyticsEngine] Cleared event map
+[1112.41] [DriveTrain] Disabling brakes
+[1112.41] [DriveTrain] Stopping DriveTrain
+[1112.41] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[1112.41] [Climber] In service mode
+[1112.75] [Robot] Teleop started
+[1112.75] [DriveTrain] Enabling brakes
+[1112.75] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[1112.75] [Climber] Locked
+[1112.75] [Intake] System freeze requested
+[1112.75] [Climber] Locked
+[1112.77] [Intake] Freezing system
+[1112.81] [FaultReporter] Robot FPGA outputs have been enabled
+[1113.53] [FaultReporter] Robot FPGA outputs have been disabled
+[1113.61] [FaultReporter] Robot FPGA outputs have been enabled
+[1113.85] [FaultReporter] Robot FPGA outputs have been disabled
+[1114.25] [FaultReporter] Robot FPGA outputs have been enabled
+[1115.45] [FaultReporter] Robot FPGA outputs have been disabled
+[1116.09] [FaultReporter] Robot FPGA outputs have been enabled
+[1116.89] [FaultReporter] Robot FPGA outputs have been disabled
+[1117.85] [FaultReporter] Robot FPGA outputs have been enabled
+[1118.01] [FaultReporter] Robot FPGA outputs have been disabled
+[1118.09] [FaultReporter] Robot FPGA outputs have been enabled
+[1118.65] [FaultReporter] Robot FPGA outputs have been disabled
+[1119.13] [FaultReporter] Robot FPGA outputs have been enabled
+[1119.37] [FaultReporter] Robot FPGA outputs have been disabled
+[1120.09] [FaultReporter] Robot FPGA outputs have been enabled
+[1120.17] [FaultReporter] Robot FPGA outputs have been disabled
+[1120.41] [FaultReporter] Robot FPGA outputs have been enabled
+[1120.65] [FaultReporter] Robot FPGA outputs have been disabled
+[1121.77] [FaultReporter] Robot FPGA outputs have been enabled
+[1122.01] [FaultReporter] Robot FPGA outputs have been disabled
+[1123.45] [FaultReporter] Robot FPGA outputs have been enabled
+[1123.61] [FaultReporter] Robot FPGA outputs have been disabled
+[1123.69] [FaultReporter] Robot FPGA outputs have been enabled
+[1124.17] [FaultReporter] Robot FPGA outputs have been disabled
+[1125.93] [FaultReporter] Robot FPGA outputs have been enabled
+[1126.17] [FaultReporter] Robot FPGA outputs have been disabled
+[1126.89] [FaultReporter] Robot FPGA outputs have been enabled
+[1127.13] [FaultReporter] Robot FPGA outputs have been disabled
+[1127.69] [FaultReporter] Robot FPGA outputs have been enabled
+[1127.85] [FaultReporter] Robot FPGA outputs have been disabled
+[1128.97] [FaultReporter] Robot FPGA outputs have been enabled
+[1129.05] [FaultReporter] Robot FPGA outputs have been disabled
+[1129.29] [FaultReporter] Robot FPGA outputs have been enabled
+[1129.37] [IntakeCells] Intaking 5 cells
+[1129.39] [Intake] Intake requested
+[1129.39] [Hopper] Intake requested
+[1129.39] [Shooter] Stop requested
+[1129.39] [Intake] Intaking balls
+[1129.41] [Hopper] Preparing to intake balls
+[1129.43] [Shooter] System idle
+[1129.85] [FaultReporter] Robot FPGA outputs have been disabled
+[1130.01] [FaultReporter] Robot FPGA outputs have been enabled
+[1130.33] [FaultReporter] Robot FPGA outputs have been disabled
+[1130.57] [FaultReporter] Robot FPGA outputs have been enabled
+[1130.65] [FaultReporter] Robot FPGA outputs have been disabled
+[1130.73] [FaultReporter] Robot FPGA outputs have been enabled
+[1130.89] [FaultReporter] Robot FPGA outputs have been disabled
+[1131.37] [FaultReporter] Robot FPGA outputs have been enabled
+[1133.53] [FaultReporter] Robot FPGA outputs have been disabled
+[1133.69] [FaultReporter] Robot FPGA outputs have been enabled
+[1133.85] [FaultReporter] Robot FPGA outputs have been disabled
+[1134.27] [IntakeCells] Intake action ended
+[1134.27] [IntakeCells] Intaking 5 cells
+[1134.31] [Intake] System stow requested
+[1134.31] [Shooter] Stop requested
+[1134.31] [Intake] Stowing intake
+[1134.31] [IntakeCells] Intake action ended
+[1134.31] [IntakeCells] Intaking 5 cells
+[1134.31] [Hopper] Became idle
+[1134.31] [IntakeCells] Intake action ended
+[1134.31] [IntakeCells] Intaking 5 cells
+[1134.33] [Shooter] System idle
+[1134.33] [IntakeCells] Intake action ended
+[1134.33] [IntakeCells] Intaking 5 cells
+[1134.35] [IntakeCells] Intake action ended
+[1134.35] [IntakeCells] Intaking 5 cells
+[1134.37] [IntakeCells] Intake action ended
+[1134.37] [IntakeCells] Intaking 5 cells
+[1134.39] [Intake] Intake requested
+[1134.39] [Hopper] Intake requested
+[1134.39] [Shooter] Stop requested
+[1134.41] [Intake] Intake requested
+[1134.41] [Hopper] Intake requested
+[1134.41] [Shooter] Stop requested
+[1134.41] [Intake] Intaking balls
+[1134.41] [FaultReporter] Robot FPGA outputs have been enabled
+[1134.41] [Hopper] Preparing to intake balls
+[1134.43] [Shooter] System idle
+[1134.73] [FaultReporter] Robot FPGA outputs have been disabled
+[1135.13] [FaultReporter] Robot FPGA outputs have been enabled
+[1135.37] [FaultReporter] Robot FPGA outputs have been disabled
+[1135.77] [FaultReporter] Robot FPGA outputs have been enabled
+[1136.17] [FaultReporter] Robot FPGA outputs have been disabled
+[1136.59] [IntakeCells] Intake action ended
+[1136.59] [IntakeCells] Intaking 5 cells
+[1136.61] [Intake] System stow requested
+[1136.61] [Shooter] Stop requested
+[1136.61] [Intake] Stowing intake
+[1136.61] [IntakeCells] Intake action ended

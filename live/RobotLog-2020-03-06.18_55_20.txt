@@ -1,0 +1,18 @@
+[2.93] null
+[2.93] null
+[2.93] null
+[2.93] [PanelManipulator] Became idle
+[2.93] [Intake] System stow requested
+[2.93] [Shooter] Stop requested
+[2.93] [Intake] Stowing intake
+[3.33] [Shooter] System idle
+[7.81] [Robot] Teleop started
+[7.81] [DriveTrain] Enabling brakes
+[7.81] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.83] [Climber] Locked
+[7.83] [FaultReporter] Robot FPGA outputs have been enabled
+[7.83] [Intake] System freeze requested
+[7.83] [Climber] Locked
+[7.83] [Intake] Freezing system
+[9.71] [Climber] Unlocked
+[10.83] [Climber] Locked
