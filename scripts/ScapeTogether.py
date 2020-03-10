@@ -5,7 +5,7 @@ import datetime
 item_list = os.listdir("C:\\Users\\willm\\Desktop\\Coding\\RobotLogs-2020\\live")
 address = 'C:\\Users\\willm\\Desktop\\Coding\\RobotLogs-2020\\live\\'
 directory = address + str(datetime.datetime.now()).replace(":","")
-# os.mkdir(directory)
+os.mkdir(directory)
 
 
 def processing(filename):
@@ -26,31 +26,56 @@ def getTime(string):
     return string.find("]")
 
 
-def main(item_list):
-    previous_time = 0
-    for items in item_list:
-        # try:
+def writeList(file, list):
+    for line in list:
+        file.write(line)
 
-        first_time_value = readFirstLine(address + items)
-        time = first_time_value[1:getTime(first_time_value)]
+def getLast(file):
+    with open(file) as logFile:
+        x = logFile.readlines()
+    return x[-1]
+
+
+def main(item_list):
+    previous_value = 0
+    match = 0
+    f = open(directory + "\\match" + str(match) + ".txt", "a")
+
+
+
+    for items in item_list:
         
-        print(int(time))
-        if(time >= 0):
-            print("same set")
+        # First Value of appending file
+        first_value = readFirstLine(address + items)
+        
+        if(float(first_value) >= float(previous_value)):
+            writeList(f, processing(address + items))
+        
+
+        # # try:
+
+        # first_time_value = readFirstLine(address + items)
+        # last_time_value = getLast(address + items)
+
+
+        # start_time = float(first_time_value[1:getTime(first_time_value)])
+        # end_time = float(last_time_value[1:getTime(last_time_value)])
+        
+        
+        # if(end_time <= previous_time):
+        #     writeList(f, processing(address + items))
+        #     previous_time = end_time
         # else:
+        #     match += 1
+        #     f.close()
+        #     f = open(directory + "\\match" + str(match) + ".txt", "a")
         #     previous_time = 0
-        # except:
-            
-        
+        # # except:
+        #     # print("exception")    
+        # # print(end_time)
+        # # print(f"Current Number {start_time} Previous Time {previous_time}")
+        # # print(start_time >= previous_time if "Same File" else "Different File")
     
 
 main(item_list)
-
-#print(processing(address  + 'RobotLog-2020-03-06.18_55_20.txt'))
-
-# for items in item_list:
-    
-#     if(items[9:13] != "" and  int(items[9:13]) >= 2020):
-        
-#         print(items)
        
