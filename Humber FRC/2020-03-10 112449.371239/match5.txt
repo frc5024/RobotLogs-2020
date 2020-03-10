@@ -1,0 +1,69 @@
+[3.20] [Shooter] System idle
+[5.65] [Robot] Robot disabled
+[5.65] [AnalyticsEngine] ----- Begin Match Analytics -----
+[5.71] [AnalyticsEngine] ------ End Match Analytics ------
+[5.73] [AnalyticsEngine] Cleared event map
+[5.73] [DriveTrain] Disabling brakes
+[5.75] [DriveTrain] Stopping DriveTrain
+[5.75] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[5.77] [Climber] In service mode
+[5.79] [Shooter] System idle
+[5.79] [Hopper] Became idle
+[5.83] [PanelManipulator] Became idle
+[5.83] [Intake] System stow requested
+[5.85] [Shooter] Stop requested
+[5.85] [Intake] Stowing intake
+[6.49] [Shooter] System idle
+[36.51] [Robot] Autonomous started
+[36.51] [Chooser] Generating autonomous command object
+[36.55] [FaultReporter] Robot FPGA outputs have been enabled
+[36.55] [Chooser] Reading autonomous position
+[36.55] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[36.55] [DriveTrain] Enabling brakes
+[36.55] [Climber] Locked
+[36.55] [Hopper] Cell count force-set to: 3
+[36.57]  Starting autonomous actions
+[36.59] [Autonomous] Ensuring robot is facing proper heading
+[36.65] [DriveTrain] Stopping DriveTrain
+[36.65] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[36.67] [Autonomous] Shooting 3 cells
+[36.67] [Hopper] Cell count force-set to: 3
+[36.69] [ShootCells] Shooting 3 cells
+[36.71] [Intake] System stow requested
+[36.73] [Shooter] Spinning up to: 3693.50
+[36.75] [Hopper] Feeding balls to flywheel
+[36.99] [Hopper] Became idle
+[38.21] [Shooter] Holding. Spin-Up took 1.459 seconds
+[38.21] [Hopper] Feeding balls to flywheel
+[38.59] [Shooter] Spinning up to: 3693.50
+[38.79] [Shooter] Holding. Spin-Up took 0.2 seconds
+[39.05] [Shooter] Spinning up to: 3693.50
+[39.07] [Hopper] Became idle
+[39.19] [Shooter] Holding. Spin-Up took 0.14 seconds
+[39.19] [Hopper] Feeding balls to flywheel
+[39.37] [Shooter] Spinning up to: 3693.50
+[39.71] [Shooter] Holding. Spin-Up took 0.34 seconds
+[39.87] [ShootCells] Shoot action ended
+[39.89] [Hopper] Became idle
+[39.89] [Intake] System stow requested
+[39.89] [Shooter] Stop requested
+[39.91] [Autonomous] Driving Backwards
+[39.93] [Shooter] System idle
+[41.51] [DriveTrain] Stopping DriveTrain
+[41.51] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.59] [DriveTrain] Stopping DriveTrain
+[43.59] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.61] [DriveTrain] Disabling brakes
+[43.61] [DriveTrain] Set control mode to VOLTAGE with signal: <5.14, 5.14>
+[43.95] [Robot] Robot disabled
+[43.95] [AnalyticsEngine] ----- Begin Match Analytics -----
+[43.95] [AnalyticsEngine] Balls shot: 4
+[43.95] [AnalyticsEngine] ------ End Match Analytics ------
+[43.95] [AnalyticsEngine] Cleared event map
+[43.95] [DriveTrain] Disabling brakes
+[43.95] [DriveTrain] Stopping DriveTrain
+[43.95] [DriveTrain] Enabling brakes
+[43.95] [DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[43.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.97] [Climber] In service mode
+[43.99] [FaultReporter] Robot FPGA outputs have been disabled

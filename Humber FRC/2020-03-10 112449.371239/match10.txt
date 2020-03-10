@@ -1,0 +1,198 @@
+[2.98] [Shooter] Stop requested
+[2.98] [Intake] Stowing intake
+[3.48] [Shooter] System idle
+[24.06] [Robot] Autonomous started
+[24.06] [Chooser] Generating autonomous command object
+[24.08] [FaultReporter] Robot FPGA outputs have been enabled
+[24.12] [Chooser] Reading autonomous position
+[24.12] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: -3.39), Rotation2d(Rads: -3.14, Deg: -180.00))
+[24.12] [DriveTrain] Enabling brakes
+[24.12] [Climber] Locked
+[24.12] [Hopper] Cell count force-set to: 3
+[24.12]  Starting autonomous actions
+[24.14] [Autonomous] Ensuring proper heading
+[24.20] [DriveTrain] Stopping DriveTrain
+[24.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[24.22] [Autonomous] Turing to Goal
+[25.32] [DriveTrain] Stopping DriveTrain
+[25.32] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[25.32] [Hopper] Cell count force-set to: 3
+[25.36] [Autonomous] Shooting 3 Balls
+[25.36] [ShootCells] Shooting 3 cells
+[25.38] [Intake] System stow requested
+[25.40] [Shooter] Spinning up to: 3693.50
+[25.40] [Hopper] Feeding balls to flywheel
+[25.62] [Hopper] Became idle
+[26.90] [Shooter] Holding. Spin-Up took 1.499 seconds
+[26.90] [Hopper] Feeding balls to flywheel
+[27.28] [Shooter] Spinning up to: 3693.50
+[27.46] [Shooter] Holding. Spin-Up took 0.18 seconds
+[27.96] [Shooter] Spinning up to: 3693.50
+[28.08] [Shooter] Holding. Spin-Up took 0.12 seconds
+[28.34] [ShootCells] Shoot action ended
+[28.36] [Shooter] Spinning up to: 3693.50
+[28.36] [Hopper] Became idle
+[28.36] [Intake] System stow requested
+[28.36] [Shooter] Stop requested
+[28.36] [Autonomous] Turning to Face Trench
+[28.40] [Shooter] System idle
+[29.80] [DriveTrain] Stopping DriveTrain
+[29.80] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[29.82] [Autonomous] Driving to Trench balls and Intaking 2 Cells
+[29.82] [DrivePath] Driving path
+[29.82] [IntakeCells] Intaking 2 cells
+[29.84] [Intake] Intake requested
+[29.84] [Hopper] Intake requested
+[29.84] [Shooter] Stop requested
+[29.84] [Intake] Intaking balls
+[29.86] [Hopper] Preparing to intake balls
+[29.88] [Shooter] System idle
+[30.64] [DrivePath] Finished driving path
+[30.64] [DriveTrain] Stopping DriveTrain
+[30.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[30.64] [DrivePath] Driving path
+[32.24] [FaultReporter] Robot FPGA outputs have been disabled
+[32.24] [Robot] Robot disabled
+[32.24] [AnalyticsEngine] ----- Begin Match Analytics -----
+[32.24] [AnalyticsEngine] Balls shot: 4
+[32.24] [AnalyticsEngine] ------ End Match Analytics ------
+[32.24] [AnalyticsEngine] Cleared event map
+[32.24] [DriveTrain] Disabling brakes
+[32.24] [DriveTrain] Stopping DriveTrain
+[32.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.24] [Climber] In service mode
+[32.24] [DrivePath] Finished driving path
+[32.24] [DriveTrain] Stopping DriveTrain
+[32.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.24] [IntakeCells] Intake action interrupted
+[32.26] [Intake] System stow requested
+[32.26] [Shooter] Stop requested
+[32.26] [Intake] Stowing intake
+[32.28] [Hopper] Became idle
+[32.30] [Shooter] System idle
+[80.26] [Robot] Robot disabled
+[80.26] [AnalyticsEngine] ----- Begin Match Analytics -----
+[80.26] [AnalyticsEngine] Balls shot: 1
+[80.26] [AnalyticsEngine] ------ End Match Analytics ------
+[80.26] [AnalyticsEngine] Cleared event map
+[80.26] [DriveTrain] Disabling brakes
+[80.28] [DriveTrain] Stopping DriveTrain
+[80.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[80.28] [Climber] In service mode
+[80.28] [ShootCells] Shoot action interrupted
+[80.32] [Hopper] Became idle
+[80.32] [FaultReporter] Robot FPGA outputs have been disabled
+[80.32] [Intake] System stow requested
+[80.32] [Shooter] Stop requested
+[80.32] [Hopper] Shooting interrupt requested
+[80.34] [Hopper] Pushing balls to bottom
+[80.34] [Shooter] System idle
+[80.76] [Hopper] Incrementing ball position
+[80.78] [Hopper] Became idle
+[92.54] [Robot] Teleop started
+[92.56] [Robot] Teleop started
+[92.56] [DriveTrain] Enabling brakes
+[92.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[92.56] [Climber] Locked
+[92.56] [Intake] System freeze requested
+[92.56] [Climber] Locked
+[92.56] [Intake] Freezing system
+[92.56] [FaultReporter] Robot FPGA outputs have been enabled
+[94.18] [IntakeCells] Intaking 5 cells
+[94.18] [Intake] Intake requested
+[94.18] [Hopper] Intake requested
+[94.18] [Shooter] Stop requested
+[94.18] [Intake] Intaking balls
+[94.22] [Hopper] Preparing to intake balls
+[94.22] [Shooter] System idle
+[96.94] [Hopper] Intaking balls
+[97.56] [Hopper] Preparing to intake balls
+[98.94] [IntakeCells] Intake action interrupted
+[98.96] [Intake] System stow requested
+[98.96] [Shooter] Stop requested
+[98.96] [Intake] Stowing intake
+[98.98] [Hopper] Became idle
+[99.00] [Shooter] System idle
+[101.98] [Robot] Robot disabled
+[102.00] [Robot] Robot disabled
+[102.00] [AnalyticsEngine] ----- Begin Match Analytics -----
+[102.00] [AnalyticsEngine] Balls shot: 1
+[102.00] [AnalyticsEngine] Balls loaded: 1
+[102.00] [AnalyticsEngine] ------ End Match Analytics ------
+[102.00] [AnalyticsEngine] Cleared event map
+[102.00] [DriveTrain] Disabling brakes
+[102.00] [DriveTrain] Stopping DriveTrain
+[102.00] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[102.00] [Climber] In service mode
+[102.00] [FaultReporter] Robot FPGA outputs have been disabled
+[108.48] [Robot] Teleop started
+[108.48] [DriveTrain] Enabling brakes
+[108.48] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[108.48] [Climber] Locked
+[108.48] [Intake] System freeze requested
+[108.48] [Climber] Locked
+[108.50] [Intake] Freezing system
+[108.56] [FaultReporter] Robot FPGA outputs have been enabled
+[109.84] [IntakeCells] Intaking 5 cells
+[109.86] [Intake] Intake requested
+[109.86] [Hopper] Intake requested
+[109.86] [Shooter] Stop requested
+[109.86] [Intake] Intaking balls
+[109.90] [Hopper] Preparing to intake balls
+[109.90] [Shooter] System idle
+[111.88] [Hopper] Intaking balls
+[112.58] [Hopper] Preparing to intake balls
+[113.40] [Hopper] Intaking balls
+[114.22] [Hopper] Preparing to intake balls
+[114.36] [IntakeCells] Intake action interrupted
+[114.38] [Intake] System stow requested
+[114.38] [Shooter] Stop requested
+[114.38] [Intake] Stowing intake
+[114.42] [Hopper] Became idle
+[114.42] [Shooter] System idle
+[116.36] [ShootCells] Shooting 5 cells
+[116.38] [Intake] System stow requested
+[116.40] [Shooter] Spinning up to: 3693.50
+[116.42] [Hopper] Feeding balls to flywheel
+[117.16] [Hopper] Became idle
+[118.20] [Shooter] Holding. Spin-Up took 1.78 seconds
+[118.20] [Hopper] Feeding balls to flywheel
+[118.56] [Shooter] Spinning up to: 3693.50
+[118.84] [Shooter] Holding. Spin-Up took 0.279 seconds
+[119.28] [Shooter] Spinning up to: 3693.50
+[119.56] [Shooter] Holding. Spin-Up took 0.28 seconds
+[119.80] [Shooter] Spinning up to: 3693.50
+[120.10] [ShootCells] Shoot action interrupted
+[120.12] [Hopper] Became idle
+[120.12] [Intake] System stow requested
+[120.12] [Shooter] Stop requested
+[120.12] [Hopper] Shooting interrupt requested
+[120.12] [Hopper] Pushing balls to bottom
+[120.14] [Shooter] System idle
+[122.70] [IntakeCells] Intaking 5 cells
+[122.72] [Intake] Intake requested
+[122.72] [Hopper] Intake requested
+[122.72] [Shooter] Stop requested
+[122.72] [Intake] Intaking balls
+[122.76] [Hopper] Preparing to intake balls
+[122.76] [Shooter] System idle
+[123.60] [IntakeCells] Intake action interrupted
+[123.62] [Intake] System stow requested
+[123.62] [Shooter] Stop requested
+[123.62] [Intake] Stowing intake
+[123.66] [Hopper] Became idle
+[123.66] [Shooter] System idle
+[130.92] [Robot] Robot disabled
+[130.94] [Robot] Robot disabled
+[130.94] [AnalyticsEngine] ----- Begin Match Analytics -----
+[130.94] [AnalyticsEngine] Balls shot: 4
+[130.94] [AnalyticsEngine] Balls loaded: 2
+[130.94] [AnalyticsEngine] ------ End Match Analytics ------
+[130.94] [AnalyticsEngine] Cleared event map
+[130.94] [DriveTrain] Disabling brakes
+[130.94] [DriveTrain] Stopping DriveTrain
+[130.94] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[130.94] [Climber] In service mode
+[130.96] [FaultReporter] Robot FPGA outputs have been disabled
+[147.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[149.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
