@@ -1,0 +1,13 @@
+[119.56] [Robot] Robot disabled
+[119.56] [AnalyticsEngine] ----- Begin Match Analytics -----
+[119.56] [AnalyticsEngine] Times unjamed: 4
+[119.56] [AnalyticsEngine] Ball count override events: 4
+[119.56] [AnalyticsEngine] Balls shot: 2
+[119.56] [AnalyticsEngine] Balls loaded: 4
+[119.56] [AnalyticsEngine] ------ End Match Analytics ------
+[119.56] [AnalyticsEngine] Cleared event map
+[119.56] [DriveTrain] Disabling brakes
+[119.56] [DriveTrain] Stopping DriveTrain
+[119.56] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[119.56] [Climber] In service mode
+[119.60] [FaultReporter] Robot FPGA outputs have been disabled

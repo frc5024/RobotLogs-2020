@@ -1,0 +1,29 @@
+[8.70] [Shooter] System idle
+[17.04] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[61.40] [Robot] Teleop started
+[61.40] [DriveTrain] Enabling brakes
+[61.40] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[61.40] [Climber] Locked
+[61.40] [Intake] System freeze requested
+[61.40] [Climber] Locked
+[61.42] [Intake] Freezing system
+[61.44] [FaultReporter] Robot FPGA outputs have been enabled
+[61.48] [Intake] Unjam requested
+[61.48] [Hopper] Unjam requested
+[61.48] [Intake] Unjamming balls
+[61.48] [Shooter] Spinning up to: -890.00
+[61.50] [Hopper] Unjamming
+[61.52] [Shooter] Holding. Spin-Up took 0.02 seconds
+[61.82] [Shooter] Spinning up to: -890.00
+[62.42] [DriveTrain] Stopping DriveTrain
+[62.42] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[62.42] [DriveTrain] Disabling brakes
+[62.46] [DriveTrain] Stopping DriveTrain
+[62.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[62.46] [DriveTrain] Enabling brakes
+[63.14] [DriveTrain] Stopping DriveTrain
+[63.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[63.14] [DriveTrain] Disabling brakes
+[63.16] [DriveTrain] Stopping DriveTrain
+[63.16] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[63.16] [DriveTrain] Enabling brakes

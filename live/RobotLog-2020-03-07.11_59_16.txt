@@ -1,0 +1,14 @@
+[29.97] [Robot] Robot disabled
+[29.97] [AnalyticsEngine] ----- Begin Match Analytics -----
+[29.97] [AnalyticsEngine] Balls shot: 1
+[29.97] [AnalyticsEngine] ------ End Match Analytics ------
+[29.97] [AnalyticsEngine] Cleared event map
+[29.97] [DriveTrain] Disabling brakes
+[29.97] [DriveTrain] Stopping DriveTrain
+[29.97] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[29.97] [Climber] In service mode
+[30.03] [FaultReporter] Robot FPGA outputs have been disabled
+[74.37] [Robot] Autonomous started
+[74.37] [Chooser] Generating autonomous command object
+[74.41] [Chooser] Reading autonomous position
+[74.41] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))

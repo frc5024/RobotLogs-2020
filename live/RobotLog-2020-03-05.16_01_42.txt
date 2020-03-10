@@ -1,0 +1,16 @@
+[43.59] [DriveTrain] Stopping DriveTrain
+[43.59] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.61] [DriveTrain] Disabling brakes
+[43.61] [DriveTrain] Set control mode to VOLTAGE with signal: <5.14, 5.14>
+[43.95] [Robot] Robot disabled
+[43.95] [AnalyticsEngine] ----- Begin Match Analytics -----
+[43.95] [AnalyticsEngine] Balls shot: 4
+[43.95] [AnalyticsEngine] ------ End Match Analytics ------
+[43.95] [AnalyticsEngine] Cleared event map
+[43.95] [DriveTrain] Disabling brakes
+[43.95] [DriveTrain] Stopping DriveTrain
+[43.95] [DriveTrain] Enabling brakes
+[43.95] [DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[43.95] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[43.97] [Climber] In service mode
+[43.99] [FaultReporter] Robot FPGA outputs have been disabled

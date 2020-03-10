@@ -1,0 +1,16 @@
+[7.95] [PanelManipulator] Became idle
+[7.97] [Intake] System stow requested
+[7.97] [Shooter] Stop requested
+[7.97] [Intake] Stowing intake
+[8.41] [Shooter] System idle
+[12.03] [Robot] Autonomous started
+[12.03] [Chooser] Generating autonomous command object
+[12.05] [FaultReporter] Robot FPGA outputs have been enabled
+[12.09] [Chooser] Reading autonomous position
+[12.09] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 0.00, Y: 0.00), Rotation2d(Rads: 0.00, Deg: 0.00))
+[12.09] [DriveTrain] Enabling brakes
+[12.09] [Climber] Locked
+[12.09] [Hopper] Cell count force-set to: 3
+[12.11]  Starting autonomous actions
+[13.85] [DriveTrain] Stopping DriveTrain
+[13.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.12

@@ -1,0 +1,60 @@
+[24.49] [IntakeCells] Intake action ended
+[24.51] [IntakeCells] Intake action ended
+[24.51] [IntakeCells] Intaking 5 cells
+[24.51] [IntakeCells] Intake action ended
+[24.51] [IntakeCells] Intaking 5 cells
+[24.51] [IntakeCells] Intake action ended
+[24.51] [IntakeCells] Intaking 5 cells
+[24.53] [IntakeCells] Intake action ended
+[24.53] [IntakeCells] Intaking 5 cells
+[24.55] [IntakeCells] Intake action ended
+[24.55] [IntakeCells] Intaking 5 cells
+[24.57] [IntakeCells] Intake action ended
+[24.59] [IntakeCells] Intake action ended
+[24.61] [IntakeCells] Intake action ended
+[24.61] [IntakeCells] Intaking 5 cells
+[24.61] [IntakeCells] Intake action ended
+[24.61] [IntakeCells] Intaking 5 cells
+[24.63] [IntakeCells] Intake action ended
+[24.63] [IntakeCells] Intaking 5 cells
+[24.63] [IntakeCells] Intake action ended
+[24.63] [IntakeCells] Intaking 5 cells
+[24.65] [IntakeCells] Intake action ended
+[24.65] [IntakeCells] Intaking 5 cells
+[24.67] [IntakeCells] Intake action ended
+[24.69] [IntakeCells] Intake action ended
+[24.69] [IntakeCells] Intaking 5 cells
+[24.69] [IntakeCells] Intake action ended
+[24.69] [IntakeCells] Intaking 5 cells
+[24.71] [IntakeCells] Intake action ended
+[24.71] [IntakeCells] Intaking 5 cells
+[24.73] [Robot] Robot disabled
+[24.73] [AnalyticsEngine] ----- Begin Match Analytics -----
+[24.73] [AnalyticsEngine] Balls shot: 1
+[24.73] [AnalyticsEngine] ------ End Match Analytics ------
+[24.75] [AnalyticsEngine] Cleared event map
+[24.75] [DriveTrain] Disabling brakes
+[24.75] [DriveTrain] Stopping DriveTrain
+[24.75] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[24.75] [IntakeCells] Intake action interrupted
+[24.75] [Climber] In service mode
+[24.77] [FaultReporter] Robot FPGA outputs have been disabled
+[40.29] [Robot] Teleop started
+[40.31] [Robot] Teleop started
+[40.31] [DriveTrain] Enabling brakes
+[40.31] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[40.31] [Climber] Locked
+[40.31] [Intake] System freeze requested
+[40.31] [Climber] Locked
+[40.37] [FaultReporter] Robot FPGA outputs have been enabled
+[40.97] [IntakeCells] Intaking 5 cells
+[40.99] [IntakeCells] Intake action ended
+[40.99] [IntakeCells] Intaking 5 cells
+[41.01] [IntakeCells] Intake action ended
+[41.01] [IntakeCells] Intaking 5 cells
+[41.05] [IntakeCells] Intake action ended
+[41.05] [IntakeCells] Intaking 5 cells
+[41.05] [IntakeCells] Intake action ended
+[41.05] [IntakeCells] Intaking 5 cells
+[41.07] [IntakeCells] Intake action ended
+[41.07] [IntakeCells] Intaking 5 cells

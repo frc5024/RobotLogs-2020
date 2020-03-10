@@ -1,0 +1,21 @@
+[390.33] [FaultReporter] Robot FPGA outputs have been disabled
+[390.35] [TimePanel] Interrupted
+[390.35] [PanelManipulator] Stop requested
+[390.35] [Climber] Locked
+[390.35] [Robot] Robot disabled
+[390.35] [AnalyticsEngine] ----- Begin Match Analytics -----
+[390.35] [AnalyticsEngine] Ball count reset requests: 1
+[390.35] [AnalyticsEngine] Climb requests: 1
+[390.35] [AnalyticsEngine] Balls shot: 8
+[390.35] [AnalyticsEngine] Time-based control panel actions: 1
+[390.35] [AnalyticsEngine] Autoaim actions (pivot): 6
+[390.35] [AnalyticsEngine] Ball count override events: 2
+[390.35] [AnalyticsEngine] Times unjamed: 2
+[390.35] [AnalyticsEngine] Balls loaded: 7
+[390.35] [AnalyticsEngine] ------ End Match Analytics ------
+[390.35] [AnalyticsEngine] Cleared event map
+[390.35] [DriveTrain] Disabling brakes
+[390.35] [DriveTrain] Stopping DriveTrain
+[390.35] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[390.35] [Climber] In service mode
+[390.37] [PanelManipulator] Became idle

@@ -1,0 +1,19 @@
+[32.24] [FaultReporter] Robot FPGA outputs have been disabled
+[32.24] [Robot] Robot disabled
+[32.24] [AnalyticsEngine] ----- Begin Match Analytics -----
+[32.24] [AnalyticsEngine] Balls shot: 4
+[32.24] [AnalyticsEngine] ------ End Match Analytics ------
+[32.24] [AnalyticsEngine] Cleared event map
+[32.24] [DriveTrain] Disabling brakes
+[32.24] [DriveTrain] Stopping DriveTrain
+[32.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.24] [Climber] In service mode
+[32.24] [DrivePath] Finished driving path
+[32.24] [DriveTrain] Stopping DriveTrain
+[32.24] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[32.24] [IntakeCells] Intake action interrupted
+[32.26] [Intake] System stow requested
+[32.26] [Shooter] Stop requested
+[32.26] [Intake] Stowing intake
+[32.28] [Hopper] Became idle
+[32.30] [Shooter] System idle

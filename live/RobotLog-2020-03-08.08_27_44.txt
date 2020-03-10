@@ -1,0 +1,136 @@
+[85.96] [Climber] Locked
+[85.98] [Robot] Robot disabled
+[85.98] [AnalyticsEngine] ----- Begin Match Analytics -----
+[85.98] [AnalyticsEngine] Climb requests: 1
+[85.98] [AnalyticsEngine] ------ End Match Analytics ------
+[85.98] [AnalyticsEngine] Cleared event map
+[85.98] [DriveTrain] Disabling brakes
+[85.98] [DriveTrain] Stopping DriveTrain
+[85.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[85.98] [Climber] In service mode
+[86.02] [FaultReporter] Robot FPGA outputs have been disabled
+[246.26] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[356.26] [FaultReporter] Robot FPGA outputs have been enabled
+[356.26] [Robot] Teleop started
+[356.26] [DriveTrain] Enabling brakes
+[356.26] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[356.26] [Climber] Locked
+[356.26] [Intake] System freeze requested
+[356.26] [Climber] Locked
+[356.28] [IntakeCells] Intaking 5 cells
+[356.28] [Intake] Intake requested
+[356.28] [Hopper] Intake requested
+[356.28] [Shooter] Stop requested
+[356.28] [Intake] Intaking balls
+[356.30] [Hopper] Preparing to intake balls
+[356.32] [Shooter] System idle
+[357.48] [IntakeCells] Intake action interrupted
+[357.50] [Intake] System stow requested
+[357.50] [Shooter] Stop requested
+[357.50] [Intake] Stowing intake
+[357.52] [Hopper] Became idle
+[357.54] [Shooter] System idle
+[358.94] [Hopper] Unjam up requested
+[358.96] [Shooter] Spinning up to: 1557.50
+[358.98] [Hopper] Unjamming
+[359.30] [Intake] System stow requested
+[359.30] [Shooter] Stop requested
+[359.30] [Hopper] Became idle
+[359.32] [Shooter] System idle
+[360.34] [ShootCells] Shooting 5 cells
+[360.36] [Intake] System stow requested
+[360.38] [Shooter] Spinning up to: 3337.50
+[360.40] [Hopper] Feeding balls to flywheel
+[360.40] [ShootCells] Shoot action ended
+[360.40] [ShootCells] Shooting 5 cells
+[360.40] [Hopper] Became idle
+[360.40] [ShootCells] Shoot action ended
+[360.40] [ShootCells] Shooting 5 cells
+[360.44] [ShootCells] Shoot action ended
+[360.46] [ShootCells] Shoot action ended
+[360.46] [ShootCells] Shooting 5 cells
+[360.46] [ShootCells] Shoot action ended
+[360.46] [ShootCells] Shooting 5 cells
+[360.46] [ShootCells] Shoot action ended
+[360.46] [ShootCells] Shooting 5 cells
+[360.48] [ShootCells] Shoot action ended
+[360.50] [ShootCells] Shooting 5 cells
+[360.52] [ShootCells] Shooting 5 cells
+[360.52] [ShootCells] Shoot action ended
+[360.52] [ShootCells] Shooting 5 cells
+[360.54] [ShootCells] Shoot action ended
+[360.54] [ShootCells] Shooting 5 cells
+[360.56] [ShootCells] Shoot action ended
+[360.56] [ShootCells] Shooting 5 cells
+[360.58] [ShootCells] Shoot action ended
+[360.60] [Intake] System stow requested
+[360.60] [Shooter] Stop requested
+[360.62] [Shooter] System idle
+[361.68] [Hopper] Unjam up requested
+[361.70] [Shooter] Spinning up to: 1557.50
+[361.72] [Hopper] Unjamming
+[362.14] [Intake] System stow requested
+[362.14] [Shooter] Stop requested
+[362.16] [Hopper] Became idle
+[362.16] [Shooter] System idle
+[363.90] [Intake] Unjam requested
+[363.90] [Hopper] Unjam requested
+[363.90] [Intake] Unjamming balls
+[363.92] [Shooter] Spinning up to: -890.00
+[363.94] [Hopper] Unjamming
+[363.94] [Shooter] Holding. Spin-Up took 0.019 seconds
+[364.24] [Shooter] Spinning up to: -890.00
+[364.34] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[364.60] [Intake] System stow requested
+[364.60] [Shooter] Stop requested
+[364.60] [Intake] Stowing intake
+[364.60] [Hopper] Became idle
+[364.62] [Shooter] System idle
+[365.74] [ShootCells] Shooting 5 cells
+[365.76] [Intake] System stow requested
+[365.78] [Shooter] Spinning up to: 3337.50
+[365.80] [Hopper] Feeding balls to flywheel
+[365.80] [ShootCells] Shoot action ended
+[365.80] [ShootCells] Shooting 5 cells
+[365.82] [Hopper] Became idle
+[365.82] [ShootCells] Shoot action ended
+[365.82] [ShootCells] Shooting 5 cells
+[365.84] [ShootCells] Shoot action ended
+[365.86] [ShootCells] Shoot action ended
+[365.86] [ShootCells] Shooting 5 cells
+[365.86] [ShootCells] Shoot action ended
+[365.86] [ShootCells] Shooting 5 cells
+[365.88] [ShootCells] Shoot action ended
+[365.88] [ShootCells] Shooting 5 cells
+[365.88] [ShootCells] Shoot action ended
+[365.90] [ShootCells] Shooting 5 cells
+[365.92] [ShootCells] Shoot action ended
+[365.94] [ShootCells] Shoot action ended
+[365.94] [ShootCells] Shooting 5 cells
+[365.94] [ShootCells] Shoot action ended
+[365.94] [ShootCells] Shooting 5 cells
+[365.96] [ShootCells] Shoot action ended
+[365.96] [ShootCells] Shooting 5 cells
+[365.98] [ShootCells] Shoot action ended
+[365.98] [ShootCells] Shooting 5 cells
+[366.00] [ShootCells] Shoot action ended
+[366.02] [ShootCells] Shoot action ended
+[366.04] [ShootCells] Shoot action ended
+[366.04] [ShootCells] Shooting 5 cells
+[366.04] [ShootCells] Shoot action ended
+[366.04] [ShootCells] Shooting 5 cells
+[366.04] [ShootCells] Shoot action ended
+[366.04] [ShootCells] Shooting 5 cells
+[366.06] [ShootCells] Shoot action ended
+[366.08] [ShootCells] Shoot action ended
+[366.08] [ShootCells] Shooting 5 cells
+[366.08] [ShootCells] Shoot action ended
+[366.08] [ShootCells] Shooting 5 cells
+[366.10] [ShootCells] Shoot action ended
+[366.10] [ShootCells] Shooting 5 cells
+[366.12] [ShootCells] Shoot action ended
+[366.14] [ShootCells] Shoot action ended
+[366.14] [ShootCells] Shooting 5 cells
+[366.14] [ShootCells] Shoot action ended
+[366.14] [ShootCells] Shooting 5 cells
+[366.14] [ShootCells] Shoot action ended

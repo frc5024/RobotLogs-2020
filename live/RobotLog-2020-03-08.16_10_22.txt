@@ -1,0 +1,16 @@
+[487.40] [Robot] Robot disabled
+[487.40] [AnalyticsEngine] ----- Begin Match Analytics -----
+[487.40] [AnalyticsEngine] Times unjamed: 2
+[487.40] [AnalyticsEngine] Autoaim actions (pivot): 5
+[487.40] [AnalyticsEngine] Balls shot: 11
+[487.40] [AnalyticsEngine] Balls loaded: 10
+[487.40] [AnalyticsEngine] Ball count override events: 1
+[487.40] [AnalyticsEngine] Climb requests: 1
+[487.40] [AnalyticsEngine] ------ End Match Analytics ------
+[487.40] [AnalyticsEngine] Cleared event map
+[487.40] [DriveTrain] Disabling brakes
+[487.40] [DriveTrain] Stopping DriveTrain
+[487.40] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[487.40] [Climber] Locked
+[487.40] [Climber] In service mode
+[487.46] [FaultReporter] Robot FPGA outputs have been disabled

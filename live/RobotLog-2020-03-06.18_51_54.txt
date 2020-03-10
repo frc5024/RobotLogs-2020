@@ -1,0 +1,10 @@
+[293.96] [FaultReporter] Robot FPGA outputs have been disabled
+[293.96] [Robot] Robot disabled
+[293.96] [AnalyticsEngine] ----- Begin Match Analytics -----
+[293.96] [AnalyticsEngine] Climb requests: 1
+[293.96] [AnalyticsEngine] ------ End Match Analytics ------
+[293.96] [AnalyticsEngine] Cleared event map
+[293.96] [DriveTrain] Disabling brakes
+[293.96] [DriveTrain] Stopping DriveTrain
+[293.96] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[293.96] [Climber] In service mode

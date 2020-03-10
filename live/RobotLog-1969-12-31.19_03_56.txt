@@ -1,0 +1,19 @@
+[2.87] [DriveTrain] Disabling brakes
+[2.87] [DriveTrain] Stopping DriveTrain
+[2.87] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.87] [Climber] In service mode
+[2.87] [Shooter] System idle
+[2.87] [Hopper] Became idle
+[2.87] [PanelManipulator] Became idle
+[2.87] [Intake] System stow requested
+[2.87] [Shooter] Stop requested
+[2.87] [Intake] Stowing intake
+[3.39] [Shooter] System idle
+[32.07] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[59.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[90.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[121.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[171.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[264.39] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[380.55] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[504.71] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

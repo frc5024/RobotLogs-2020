@@ -1,0 +1,12 @@
+[8.04] [PanelManipulator] Became idle
+[8.04] [Intake] System stow requested
+[8.04] [Shooter] Stop requested
+[8.04] [Intake] Stowing intake
+[8.38] [Shooter] System idle
+[9.02] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[9.98] [FaultReporter] Robot FPGA outputs have been enabled
+[9.98] [Robot] Autonomous started
+[9.98] [Chooser] Generating autonomous command object
+[10.08] [Chooser] Reading autonomous position
+[10.08] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[10.10] [DriveTrain] Enabling brakes

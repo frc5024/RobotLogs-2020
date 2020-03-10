@@ -1,0 +1,19 @@
+[397.57] [Climber] Locked
+[397.59] [Robot] Robot disabled
+[397.59] [AnalyticsEngine] ----- Begin Match Analytics -----
+[397.59] [AnalyticsEngine] Climb requests: 1
+[397.59] [AnalyticsEngine] Balls shot: 7
+[397.59] [AnalyticsEngine] Balls loaded: 9
+[397.59] [AnalyticsEngine] Ball count override events: 2
+[397.59] [AnalyticsEngine] Ball count reset requests: 1
+[397.59] [AnalyticsEngine] Times unjamed: 4
+[397.59] [AnalyticsEngine] Autoaim actions (free space): 1
+[397.59] [AnalyticsEngine] Autoaim actions (pivot): 16
+[397.59] [AnalyticsEngine] ------ End Match Analytics ------
+[397.59] [AnalyticsEngine] Cleared event map
+[397.59] [DriveTrain] Disabling brakes
+[397.59] [DriveTrain] Stopping DriveTrain
+[397.59] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[397.59] [Climber] In service mode
+[397.63] [FaultReporter] Robot FPGA outputs have been disabled
+[493.55] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

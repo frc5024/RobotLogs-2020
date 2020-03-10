@@ -1,0 +1,123 @@
+[11.37] [Robot] Robot disabled
+[11.41] [AnalyticsEngine] ----- Begin Match Analytics -----
+[11.43] [AnalyticsEngine] ------ End Match Analytics ------
+[11.45] [AnalyticsEngine] ------ End Match Analytics ------
+[11.45] [AnalyticsEngine] Cleared event map
+[11.45] [DriveTrain] Disabling brakes
+[11.47] [AnalyticsEngine] ------ End Match Analytics ------
+[11.49] [AnalyticsEngine] ------ End Match Analytics ------
+[11.49] [AnalyticsEngine] Cleared event map
+[11.49] [DriveTrain] Disabling brakes
+[11.49] [DriveTrain] Stopping DriveTrain
+[11.49] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.57] [AnalyticsEngine] ------ End Match Analytics ------
+[11.57] [AnalyticsEngine] Cleared event map
+[11.60] [AnalyticsEngine] ------ End Match Analytics ------
+[11.60] [AnalyticsEngine] Cleared event map
+[11.60] [DriveTrain] Disabling brakes
+[11.60] [DriveTrain] Stopping DriveTrain
+[11.60] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.60] [Climber] In service mode
+[11.60] [Shooter] System idle
+[11.60] [Hopper] Became idle
+[11.60] [PanelManipulator] Became idle
+[11.60] [Intake] System stow requested
+[11.60] [Shooter] Stop requested
+[11.60] [Intake] Stowing intake
+[12.25] [Shooter] System idle
+[72.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[135.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[139.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[202.23] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[206.23] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[265.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[269.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[273.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[301.59] [Robot] Teleop started
+[301.59] [FaultReporter] Robot FPGA outputs have been enabled
+[301.61] [Robot] Teleop started
+[301.61] [FaultReporter] Robot FPGA outputs have been enabled
+[301.61] [DriveTrain] Enabling brakes
+[301.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[301.61] [Climber] Locked
+[301.61] [Intake] System freeze requested
+[301.61] [Climber] Locked
+[301.61] [Intake] Freezing system
+[301.67] [IntakeCells] Intaking 5 cells
+[301.69] [IntakeCells] Intaking 5 cells
+[301.69] [Intake] Intake requested
+[301.69] [Hopper] Intake requested
+[301.69] [Shooter] Stop requested
+[301.69] [Intake] Intaking balls
+[301.69] [Hopper] Preparing to intake balls
+[301.69] [Shooter] System idle
+[302.77] [IntakeCells] Intake action interrupted
+[302.79] [Intake] System stow requested
+[302.79] [Shooter] Stop requested
+[302.79] [Intake] Stowing intake
+[302.81] [Hopper] Became idle
+[302.83] [Shooter] System idle
+[303.63] [IntakeCells] Intaking 5 cells
+[303.65] [Intake] Intake requested
+[303.65] [Hopper] Intake requested
+[303.65] [Shooter] Stop requested
+[303.65] [Intake] Intaking balls
+[303.67] [Hopper] Preparing to intake balls
+[303.69] [Shooter] System idle
+[304.77] [IntakeCells] Intake action interrupted
+[304.79] [Intake] System stow requested
+[304.79] [Shooter] Stop requested
+[304.79] [Intake] Stowing intake
+[304.81] [Hopper] Became idle
+[304.83] [Shooter] System idle
+[305.85] [ShootCells] Shooting 5 cells
+[305.87] [Intake] System stow requested
+[305.89] [Shooter] Spinning up to: 3337.50
+[305.89] [Hopper] Feeding balls to flywheel
+[305.89] [ShootCells] Shoot action ended
+[305.89] [ShootCells] Shooting 5 cells
+[305.91] [Hopper] Became idle
+[305.91] [ShootCells] Shoot action ended
+[305.91] [ShootCells] Shooting 5 cells
+[305.93] [ShootCells] Shoot action ended
+[305.93] [ShootCells] Shooting 5 cells
+[305.95] [ShootCells] Shoot action ended
+[305.95] [ShootCells] Shooting 5 cells
+[305.97] [ShootCells] Shoot action ended
+[305.97] [ShootCells] Shooting 5 cells
+[305.99] [ShootCells] Shoot action ended
+[305.99] [ShootCells] Shooting 5 cells
+[306.01] [ShootCells] Shoot action ended
+[306.01] [ShootCells] Shooting 5 cells
+[306.03] [ShootCells] Shoot action ended
+[306.03] [ShootCells] Shooting 5 cells
+[306.05] [ShootCells] Shoot action ended
+[306.05] [ShootCells] Shooting 5 cells
+[306.07] [ShootCells] Shoot action ended
+[306.07] [ShootCells] Shooting 5 cells
+[306.09] [ShootCells] Shoot action ended
+[306.11] [ShootCells] Shoot action ended
+[306.11] [ShootCells] Shooting 5 cells
+[306.11] [ShootCells] Shoot action ended
+[306.11] [ShootCells] Shooting 5 cells
+[306.13] [ShootCells] Shoot action ended
+[306.13] [ShootCells] Shooting 5 cells
+[306.15] [ShootCells] Shoot action ended
+[306.15] [ShootCells] Shooting 5 cells
+[306.17] [ShootCells] Shoot action ended
+[306.17] [ShootCells] Shooting 5 cells
+[306.19] [ShootCells] Shoot action ended
+[306.19] [ShootCells] Shooting 5 cells
+[306.21] [ShootCells] Shoot action ended
+[306.21] [ShootCells] Shooting 5 cells
+[306.23] [ShootCells] Shoot action ended
+[306.23] [ShootCells] Shooting 5 cells
+[306.25] [ShootCells] Shoot action ended
+[306.25] [ShootCells] Shooting 5 cells
+[306.27] [ShootCells] Shoot action ended
+[306.27] [ShootCells] Shooting 5 cells
+[306.29] [ShootCells] Shoot action ended
+[306.29] [ShootCells] Shooting 5 cells
+[306.31] [ShootCells] Shoot action ended
+[306.31] [ShootCells] Shooting 5 cells
+[306.33] [ShootCells] Shoot action ended

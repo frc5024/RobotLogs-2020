@@ -1,0 +1,22 @@
+[8.41] [Shooter] System idle
+[75.77] [Robot] Autonomous started
+[75.77] [Chooser] Generating autonomous command object
+[75.83] [Chooser] Reading autonomous position
+[75.83] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[75.83] [DriveTrain] Enabling brakes
+[75.83] [Climber] Locked
+[75.86] [Chooser] Reading autonomous position
+[75.86] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[75.86] [DriveTrain] Enabling brakes
+[75.86] [Climber] Locked
+[75.86] [Hopper] Cell count force-set to: 3
+[75.86] [FaultReporter] Robot FPGA outputs have been enabled
+[75.86]  Starting autonomous actions
+[75.86] [Hopper] Cell count force-set to: 3
+[75.87] [Hopper] Cell count force-set to: 3
+[75.89] [Hopper] Cell count force-set to: 3
+[75.89] [Hopper] Cell count force-set to: 3
+[75.91] [Hopper] Cell count force-set to: 3
+[75.91] [Hopper] Cell count force-set to: 3
+[75.91] [Hopper] Cell count force-set to: 3
+[75.91] [Hopper] Cell count force-set to: 3

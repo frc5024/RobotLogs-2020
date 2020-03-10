@@ -1,0 +1,22 @@
+[8.32] [Shooter] System idle
+[11.72] [FaultReporter] Robot FPGA outputs have been enabled
+[11.74] [Robot] Autonomous started
+[11.74] [Chooser] Generating autonomous command object
+[11.78] [Chooser] Reading autonomous position
+[11.78] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[11.78] [DriveTrain] Enabling brakes
+[11.78] [Climber] Locked
+[11.78] [Hopper] Cell count force-set to: 3
+[11.90]  Starting autonomous actions
+[11.90] [Hopper] Cell count force-set to: 3
+[11.90] [Hopper] Cell count force-set to: 3
+[11.92] [Hopper] Cell count force-set to: 3
+[11.92] [Hopper] Cell count force-set to: 3
+[11.94] [Hopper] Cell count force-set to: 3
+[11.94] [DriveTrain] Stopping DriveTrain
+[11.94] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[11.94] [BuddyScore] Dropping intake
+[11.94] [Intake] Intake requested
+[11.94] [ShootCells] Shooting 5 cells
+[11.94] [Hopper] Cell count force-set to: 3
+[11.96] [Intake] System stow requested

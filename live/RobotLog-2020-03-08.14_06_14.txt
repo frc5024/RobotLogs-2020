@@ -1,0 +1,18 @@
+[8.31] [Shooter] System idle
+[13.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[13.87] [Robot] Autonomous started
+[13.87] [Chooser] Generating autonomous command object
+[13.91] [FaultReporter] Robot FPGA outputs have been enabled
+[13.93] [Chooser] Reading autonomous position
+[13.93] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[13.93] [DriveTrain] Enabling brakes
+[13.93] [Climber] Locked
+[13.93] [Hopper] Cell count force-set to: 3
+[13.93]  Starting autonomous actions
+[13.97] [Hopper] Cell count force-set to: 3
+[13.97] [Hopper] Cell count force-set to: 3
+[13.99] [Hopper] Cell count force-set to: 3
+[13.99] [Hopper] Cell count force-set to: 3
+[13.99] [Hopper] Cell count force-set to: 3
+[14.01] [DriveTrain] Stopping DriveTrain
+[14.01] [DriveTrain] Setting DriveTrain ramp rate to: 0.12

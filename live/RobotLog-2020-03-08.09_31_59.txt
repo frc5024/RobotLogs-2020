@@ -1,0 +1,18 @@
+[8.01] [Robot] Robot disabled
+[8.01] [AnalyticsEngine] ----- Begin Match Analytics -----
+[8.01] [AnalyticsEngine] ------ End Match Analytics ------
+[8.04] [Robot] Robot disabled
+[8.04] [AnalyticsEngine] ----- Begin Match Analytics -----
+[8.04] [AnalyticsEngine] ------ End Match Analytics ------
+[8.04] [AnalyticsEngine] Cleared event map
+[8.04] [DriveTrain] Disabling brakes
+[8.04] [DriveTrain] Stopping DriveTrain
+[8.04] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[8.04] [Climber] In service mode
+[8.04] [Shooter] System idle
+[8.04] [Hopper] Became idle
+[8.04] [PanelManipulator] Became idle
+[8.04] [Intake] System stow requested
+[8.04] [Shooter] Stop requested
+[8.04] [Intake] Stowing intake
+[8.83] [Shooter] System idle

@@ -1,0 +1,78 @@
+[795.64] [Robot] Robot disabled
+[795.64] [AnalyticsEngine] ----- Begin Match Analytics -----
+[795.64] [AnalyticsEngine] Balls shot: 7
+[795.64] [AnalyticsEngine] Balls loaded: 3
+[795.64] [AnalyticsEngine] ------ End Match Analytics ------
+[795.64] [AnalyticsEngine] Cleared event map
+[795.64] [DriveTrain] Disabling brakes
+[795.64] [DriveTrain] Stopping DriveTrain
+[795.64] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[795.64] [Climber] In service mode
+[795.70] [FaultReporter] Robot FPGA outputs have been disabled
+[795.92] [Robot] Teleop started
+[795.92] [DriveTrain] Enabling brakes
+[795.92] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[795.92] [Climber] Locked
+[795.92] [Intake] System freeze requested
+[795.92] [Climber] Locked
+[795.94] [FaultReporter] Robot FPGA outputs have been enabled
+[795.94] [Intake] Freezing system
+[795.96] [TimePanel] Constructing
+[795.96] [IntakeCells] Intaking 5 cells
+[795.96] [TimePanel] Rotating for 0.50 seconds
+[795.96] [Panel Manipulator] Rotating for 0.50 seconds
+[795.96] [Hopper] Lowering Balls
+[796.00] [IntakeCells] Intake action ended
+[796.00] [Hopper] Finished lowering balss
+[796.00] [Hopper] Lowering Balls
+[796.00] [PanelManipulator] Waiting for contact with control panel
+[796.00] [Hopper] Finished lowering balss
+[796.02] [Hopper] Pushing balls to bottom
+[797.62] WARNING: [FaultReporter] Robot brownout detected!
+[797.62] [FaultReporter] Robot FPGA outputs have been disabled
+[797.62] [FaultReporter] 3v3 Rail Disabled
+[797.70] [FaultReporter] Robot FPGA outputs have been enabled
+[797.70] [FaultReporter] 3v3 Rail Enabled
+[800.02] [Hopper] Cell count force-set to: 0
+[800.04] [Hopper] Became idle
+[800.04] [Intake] System stow requested
+[800.04] [Shooter] Stop requested
+[800.04] [Intake] Stowing intake
+[800.08] [Shooter] System idle
+[808.10] [IntakeCells] Intaking 5 cells
+[808.12] [IntakeCells] Intake action ended
+[808.12] [IntakeCells] Intaking 5 cells
+[808.14] [Intake] Intake requested
+[808.14] [Hopper] Intake requested
+[808.14] [Shooter] Stop requested
+[808.14] [Intake] Intaking balls
+[808.16] [Hopper] Preparing to intake balls
+[808.18] [Shooter] System idle
+[809.52] [Hopper] Intaking balls
+[810.16] [Hopper] Preparing to intake balls
+[811.02] [Hopper] Intaking balls
+[811.54] [Hopper] Preparing to intake balls
+[812.98] [Hopper] Intaking balls
+[813.52] [Hopper] Preparing to intake balls
+[815.42] [Hopper] Intaking balls
+[816.10] [IntakeCells] Intake action ended
+[816.10] [IntakeCells] Intaking 5 cells
+[816.14] [Intake] System stow requested
+[816.14] [Shooter] Stop requested
+[816.14] [Intake] Stowing intake
+[816.14] [IntakeCells] Intake action ended
+[816.14] [IntakeCells] Intaking 5 cells
+[816.14] [Hopper] Became idle
+[816.16] [IntakeCells] Intake action ended
+[816.16] [IntakeCells] Intaking 5 cells
+[816.16] [Shooter] System idle
+[816.16] [IntakeCells] Intake action ended
+[816.16] [IntakeCells] Intaking 5 cells
+[816.18] [IntakeCells] Intake action ended
+[816.18] [IntakeCells] Intaking 5 cells
+[816.20] [IntakeCells] Intake action ended
+[816.20] [IntakeCells] Intaking 5 cells
+[816.22] [IntakeCells] Intake action ended
+[816.22] [IntakeCells] Intaking 5 cells
+[816.24] [IntakeCells] Intake action ended
+[816.24] [IntakeCells] Intaking 5 cells

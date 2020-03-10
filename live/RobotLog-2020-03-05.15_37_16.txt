@@ -1,0 +1,24 @@
+[2.88] [Climber] In service mode
+[2.88] [Shooter] System idle
+[2.88] [Hopper] Became idle
+[2.88] [PanelManipulator] Became idle
+[2.88] [Intake] System stow requested
+[2.88] [Shooter] Stop requested
+[2.88] [Intake] Stowing intake
+[3.38] [Shooter] System idle
+[12.02] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[58.06] [Robot] Teleop started
+[58.06] [DriveTrain] Enabling brakes
+[58.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[58.06] [Climber] Locked
+[58.06] [Intake] System freeze requested
+[58.06] [Climber] Locked
+[58.06] [Intake] Freezing system
+[58.12] [FaultReporter] Robot FPGA outputs have been enabled
+[58.52] [IntakeCells] Intaking 5 cells
+[58.54] [Intake] Intake requested
+[58.54] [Hopper] Intake requested
+[58.54] [Shooter] Stop requested
+[58.54] [Intake] Intaking balls
+[58.56] [Hopper] Preparing to intake balls
+[58.58] [Shooter] System idle

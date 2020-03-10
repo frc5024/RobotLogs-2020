@@ -1,0 +1,69 @@
+[8.60] [Shooter] System idle
+[36.42] [Robot] Autonomous started
+[36.42] [Chooser] Generating autonomous command object
+[36.44] [FaultReporter] Robot FPGA outputs have been enabled
+[36.46] [Chooser] Reading autonomous position
+[36.46] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[36.46] [DriveTrain] Enabling brakes
+[36.46] [Climber] Locked
+[36.46] [Hopper] Cell count force-set to: 3
+[36.48]  Starting autonomous actions
+[36.50] [Hopper] Cell count force-set to: 3
+[36.50] [Hopper] Cell count force-set to: 3
+[36.52] [Hopper] Cell count force-set to: 3
+[36.52] [Hopper] Cell count force-set to: 3
+[36.54] [Hopper] Cell count force-set to: 3
+[36.54] [DriveTrain] Stopping DriveTrain
+[36.54] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[36.54] [BuddyScore] Dropping intake
+[36.54] [Intake] Intake requested
+[36.54] [ShootCells] Shooting 5 cells
+[36.54] [Hopper] Cell count force-set to: 3
+[36.56] [Intake] System stow requested
+[36.56] [Intake] Intake requested
+[36.56] [Hopper] Cell count force-set to: 3
+[36.58] [Shooter] Spinning up to: 3337.50
+[36.60] [Hopper] Feeding balls to flywheel
+[36.60] [Intake] Intaking balls
+[36.60] [Intake] Intake requested
+[36.60] [Hopper] Cell count force-set to: 3
+[36.62] [Intake] Intake requested
+[36.62] [Hopper] Cell count force-set to: 3
+[36.64] [Intake] Intake requested
+[36.64] [Hopper] Cell count force-set to: 3
+[36.66] [Intake] Intake requested
+[36.66] [Hopper] Cell count force-set to: 3
+[36.66] [Intake] Intake requested
+[36.66] [Hopper] Cell count force-set to: 3
+[36.68] [Intake] Intake requested
+[36.68] [Hopper] Cell count force-set to: 3
+[36.70] [Intake] Intake requested
+[36.70] [Hopper] Cell count force-set to: 3
+[36.72] [Intake] Intake requested
+[36.72] [Hopper] Cell count force-set to: 3
+[36.74] [Intake] Intake requested
+[36.74] [Hopper] Cell count force-set to: 3
+[36.76] [Intake] Intake requested
+[36.76] [Hopper] Cell count force-set to: 3
+[36.78] [Intake] Intake requested
+[36.78] [Hopper] Cell count force-set to: 3
+[36.80] [Intake] Intake requested
+[36.80] [Hopper] Cell count force-set to: 3
+[36.82] [Intake] Intake requested
+[36.82] [Hopper] Cell count force-set to: 3
+[36.84] [Intake] Intake requested
+[36.84] [Hopper] Cell count force-set to: 3
+[36.86] [Intake] Intake requested
+[36.86] [Hopper] Cell count force-set to: 3
+[36.88] [Intake] Intake requested
+[36.88] [Hopper] Cell count force-set to: 3
+[36.90] [Intake] Intake requested
+[36.90] [Hopper] Cell count force-set to: 3
+[36.92] [Intake] Intake requested
+[36.92] [Hopper] Cell count force-set to: 3
+[36.94] [Intake] Intake requested
+[36.94] [Hopper] Cell count force-set to: 3
+[36.96] [Intake] Intake requested
+[36.96] [Hopper] Cell count force-set to: 3
+[36.98] [Intake] Intake requested
+[36.98] [Hopper] Cell count force-set to: 3

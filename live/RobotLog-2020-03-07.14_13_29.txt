@@ -1,0 +1,21 @@
+[502.61] [Robot] Robot disabled
+[502.61] [AnalyticsEngine] ----- Begin Match Analytics -----
+[502.61] [AnalyticsEngine] Ball count reset requests: 1
+[502.61] [AnalyticsEngine] Balls shot: 11
+[502.61] [AnalyticsEngine] Balls loaded: 10
+[502.61] [AnalyticsEngine] Ball count override events: 1
+[502.61] [AnalyticsEngine] Climb requests: 1
+[502.61] [AnalyticsEngine] Autoaim actions (pivot): 17
+[502.61] [AnalyticsEngine] ------ End Match Analytics ------
+[502.61] [AnalyticsEngine] Cleared event map
+[502.61] [DriveTrain] Disabling brakes
+[502.61] [DriveTrain] Stopping DriveTrain
+[502.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[502.61] [Climber] Locked
+[502.61] [Climber] In service mode
+[502.67] [FaultReporter] Robot FPGA outputs have been disabled
+[522.59] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[584.67] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[588.67] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[592.67] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[650.75] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

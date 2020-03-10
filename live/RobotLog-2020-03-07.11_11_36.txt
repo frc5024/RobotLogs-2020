@@ -1,0 +1,21 @@
+[3.27] [Shooter] System idle
+[30.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[34.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[36.97] [Robot] Autonomous started
+[36.97] [Chooser] Generating autonomous command object
+[37.01] [Chooser] Reading autonomous position
+[37.01] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 0.00, Y: 0.00), Rotation2d(Rads: 0.00, Deg: 0.00))
+[37.01] [DriveTrain] Enabling brakes
+[37.01] [Climber] Locked
+[37.01] [Hopper] Cell count force-set to: 3
+[37.01] [FaultReporter] Robot FPGA outputs have been enabled
+[37.03]  Starting autonomous actions
+[37.41] [DriveTrain] Stopping DriveTrain
+[37.41] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[37.41] [DriveTrain] Disabling brakes
+[37.41] [DriveTrain] Set control mode to VOLTAGE with signal: <5.04, 5.04>
+[38.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[39.09] [DriveTrain] Stopping DriveTrain
+[39.09] [DriveTrain] Enabling brakes
+[39.11] [DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[39.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.12

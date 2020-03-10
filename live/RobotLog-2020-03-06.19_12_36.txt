@@ -1,0 +1,6 @@
+[2.99] [Intake] Stowing intake
+[3.47] [Shooter] System idle
+[375.35] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[404.39] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[466.47] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[776.87] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

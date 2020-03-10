@@ -1,0 +1,119 @@
+[418.76] [Robot] Robot disabled
+[418.76] [AnalyticsEngine] ----- Begin Match Analytics -----
+[418.76] [AnalyticsEngine] Balls shot: 4
+[418.76] [AnalyticsEngine] ------ End Match Analytics ------
+[418.78] [Robot] Robot disabled
+[418.78] [AnalyticsEngine] ----- Begin Match Analytics -----
+[418.78] [AnalyticsEngine] Balls shot: 4
+[418.78] [AnalyticsEngine] ------ End Match Analytics ------
+[418.78] [AnalyticsEngine] Cleared event map
+[418.78] [DriveTrain] Disabling brakes
+[418.78] [DriveTrain] Stopping DriveTrain
+[418.78] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[418.78] [Climber] In service mode
+[418.78] [FaultReporter] Robot FPGA outputs have been disabled
+[419.02] [FaultReporter] Robot FPGA outputs have been enabled
+[419.02] [Robot] Teleop started
+[419.02] [DriveTrain] Enabling brakes
+[419.02] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[419.02] [Climber] Locked
+[419.02] [Intake] System freeze requested
+[419.02] [Climber] Locked
+[419.02] [Intake] Freezing system
+[419.02] [IntakeCells] Intaking 5 cells
+[419.04] [Intake] Intake requested
+[419.04] [Hopper] Intake requested
+[419.04] [Shooter] Stop requested
+[419.04] [Intake] Intaking balls
+[419.06] [Hopper] Preparing to intake balls
+[419.08] [Shooter] System idle
+[420.58] [IntakeCells] Intake action interrupted
+[420.60] [Intake] System stow requested
+[420.60] [Shooter] Stop requested
+[420.60] [Intake] Stowing intake
+[420.62] [Hopper] Became idle
+[420.64] [Shooter] System idle
+[421.04] [IntakeCells] Intaking 5 cells
+[421.06] [Intake] Intake requested
+[421.06] [Hopper] Intake requested
+[421.06] [Shooter] Stop requested
+[421.06] [Intake] Intaking balls
+[421.08] [Hopper] Preparing to intake balls
+[421.10] [Shooter] System idle
+[424.56] [Hopper] Intaking balls
+[425.34] [Hopper] Preparing to intake balls
+[430.78] [FaultReporter] 5v Rail Enabled
+[431.42] [FaultReporter] 5v Rail Disabled
+[431.42] WARNING: [FaultReporter] 5v Rail fault detected!
+[433.90] [IntakeCells] Intake action interrupted
+[433.92] [Intake] System stow requested
+[433.92] [Shooter] Stop requested
+[433.92] [Intake] Stowing intake
+[433.94] [Hopper] Became idle
+[433.96] [Shooter] System idle
+[435.04] [DriveTrain] Stopping DriveTrain
+[435.04] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[435.04] [DriveTrain] Disabling brakes
+[435.14] [DriveTrain] Stopping DriveTrain
+[435.14] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[435.14] [DriveTrain] Enabling brakes
+[436.10] [DriveTrain] Stopping DriveTrain
+[436.10] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[436.10] [DriveTrain] Disabling brakes
+[436.38] [DriveTrain] Stopping DriveTrain
+[436.38] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[436.38] [DriveTrain] Enabling brakes
+[437.28] [DriveTrain] Stopping DriveTrain
+[437.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[437.28] [DriveTrain] Disabling brakes
+[437.48] [DriveTrain] Stopping DriveTrain
+[437.48] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[437.48] [DriveTrain] Enabling brakes
+[439.04] [DriveTrain] Stopping DriveTrain
+[439.04] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[439.04] [DriveTrain] Disabling brakes
+[439.06] [DriveTrain] Stopping DriveTrain
+[439.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[439.06] [DriveTrain] Enabling brakes
+[439.28] [ShootCells] Shooting 5 cells
+[439.30] [Intake] System stow requested
+[439.32] [Shooter] Spinning up to: 3337.50
+[439.32] [Hopper] Feeding balls to flywheel
+[440.72] [Shooter] Holding. Spin-Up took 1.399 seconds
+[440.84] [ShootCells] Shoot action ended
+[440.84] [ShootCells] Shooting 5 cells
+[440.86] [Hopper] Became idle
+[440.86] [ShootCells] Shoot action ended
+[440.86] [ShootCells] Shooting 5 cells
+[440.88] [ShootCells] Shoot action ended
+[440.88] [ShootCells] Shooting 5 cells
+[440.90] [ShootCells] Shoot action ended
+[440.90] [ShootCells] Shooting 5 cells
+[440.92] [ShootCells] Shoot action ended
+[440.92] [ShootCells] Shooting 5 cells
+[440.94] [ShootCells] Shoot action ended
+[440.94] [ShootCells] Shooting 5 cells
+[440.96] [ShootCells] Shoot action ended
+[440.96] [ShootCells] Shooting 5 cells
+[440.98] [ShootCells] Shoot action ended
+[440.98] [ShootCells] Shooting 5 cells
+[441.00] [ShootCells] Shoot action ended
+[441.00] [ShootCells] Shooting 5 cells
+[441.02] [Shooter] Spinning up to: 3337.50
+[441.02] [ShootCells] Shoot action ended
+[441.02] [ShootCells] Shooting 5 cells
+[441.04] [ShootCells] Shoot action ended
+[441.04] [ShootCells] Shooting 5 cells
+[441.06] [ShootCells] Shoot action ended
+[441.06] [ShootCells] Shooting 5 cells
+[441.08] [ShootCells] Shoot action ended
+[441.08] [ShootCells] Shooting 5 cells
+[441.10] [ShootCells] Shoot action ended
+[441.10] [ShootCells] Shooting 5 cells
+[441.12] [ShootCells] Shoot action ended
+[441.12] [ShootCells] Shooting 5 cells
+[441.14] [ShootCells] Shoot action ended
+[441.14] [ShootCells] Shooting 5 cells
+[441.16] [ShootCells] Shoot action ended
+[441.16] [ShootCells] Shooting 5 cells
+[441.18] [ShootCells] Shoot action ended

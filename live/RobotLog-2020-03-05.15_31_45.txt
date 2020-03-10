@@ -1,0 +1,52 @@
+[3.29] [Shooter] System idle
+[40.53] [Robot] Teleop started
+[40.53] [DriveTrain] Enabling brakes
+[40.53] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[40.53] [Climber] Locked
+[40.53] [Intake] System freeze requested
+[40.55] [Climber] Locked
+[40.55] [Intake] Freezing system
+[40.61] [FaultReporter] Robot FPGA outputs have been enabled
+[44.23] [OperatorControl] Operator force-incremented the hopper ball count
+[44.23] [Hopper] Cell count force-set to: 1
+[45.05] [OperatorControl] Operator force-incremented the hopper ball count
+[45.05] [Hopper] Cell count force-set to: 2
+[45.99] [OperatorControl] Operator force-incremented the hopper ball count
+[45.99] [Hopper] Cell count force-set to: 3
+[53.13] [OperatorControl] Operator force-incremented the hopper ball count
+[53.13] [Hopper] Cell count force-set to: 2
+[53.37] [OperatorControl] Operator force-incremented the hopper ball count
+[53.37] [Hopper] Cell count force-set to: 3
+[53.59] [OperatorControl] Operator force-incremented the hopper ball count
+[53.59] [Hopper] Cell count force-set to: 4
+[54.27] [OperatorControl] Operator force-incremented the hopper ball count
+[54.27] [Hopper] Cell count force-set to: 5
+[60.67] [OperatorControl] Operator force-incremented the hopper ball count
+[60.69] [Hopper] Cell count force-set to: 2
+[60.91] [OperatorControl] Operator force-incremented the hopper ball count
+[60.91] [Hopper] Cell count force-set to: 3
+[61.17] [OperatorControl] Operator force-incremented the hopper ball count
+[61.17] [Hopper] Cell count force-set to: 4
+[61.41] [OperatorControl] Operator force-incremented the hopper ball count
+[61.41] [Hopper] Cell count force-set to: 5
+[69.39] [OperatorControl] Operator force-incremented the hopper ball count
+[69.39] [Hopper] Cell count force-set to: 1
+[69.63] [OperatorControl] Operator force-incremented the hopper ball count
+[69.63] [Hopper] Cell count force-set to: 2
+[69.85] [OperatorControl] Operator force-incremented the hopper ball count
+[69.85] [Hopper] Cell count force-set to: 3
+[70.07] [OperatorControl] Operator force-incremented the hopper ball count
+[70.07] [Hopper] Cell count force-set to: 4
+[70.31] [OperatorControl] Operator force-incremented the hopper ball count
+[70.31] [Hopper] Cell count force-set to: 5
+[88.65] [OperatorControl] Operator force-incremented the hopper ball count
+[88.65] [Hopper] Cell count force-set to: 1
+[88.91] [OperatorControl] Operator force-incremented the hopper ball count
+[88.91] [Hopper] Cell count force-set to: 2
+[89.07] [OperatorControl] Operator force-incremented the hopper ball count
+[89.07] [Hopper] Cell count force-set to: 3
+[89.29] [OperatorControl] Operator force-incremented the hopper ball count
+[89.29] [Hopper] Cell count force-set to: 4
+[89.79] [OperatorControl] Operator force-incremented the hopper ball count
+[89.79] [Hopper] Cell count force-set to: 5
+[103.09] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

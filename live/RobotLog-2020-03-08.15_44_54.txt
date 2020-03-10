@@ -1,0 +1,53 @@
+[389.98] [Robot] Robot disabled
+[389.98] [AnalyticsEngine] ----- Begin Match Analytics -----
+[389.98] [AnalyticsEngine] Balls shot: 6
+[389.98] [AnalyticsEngine] Balls loaded: 3
+[389.98] [AnalyticsEngine] ------ End Match Analytics ------
+[389.98] [AnalyticsEngine] Cleared event map
+[389.98] [DriveTrain] Disabling brakes
+[389.98] [DriveTrain] Stopping DriveTrain
+[389.98] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[389.98] [Climber] In service mode
+[390.00] [FaultReporter] Robot FPGA outputs have been disabled
+[390.44] [Robot] Teleop started
+[390.44] [DriveTrain] Enabling brakes
+[390.46] [Robot] Teleop started
+[390.46] [DriveTrain] Enabling brakes
+[390.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[390.46] [Climber] Locked
+[390.46] [Intake] System freeze requested
+[390.46] [Climber] Locked
+[390.46] [Intake] Freezing system
+[390.46] [IntakeCells] Intaking 5 cells
+[390.46] [Hopper] Lowering Balls
+[390.46] [IntakeCells] Intake action ended
+[390.46] [Hopper] Finished lowering balss
+[390.46] [Hopper] Lowering Balls
+[390.48] [Hopper] Finished lowering balss
+[390.48] [FaultReporter] Robot FPGA outputs have been enabled
+[390.50] [Hopper] Pushing balls to bottom
+[390.76] [Hopper] Incrementing ball position
+[391.04] [Hopper] Became idle
+[391.04] [Intake] System stow requested
+[391.04] [Shooter] Stop requested
+[391.04] [Intake] Stowing intake
+[391.08] [Shooter] System idle
+[401.50] [IntakeCells] Intaking 5 cells
+[401.52] [IntakeCells] Intake action ended
+[401.52] [IntakeCells] Intaking 5 cells
+[401.54] [Intake] Intake requested
+[401.54] [Hopper] Intake requested
+[401.54] [Shooter] Stop requested
+[401.54] [Intake] Intaking balls
+[401.56] [Hopper] Preparing to intake balls
+[401.58] [Shooter] System idle
+[404.52] [Hopper] Intaking balls
+[405.10] [Hopper] Preparing to intake balls
+[405.56] [OperatorControl] Operator force-decremented the hopper ball count
+[405.56] [Hopper] Cell count force-set to: 3
+[406.00] [OperatorControl] Operator force-decremented the hopper ball count
+[406.00] [Hopper] Cell count force-set to: 2
+[406.32] [Hopper] Intaking balls
+[406.88] [Hopper] Preparing to intake balls
+[408.32] [Hopper] Intaking balls
+[408.78] [IntakeCells] Intake action interrupted

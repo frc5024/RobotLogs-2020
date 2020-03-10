@@ -1,0 +1,12 @@
+[86.92] [Robot] Robot disabled
+[86.92] [AnalyticsEngine] ----- Begin Match Analytics -----
+[86.92] [AnalyticsEngine] Balls shot: 1
+[86.92] [AnalyticsEngine] ------ End Match Analytics ------
+[86.92] [AnalyticsEngine] Cleared event map
+[86.92] [DriveTrain] Disabling brakes
+[86.92] [DriveTrain] Stopping DriveTrain
+[86.92] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[86.92] [Climber] In service mode
+[86.94] [FaultReporter] Robot FPGA outputs have been disabled
+[87.16] [Hopper] Cell count force-set to: 0
+[87.18] [Hopper] Became idle

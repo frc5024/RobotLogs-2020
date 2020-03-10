@@ -1,0 +1,35 @@
+[2.94] [Robot] Robot disabled
+[2.94] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.94] [AnalyticsEngine] ------ End Match Analytics ------
+[2.94] [AnalyticsEngine] Cleared event map
+[2.94] [DriveTrain] Disabling brakes
+[2.94] [DriveTrain] Stopping DriveTrain
+[2.94] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.94] [Climber] In service mode
+[2.94] [Shooter] System idle
+[2.94] [Hopper] Became idle
+[2.94] [PanelManipulator] Became idle
+[2.94] [Intake] System stow requested
+[2.94] [Shooter] Stop requested
+[2.94] [Intake] Stowing intake
+[3.54] [Shooter] System idle
+[5.12] [Robot] Autonomous started
+[5.12] [Chooser] Generating autonomous command object
+[5.14] [Chooser] Reading autonomous position
+[5.14] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 0.00, Y: 0.00), Rotation2d(Rads: 0.00, Deg: 0.00))
+[5.14] [DriveTrain] Enabling brakes
+[5.16] [Chooser] Reading autonomous position
+[5.16] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 0.00, Y: 0.00), Rotation2d(Rads: 0.00, Deg: 0.00))
+[5.16] [DriveTrain] Enabling brakes
+[5.16] [FaultReporter] Robot FPGA outputs have been enabled
+[5.16] [Climber] Locked
+[5.16] [Hopper] Cell count force-set to: 3
+[5.20]  Starting autonomous actions
+[5.58] [DriveTrain] Stopping DriveTrain
+[5.58] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[5.60] [DriveTrain] Disabling brakes
+[5.60] [DriveTrain] Set control mode to VOLTAGE with signal: <5.06, 5.06>
+[7.28] [DriveTrain] Stopping DriveTrain
+[7.28] [DriveTrain] Enabling brakes
+[7.28] [DriveTrain] Set control mode to OPEN_LOOP with signal: <0.00, 0.00>
+[7.28] [DriveTrain] Setting DriveTrain ramp rate to: 0.12

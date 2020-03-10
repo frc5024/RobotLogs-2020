@@ -1,0 +1,56 @@
+[490.19] [Robot] Robot disabled
+[490.19] [AnalyticsEngine] ----- Begin Match Analytics -----
+[490.19] [AnalyticsEngine] Balls shot: 1
+[490.19] [AnalyticsEngine] ------ End Match Analytics ------
+[490.19] [AnalyticsEngine] Cleared event map
+[490.19] [DriveTrain] Disabling brakes
+[490.19] [DriveTrain] Stopping DriveTrain
+[490.19] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[490.19] [Climber] In service mode
+[490.19] [DriveTrain] Stopping DriveTrain
+[490.19] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[490.23] [FaultReporter] Robot FPGA outputs have been disabled
+[490.43] [Robot] Teleop started
+[490.43] [DriveTrain] Enabling brakes
+[490.43] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[490.43] [Climber] Locked
+[490.43] [Intake] System freeze requested
+[490.43] [Climber] Locked
+[490.43] [Intake] Freezing system
+[490.47] [FaultReporter] Robot FPGA outputs have been enabled
+[495.85] [DriveTrain] Stopping DriveTrain
+[495.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[495.85] [DriveTrain] Disabling brakes
+[495.99] [DriveTrain] Stopping DriveTrain
+[495.99] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[495.99] [DriveTrain] Enabling brakes
+[496.61] [DriveTrain] Stopping DriveTrain
+[496.61] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[496.61] [DriveTrain] Disabling brakes
+[496.63] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[496.93] [DriveTrain] Stopping DriveTrain
+[496.93] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[496.93] [DriveTrain] Enabling brakes
+[497.59] [DriveTrain] Stopping DriveTrain
+[497.59] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[497.59] [DriveTrain] Disabling brakes
+[497.69] [DriveTrain] Stopping DriveTrain
+[497.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[497.69] [DriveTrain] Enabling brakes
+[498.11] [ShootCells] Shooting 5 cells
+[498.13] [Intake] System stow requested
+[498.13] [Intake] Stowing intake
+[498.15] [Shooter] Spinning up to: 3560.00
+[498.15] [Hopper] Feeding balls to flywheel
+[498.37] [Hopper] Became idle
+[499.69] [Shooter] Holding. Spin-Up took 1.539 seconds
+[499.69] [Hopper] Feeding balls to flywheel
+[500.05] [Shooter] Spinning up to: 3560.00
+[500.25] [Shooter] Holding. Spin-Up took 0.2 seconds
+[500.57] [ShootCells] Shoot action ended
+[500.57] [ShootCells] Shooting 5 cells
+[500.59] [Hopper] Became idle
+[500.59] [ShootCells] Shoot action ended
+[500.59] [ShootCells] Shooting 5 cells
+[500.61] [ShootCells] Shoot action ended
+[500.61] [ShootCells] Shooting 5 cells

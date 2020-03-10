@@ -1,0 +1,17 @@
+[40.67] [Robot] Robot disabled
+[40.67] [AnalyticsEngine] ----- Begin Match Analytics -----
+[40.69] [Robot] Robot disabled
+[40.69] [AnalyticsEngine] ----- Begin Match Analytics -----
+[40.69] [AnalyticsEngine] Balls shot: 1
+[40.69] [AnalyticsEngine] ------ End Match Analytics ------
+[40.69] [AnalyticsEngine] Cleared event map
+[40.69] [DriveTrain] Disabling brakes
+[40.69] [DriveTrain] Stopping DriveTrain
+[40.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[40.69] [Climber] In service mode
+[40.69] [DriveTrain] Stopping DriveTrain
+[40.69] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[40.69] [FaultReporter] Robot FPGA outputs have been disabled
+[42.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[46.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[50.05] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

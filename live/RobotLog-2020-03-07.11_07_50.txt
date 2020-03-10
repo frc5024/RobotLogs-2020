@@ -1,0 +1,61 @@
+[79.73] [Robot] Robot disabled
+[79.73] [AnalyticsEngine] ----- Begin Match Analytics -----
+[79.73] [AnalyticsEngine] ------ End Match Analytics ------
+[79.73] [AnalyticsEngine] Cleared event map
+[79.73] [DriveTrain] Disabling brakes
+[79.73] [DriveTrain] Stopping DriveTrain
+[79.73] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[79.73] [Climber] In service mode
+[79.75] [FaultReporter] Robot FPGA outputs have been disabled
+[92.15] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[130.23] [Robot] Teleop started
+[130.23] [DriveTrain] Enabling brakes
+[130.23] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[130.23] [Climber] Locked
+[130.23] [Intake] System freeze requested
+[130.23] [Climber] Locked
+[130.23] [Intake] Freezing system
+[130.23] [FaultReporter] Robot FPGA outputs have been enabled
+[130.83] [IntakeCells] Intaking 5 cells
+[130.85] [Intake] Intake requested
+[130.85] [Hopper] Intake requested
+[130.85] [Shooter] Stop requested
+[130.85] [Intake] Intaking balls
+[130.87] [Hopper] Preparing to intake balls
+[130.89] [Shooter] System idle
+[131.07] [Hopper] Intaking balls
+[131.69] [Hopper] Preparing to intake balls
+[132.67] [Hopper] Intaking balls
+[133.49] [Hopper] Preparing to intake balls
+[133.85] [IntakeCells] Intake action interrupted
+[133.87] [Intake] System stow requested
+[133.87] [Shooter] Stop requested
+[133.87] [Intake] Stowing intake
+[133.89] [Hopper] Became idle
+[133.91] [Shooter] System idle
+[134.19] [ShootCells] Shooting 5 cells
+[134.21] [Intake] System stow requested
+[134.23] [Shooter] Spinning up to: 3560.00
+[134.23] [Hopper] Feeding balls to flywheel
+[135.23] [Hopper] Became idle
+[135.79] [Shooter] Holding. Spin-Up took 1.559 seconds
+[135.79] [Hopper] Feeding balls to flywheel
+[136.05] [ShootCells] Shoot action ended
+[136.05] [ShootCells] Shooting 5 cells
+[136.07] [Hopper] Became idle
+[136.07] [ShootCells] Shoot action ended
+[136.07] [ShootCells] Shooting 5 cells
+[136.09] [ShootCells] Shoot action ended
+[136.09] [ShootCells] Shooting 5 cells
+[136.11] [ShootCells] Shoot action ended
+[136.11] [ShootCells] Shooting 5 cells
+[136.13] [ShootCells] Shoot action ended
+[136.13] [ShootCells] Shooting 5 cells
+[136.15] [ShootCells] Shoot action ended
+[136.15] [ShootCells] Shooting 5 cells
+[136.17] [ShootCells] Shoot action ended
+[136.17] [ShootCells] Shooting 5 cells
+[136.19] [ShootCells] Shoot action ended
+[136.19] [ShootCells] Shooting 5 cells
+[136.21] [ShootCells] Shoot action ended
+[136.21] [ShootCells] Shooting 5 cells

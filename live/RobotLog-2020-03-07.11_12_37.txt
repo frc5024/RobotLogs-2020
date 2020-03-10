@@ -1,0 +1,14 @@
+[2.93] [AnalyticsEngine] ----- Begin Match Analytics -----
+[2.93] [AnalyticsEngine] ------ End Match Analytics ------
+[2.93] [AnalyticsEngine] Cleared event map
+[2.93] [DriveTrain] Disabling brakes
+[2.93] [DriveTrain] Stopping DriveTrain
+[2.93] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[2.93] [Climber] In service mode
+[2.93] [Shooter] System idle
+[2.93] [Hopper] Became idle
+[2.93] [PanelManipulator] Became idle
+[2.93] [Intake] System stow requested
+[2.93] [Shooter] Stop requested
+[2.93] [Intake] Stowing intake
+[3.36] [Shooter] System idle

@@ -1,0 +1,35 @@
+[8.01] [DriveTrain] Stopping DriveTrain
+[8.05] [Robot] Robot disabled
+[8.05] [AnalyticsEngine] ----- Begin Match Analytics -----
+[8.05] [AnalyticsEngine] ------ End Match Analytics ------
+[8.05] [AnalyticsEngine] Cleared event map
+[8.05] [DriveTrain] Disabling brakes
+[8.08] [Robot] Robot disabled
+[8.09] [Robot] Robot disabled
+[8.09] [AnalyticsEngine] ----- Begin Match Analytics -----
+[8.09] [AnalyticsEngine] ------ End Match Analytics ------
+[8.09] [AnalyticsEngine] Cleared event map
+[8.09] [DriveTrain] Disabling brakes
+[8.09] [DriveTrain] Stopping DriveTrain
+[8.12] [Robot] Robot disabled
+[8.12] [AnalyticsEngine] ----- Begin Match Analytics -----
+[8.12] [AnalyticsEngine] ------ End Match Analytics ------
+[8.12] [AnalyticsEngine] Cleared event map
+[8.12] [DriveTrain] Disabling brakes
+[8.12] [DriveTrain] Stopping DriveTrain
+[8.12] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[8.12] [Climber] In service mode
+[8.12] [Shooter] System idle
+[8.12] [Hopper] Became idle
+[8.12] [PanelManipulator] Became idle
+[8.12] [Intake] System stow requested
+[8.12] [Shooter] Stop requested
+[8.12] [Intake] Stowing intake
+[8.85] [Shooter] System idle
+[12.15] [Robot] Autonomous started
+[12.15] [Chooser] Generating autonomous command object
+[12.21] [Chooser] Reading autonomous position
+[12.21] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[12.21] [DriveTrain] Enabling brakes
+[12.21] [Climber] Locked
+[12.21] [Hopper] Cell count force-set to: 3

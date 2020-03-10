@@ -1,0 +1,44 @@
+[8.56] [Shooter] System idle
+[38.56] [Robot] Autonomous started
+[38.56] [Chooser] Generating autonomous command object
+[38.62] [Chooser] Reading autonomous position
+[38.62] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.62] [DriveTrain] Enabling brakes
+[38.62] [Climber] Locked
+[38.62] [Hopper] Cell count force-set to: 3
+[38.64] [Chooser] Reading autonomous position
+[38.64] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.64] [DriveTrain] Enabling brakes
+[38.64] [Climber] Locked
+[38.66] [Chooser] Reading autonomous position
+[38.66] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.66] [DriveTrain] Enabling brakes
+[38.66] [Climber] Locked
+[38.66] [Hopper] Cell count force-set to: 3
+[38.66]  Starting autonomous actions
+[38.68] [Chooser] Reading autonomous position
+[38.68] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.68] [DriveTrain] Enabling brakes
+[38.68] [Climber] Locked
+[38.68] [Hopper] Cell count force-set to: 3
+[38.68]  Starting autonomous actions
+[38.70] [Chooser] Reading autonomous position
+[38.70] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.70] [DriveTrain] Enabling brakes
+[38.70] [Climber] Locked
+[38.70] [Hopper] Cell count force-set to: 3
+[38.70]  Starting autonomous actions
+[38.70] [FaultReporter] Robot FPGA outputs have been enabled
+[38.70] [Hopper] Cell count force-set to: 3
+[38.70] [Hopper] Cell count force-set to: 3
+[38.70] [Hopper] Cell count force-set to: 3
+[38.70] [Hopper] Cell count force-set to: 3
+[38.70] [Hopper] Cell count force-set to: 3
+[38.72] [Chooser] Reading autonomous position
+[38.72] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[38.72] [DriveTrain] Enabling brakes
+[38.72] [Climber] Locked
+[38.72] [Hopper] Cell count force-set to: 3
+[38.72]  Starting autonomous actions
+[38.72] [FaultReporter] Robot FPGA outputs have been enabled
+[38.72] [Hopper] Cell count force-set to: 3

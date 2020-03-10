@@ -1,0 +1,8 @@
+[8.27] [Shooter] System idle
+[61.11] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[123.19] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[177.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[181.27] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[212.31] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[243.35] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[245.35] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

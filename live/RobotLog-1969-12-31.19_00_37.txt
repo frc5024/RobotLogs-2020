@@ -1,0 +1,36 @@
+[7.42] [Robot] Robot disabled
+[7.44] [AnalyticsEngine] ----- Begin Match Analytics -----
+[7.50] [AnalyticsEngine] ------ End Match Analytics ------
+[7.50] [AnalyticsEngine] Cleared event map
+[7.52] [AnalyticsEngine] ------ End Match Analytics ------
+[7.52] [AnalyticsEngine] Cleared event map
+[7.52] [DriveTrain] Disabling brakes
+[7.52] [DriveTrain] Stopping DriveTrain
+[7.54] [AnalyticsEngine] ------ End Match Analytics ------
+[7.54] [AnalyticsEngine] Cleared event map
+[7.54] [DriveTrain] Disabling brakes
+[7.57] [AnalyticsEngine] ------ End Match Analytics ------
+[7.57] [AnalyticsEngine] Cleared event map
+[7.60] [AnalyticsEngine] ------ End Match Analytics ------
+[7.60] [AnalyticsEngine] Cleared event map
+[7.60] [DriveTrain] Disabling brakes
+[7.60] [DriveTrain] Stopping DriveTrain
+[7.60] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.60] [Climber] In service mode
+[7.60] [Shooter] System idle
+[7.60] [Hopper] Became idle
+[7.74] [PanelManipulator] Became idle
+[7.74] [Intake] System stow requested
+[7.76] [PanelManipulator] Became idle
+[7.76] [Intake] System stow requested
+[7.76] [Shooter] Stop requested
+[7.76] [Intake] Stowing intake
+[8.44] [Shooter] System idle
+[13.10] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[40.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[44.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[48.12] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[71.16] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[75.16] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[102.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[106.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

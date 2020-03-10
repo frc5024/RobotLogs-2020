@@ -1,0 +1,51 @@
+[874.02] [IntakeCells] Intake action interrupted
+[874.02] [DrivePath] Finished driving path
+[874.04] [IntakeCells] Intake action interrupted
+[874.04] [DrivePath] Finished driving path
+[874.04] [DriveTrain] Stopping DriveTrain
+[874.04] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[874.04] [Intake] System stow requested
+[874.06] [IntakeCells] Intake action interrupted
+[874.06] [DrivePath] Finished driving path
+[874.06] [DriveTrain] Stopping DriveTrain
+[874.06] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[874.06] [Intake] System stow requested
+[874.06] [Shooter] Stop requested
+[874.06] [Intake] Stowing intake
+[874.06] [Autonomous] Performing Turn 1
+[874.06] [Hopper] Became idle
+[874.08] [Shooter] System idle
+[874.20] [Robot] Robot disabled
+[874.20] [AnalyticsEngine] ----- Begin Match Analytics -----
+[874.20] [AnalyticsEngine] Balls shot: 4
+[874.20] [AnalyticsEngine] ------ End Match Analytics ------
+[874.20] [AnalyticsEngine] Cleared event map
+[874.20] [DriveTrain] Disabling brakes
+[874.20] [DriveTrain] Stopping DriveTrain
+[874.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[874.20] [Climber] In service mode
+[874.20] [DriveTrain] Stopping DriveTrain
+[874.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[874.22] [FaultReporter] Robot FPGA outputs have been disabled
+[946.74] [Robot] Teleop started
+[946.74] [DriveTrain] Enabling brakes
+[946.74] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[946.74] [Climber] Locked
+[946.74] [Intake] System freeze requested
+[946.74] [Climber] Locked
+[946.74] [Intake] Freezing system
+[946.78] [FaultReporter] Robot FPGA outputs have been enabled
+[947.18] [IntakeCells] Intaking 5 cells
+[947.20] [Intake] Intake requested
+[947.20] [Hopper] Intake requested
+[947.20] [Shooter] Stop requested
+[947.20] [Intake] Intaking balls
+[947.22] [Hopper] Preparing to intake balls
+[947.24] [Shooter] System idle
+[947.62] [IntakeCells] Intake action interrupted
+[947.64] [Intake] System stow requested
+[947.64] [Shooter] Stop requested
+[947.64] [Intake] Stowing intake
+[947.66] [Hopper] Became idle
+[947.68] [Hopper] Became idle
+[947.68] [Shooter] System idle
