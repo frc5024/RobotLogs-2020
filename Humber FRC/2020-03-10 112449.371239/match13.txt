@@ -1,0 +1,95 @@
+[3.46] [Shooter] System idle
+[121.14] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[162.46] [Robot] Teleop started
+[162.46] [DriveTrain] Enabling brakes
+[162.46] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[162.46] [Climber] Locked
+[162.46] [Intake] System freeze requested
+[162.46] [Climber] Locked
+[162.48] [Intake] Freezing system
+[162.52] [FaultReporter] Robot FPGA outputs have been enabled
+[162.56] [IntakeCells] Intaking 5 cells
+[162.56] [Intake] Intake requested
+[162.56] [Hopper] Intake requested
+[162.56] [Shooter] Stop requested
+[162.56] [Intake] Intaking balls
+[162.58] [Hopper] Preparing to intake balls
+[162.58] [Shooter] System idle
+[163.48] [IntakeCells] Intake action interrupted
+[163.50] [Intake] System stow requested
+[163.50] [Shooter] Stop requested
+[163.50] [Intake] Stowing intake
+[163.52] [Hopper] Became idle
+[163.54] [Shooter] System idle
+[165.20] [Robot] Robot disabled
+[165.20] [AnalyticsEngine] ----- Begin Match Analytics -----
+[165.20] [AnalyticsEngine] ------ End Match Analytics ------
+[165.20] [AnalyticsEngine] Cleared event map
+[165.20] [DriveTrain] Disabling brakes
+[165.20] [DriveTrain] Stopping DriveTrain
+[165.20] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[165.20] [Climber] In service mode
+[165.22] [FaultReporter] Robot FPGA outputs have been disabled
+[193.52] [Robot] Teleop started
+[193.54] [Robot] Teleop started
+[193.54] [DriveTrain] Enabling brakes
+[193.54] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[193.54] [Climber] Locked
+[193.54] [Intake] System freeze requested
+[193.54] [Climber] Locked
+[193.54] [Intake] Freezing system
+[193.54] [FaultReporter] Robot FPGA outputs have been enabled
+[194.24] [IntakeCells] Intaking 5 cells
+[194.26] [Intake] Intake requested
+[194.26] [Hopper] Intake requested
+[194.26] [Shooter] Stop requested
+[194.26] [Intake] Intaking balls
+[194.28] [Hopper] Preparing to intake balls
+[194.30] [Shooter] System idle
+[195.68] [Robot] Robot disabled
+[195.68] [AnalyticsEngine] ----- Begin Match Analytics -----
+[195.68] [AnalyticsEngine] ------ End Match Analytics ------
+[195.68] [AnalyticsEngine] Cleared event map
+[195.68] [DriveTrain] Disabling brakes
+[195.68] [DriveTrain] Stopping DriveTrain
+[195.68] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[195.68] [IntakeCells] Intake action interrupted
+[195.68] [Climber] In service mode
+[195.68] [Intake] System stow requested
+[195.68] [Shooter] Stop requested
+[195.68] [Intake] Stowing intake
+[195.70] [Hopper] Became idle
+[195.70] [FaultReporter] Robot FPGA outputs have been disabled
+[195.72] [Shooter] System idle
+[253.82] [Robot] Teleop started
+[253.82] [DriveTrain] Enabling brakes
+[253.82] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[253.82] [Climber] Locked
+[253.82] [Intake] System freeze requested
+[253.82] [Climber] Locked
+[253.86] [FaultReporter] Robot FPGA outputs have been enabled
+[253.94] [Intake] Freezing system
+[253.94] [IntakeCells] Intaking 5 cells
+[253.96] [Intake] Intake requested
+[253.96] [Hopper] Intake requested
+[253.96] [Shooter] Stop requested
+[253.96] [Intake] Intaking balls
+[253.96] [Hopper] Preparing to intake balls
+[253.98] [Shooter] System idle
+[254.52] [IntakeCells] Intake action interrupted
+[254.54] [Intake] System stow requested
+[254.54] [Shooter] Stop requested
+[254.54] [Intake] Stowing intake
+[254.56] [Hopper] Became idle
+[254.58] [Shooter] System idle
+[255.84] [Robot] Robot disabled
+[255.84] [AnalyticsEngine] ----- Begin Match Analytics -----
+[255.84] [AnalyticsEngine] ------ End Match Analytics ------
+[255.84] [AnalyticsEngine] Cleared event map
+[255.84] [DriveTrain] Disabling brakes
+[255.84] [DriveTrain] Stopping DriveTrain
+[255.84] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[255.84] [Climber] In service mode
+[255.86] [FaultReporter] Robot FPGA outputs have been disabled
+[290.26] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[349.30] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

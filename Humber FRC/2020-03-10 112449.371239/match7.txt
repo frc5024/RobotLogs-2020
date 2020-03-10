@@ -1,0 +1,52 @@
+[3.29] [Shooter] System idle
+[22.71] [Robot] Autonomous started
+[22.71] [Chooser] Generating autonomous command object
+[22.73] [Chooser] Reading autonomous position
+[22.73] [DriveTrain] Set odometry position to: Pose2d(Translation2d(X: 2.49, Y: 5.11), Rotation2d(Rads: -3.14, Deg: -180.00))
+[22.73] [DriveTrain] Enabling brakes
+[22.73] [Climber] Locked
+[22.73] [Hopper] Cell count force-set to: 3
+[22.75]  Starting autonomous actions
+[22.79] [FaultReporter] Robot FPGA outputs have been enabled
+[22.79] [Autonomous] Ensuring robot is facing proper heading
+[22.85] [DriveTrain] Stopping DriveTrain
+[22.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[22.87] [Autonomous] Shooting 3 cells
+[22.87] [Hopper] Cell count force-set to: 3
+[22.89] [ShootCells] Shooting 3 cells
+[22.91] [Intake] System stow requested
+[22.93] [Shooter] Spinning up to: 3693.50
+[22.93] [Hopper] Feeding balls to flywheel
+[23.15] [Hopper] Became idle
+[24.43] [Shooter] Holding. Spin-Up took 1.5 seconds
+[24.43] [Hopper] Feeding balls to flywheel
+[24.73] [Shooter] Spinning up to: 3693.50
+[24.95] [Shooter] Holding. Spin-Up took 0.22 seconds
+[25.23] [Shooter] Spinning up to: 3693.50
+[25.23] [Hopper] Became idle
+[25.27] [Hopper] Feeding balls to flywheel
+[25.31] [Shooter] Holding. Spin-Up took 0.08 seconds
+[25.43] [Shooter] Spinning up to: 3693.50
+[25.61] [Shooter] Holding. Spin-Up took 0.18 seconds
+[25.81] [ShootCells] Shoot action ended
+[25.83] [Hopper] Became idle
+[25.83] [Intake] System stow requested
+[25.83] [Shooter] Stop requested
+[25.83] [Autonomous] Driving Backwards
+[25.87] [Shooter] System idle
+[27.11] [DriveTrain] Stopping DriveTrain
+[27.11] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[28.35] [DriveTrain] Stopping DriveTrain
+[28.35] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[30.43] [Robot] Robot disabled
+[30.43] [AnalyticsEngine] ----- Begin Match Analytics -----
+[30.43] [AnalyticsEngine] Balls shot: 4
+[30.43] [AnalyticsEngine] ------ End Match Analytics ------
+[30.43] [AnalyticsEngine] Cleared event map
+[30.43] [DriveTrain] Disabling brakes
+[30.43] [DriveTrain] Stopping DriveTrain
+[30.43] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[30.43] [Climber] In service mode
+[30.43] [DriveTrain] Stopping DriveTrain
+[30.43] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[30.45] [FaultReporter] Robot FPGA outputs have been disabled

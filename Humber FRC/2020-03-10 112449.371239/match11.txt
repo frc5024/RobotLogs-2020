@@ -1,0 +1,24 @@
+[7.80] [Robot] Robot disabled
+[7.80] [AnalyticsEngine] ----- Begin Match Analytics -----
+[7.84] [Robot] Robot disabled
+[7.86] [Robot] Robot disabled
+[7.88] [Robot] Robot disabled
+[7.90] [Robot] Robot disabled
+[7.90] [AnalyticsEngine] ----- Begin Match Analytics -----
+[7.94] [Robot] Robot disabled
+[7.96] [Robot] Robot disabled
+[7.96] [AnalyticsEngine] ----- Begin Match Analytics -----
+[7.96] [AnalyticsEngine] ------ End Match Analytics ------
+[7.96] [AnalyticsEngine] Cleared event map
+[7.96] [DriveTrain] Disabling brakes
+[7.96] [DriveTrain] Stopping DriveTrain
+[7.96] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[7.96] [Climber] In service mode
+[7.96] [Shooter] System idle
+[7.96] [Hopper] Became idle
+[7.96] [PanelManipulator] Became idle
+[7.96] [Intake] System stow requested
+[7.96] [Shooter] Stop requested
+[7.96] [Intake] Stowing intake
+[8.58] [Shooter] System idle
+[91.20] WARNING: [FaultReporter] CAN bus utilization has passed %0.9

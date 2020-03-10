@@ -1,0 +1,26 @@
+[3.19] [Shooter] System idle
+[7.25] [Robot] Teleop started
+[7.25] [DriveTrain] Enabling brakes
+[7.27] [DriveTrain] Setting DriveTrain ramp rate to: 0.20
+[7.27] [Climber] Locked
+[7.27] [Intake] System freeze requested
+[7.27] [Climber] Locked
+[7.29] [Intake] Freezing system
+[7.31] [FaultReporter] Robot FPGA outputs have been enabled
+[9.15] [Climber] Unlocked
+[13.23] [Climber] Locked
+[14.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[14.31] [Climber] Unlocked
+[15.19] [Climber] Locked
+[15.85] [Robot] Robot disabled
+[15.85] [AnalyticsEngine] ----- Begin Match Analytics -----
+[15.85] [AnalyticsEngine] Climb requests: 2
+[15.85] [AnalyticsEngine] ------ End Match Analytics ------
+[15.85] [AnalyticsEngine] Cleared event map
+[15.85] [DriveTrain] Disabling brakes
+[15.85] [DriveTrain] Stopping DriveTrain
+[15.85] [DriveTrain] Setting DriveTrain ramp rate to: 0.12
+[15.85] [Climber] In service mode
+[15.87] [FaultReporter] Robot FPGA outputs have been disabled
+[18.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
+[22.03] WARNING: [FaultReporter] CAN bus utilization has passed %0.9
